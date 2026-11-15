@@ -1,0 +1,176 @@
+{% extends "base.html" %}
+{% macro item(label, value, link=false) %}{% if has(value) %}
+<dt>{{ label }}</dt><dd>{{ (value | doi if link == 'doi' else value | lk) if link else (value | t) }}</dd>
+{% endif %}{% endmacro %}
+{% macro dsl(items) %}{% for id, name in items %}<li><a href="{{ u('dataset', id) }}">{{ name | t }}</a></li>{% endfor %}{% endmacro %}
+{% set acr = row.acronym | acr %}
+{% block title %}{{ row.name | scrub }}{% if acr and acr not in (row.name | scrub) %} ({{ acr }}){% endif %} | {{ site_title }}{% endblock %}
+{% block description %}{{ desc }}{% endblock %}
+{% block canonical %}{{ page_url }}{% endblock %}
+{% block head %}<script type="application/ld+json">{{ jsonld }}</script>{% endblock %}
+{% block body_class %}dataset dom-{{ row.primary_domain }}{% endblock %}
+{% block main %}
+<nav class="crumbs" aria-label="Breadcrumb"><a href="{{ home_url }}">Home</a> <span aria-hidden="true">/</span> {% if row.primary_domain in domain_name %}<a href="{{ u('domain', row.primary_domain) }}">{{ domain_name[row.primary_domain] }}</a>{% endif %}</nav>
+
+<header class="page-head">
+  <p class="kicker"><span class="eid">{{ row.id }}</span>{% if type_label %} &middot; {{ type_label }}{% endif %}</p>
+  <h1>{{ row.name | t }}</h1>
+  {% if acr %}<p class="acr-line">{{ acr }}</p>{% endif %}
+  <ul class="chips" aria-label="Subfields, status and access">
+    {% if row.primary_domain in domain_name %}<li><a class="badge primary dom-{{ row.primary_domain }}" href="{{ u('domain', row.primary_domain) }}" title="Primary subfield">{{ domain_name[row.primary_domain] }}</a></li>{% endif %}
+    {% for c in secondary %}<li><a class="badge dom-{{ c }}" href="{{ u('domain', c) }}" title="Secondary subfield">{{ domain_name[c] }}</a></li>{% endfor %}
+    <li class="chip status-{{ status_word or 'unknown' }}"><span class="vh">Status: </span>{% if status_word %}{{ status_word }}{% else %}status {{ row.status | t }}{% endif %}</li>
+    <li class="chip access"><span class="vh">Access: </span>{% if has(row.access_level) and not is_unv(row.access_level) %}{{ row.access_level | t }} access{% else %}access {{ row.access_level | t }}{% endif %}</li>
+  </ul>
+  {% if has(row.maintainer) %}<p class="maint"><span class="lbl">Maintainer:</span> {{ row.maintainer | t }}</p>{% endif %}
+</header>
+
+<p class="summary">{{ desc }}</p>
+
+<section id="links" aria-labelledby="links-h">
+  <h2 id="links-h">Access</h2>
+  <dl class="facts">
+    {% for l in links %}
+    <dt>{{ l.label }}</dt>
+    <dd>{% if l.url %}<a href="{{ l.url }}">{{ l.url }}</a>{% else %}{{ l.text | lk }}{% endif %}{% if l.status %} <span class="lstat" title="{{ l.status[1] }}"><span aria-hidden="true">{{ l.status[0] }}</span><span class="vh">link status: {{ l.status[2] }}</span></span>{% endif %}</dd>
+    {% endfor %}
+    {{ item('Formats', row.formats) }}
+    {{ item('Access level', row.access_level) }}
+    {{ item('Licence', row.license, true) }}
+    {{ item('Programmatic access', row.programmatic_access, true) }}
+    {{ item('Institutional access', row.institutional_access_note, true) }}
+  </dl>
+  {% if has(row.links_checked) %}<p class="note">Links checked {{ row.links_checked | t }}.</p>{% endif %}
+</section>
+
+<section id="cite" aria-labelledby="cite-h">
+  <h2 id="cite-h">Cite</h2>
+  {% if has(row.citation) %}
+  <blockquote class="cite-text" id="cite-text">{{ row.citation | lk }}</blockquote>
+  <button type="button" class="copy" data-copy="cite-text" hidden>Copy citation</button>
+  {% endif %}
+  <dl class="facts">{{ item('DOI', row.doi, 'doi') }}{{ item('Release', row.release_date) }}{{ item('Version', row.version) }}</dl>
+  <p class="cite-entry"><span class="lbl">Cite this entry:</span> {{ cite }}</p>
+</section>
+
+<section id="design" aria-labelledby="design-h">
+  <h2 id="design-h">Design and coverage</h2>
+  <dl class="facts">
+    {{ item('Unit of analysis', row.unit_of_analysis) }}
+    {{ item('Spatial coverage', row.spatial_coverage) }}
+    {{ item('Temporal coverage', row.temporal_coverage) }}
+    {{ item('Temporal resolution', row.temporal_resolution) }}
+    {{ item('Size', row.size) }}
+    {{ item('Generation method', row.generation_method) }}
+    {{ item('Measurement', row.measurement_approach) }}
+    {% if has(row.key_variables) %}
+    <dt>Key variables</dt>
+    <dd><ul class="kv">{% for k in split_list(row.key_variables) %}<li>{{ k | t }}</li>{% endfor %}</ul></dd>
+    {% endif %}
+  </dl>
+</section>
+
+<section id="use" aria-labelledby="use-h">
+  <h2 id="use-h">Use</h2>
+  <dl class="facts">
+    {{ item('Best used for', row.best_used_for) }}
+    {{ item('Strengths', row.strengths) }}
+    {{ item('Limitations', row.limitations) }}
+    {{ item('Avoid for', row.avoid_for) }}
+    {{ item('Notable uses', row.notable_uses) }}
+  </dl>
+</section>
+
+<section id="quality" aria-labelledby="quality-h">
+  <h2 id="quality-h">Quality (provisional)</h2>
+  <p class="provisional">{% if u('methods') %}<a href="{{ u('methods') }}#rubric">{{ provisional }}</a>{% else %}{{ provisional }}{% endif %}. Scores run from 1 to 5 on the catalog's rubric.</p>
+  <dl class="dims">
+    {% for name, n in dims %}
+    <dt>{{ name }}</dt>
+    <dd>{% if n %}<span class="dots" role="img" aria-label="{{ n }} of 5">{% for i in range(1, 6) %}<span class="dot{{ ' on' if i <= n }}"></span>{% endfor %}</span> <span class="n">{{ n }}</span>{% else %}<span class="unv" title="Not confirmed on an official page opened during compilation">not scored</span>{% endif %}</dd>
+    {% endfor %}
+  </dl>
+  {% if has(row.q_overall) %}<p>Unweighted mean of the eight scores: {{ row.q_overall | t }}.</p>{% endif %}
+  {% if has(row.quality_justification) %}<details><summary>Reasons for the scores</summary><p>{{ row.quality_justification | t }}</p></details>{% endif %}
+</section>
+
+<section id="citations" aria-labelledby="citations-h">
+  <h2 id="citations-h">Citations</h2>
+  <dl class="facts">
+    {{ item('Citation count', row.citation_count) }}
+    {% if work %}
+    <dt>OpenAlex</dt>
+    <dd>{{ work.get('cited_by_count', '') }} citing works of <a href="https://openalex.org/{{ work['openalex_id'] }}">{{ work.get('work_title', '') or work['openalex_id'] }}</a>{% if work.get('work_year') %} ({{ work['work_year'] }}){% endif %}, checked {{ work.get('checked_on', '') }}.
+      {% if spark %}<span class="spark">{{ spark }}</span>{% endif %}</dd>
+    {% endif %}
+    {% if shares %}
+    <dt>Same reference work</dt>
+    <dd><ul class="inline">{{ dsl(shares) }}</ul></dd>
+    {% endif %}
+  </dl>
+</section>
+
+{% if top5 %}
+<section id="alongside" aria-labelledby="alongside-h">
+  <h2 id="alongside-h">Used alongside</h2>
+  <p class="note">Datasets most often cited by the same works.</p>
+  <ul class="ds-links">{{ dsl(top5) }}</ul>
+</section>
+{% endif %}
+
+{% if systems %}
+<section id="merge" aria-labelledby="merge-h">
+  <h2 id="merge-h">Merge partners</h2>
+  <p>Identifier systems: {{ systems | join('; ') }}</p>
+  {% if partners[1] %}
+  <p class="note">Other datasets keyed on {{ partners[0] }}{% if u('explore') and partners_all %} (<a href="{{ u('explore') }}#ids={{ partners_all | join(',') }}&amp;via={{ ('keyed on ' ~ partners[0] ~ ' (merge partners of ' ~ row.id ~ ')') | urlencode }}">all {{ partners_all | length }} in the explorer</a>){% endif %}:</p>
+  <ul class="ds-links">{{ dsl(partners[1]) }}</ul>
+  {% endif %}
+</section>
+{% endif %}
+
+{% if groups or related %}
+<section id="related" aria-labelledby="related-h">
+  <h2 id="related-h">Comparisons and related datasets</h2>
+  {% if groups %}
+  <p class="lbl">Comparison groups</p>
+  <ul class="ds-links">{% for slug, name in groups %}<li>{% if u('compare') %}<a href="{{ u('compare', slug) }}">{{ name | t }}</a>{% else %}{{ name | t }}{% endif %}</li>{% endfor %}</ul>
+  {% endif %}
+  {% if related %}
+  <p class="lbl">Related datasets</p>
+  <ul class="ds-links">{% for id, name in related %}<li>{% if id %}<a href="{{ u('dataset', id) }}">{{ name | t }}</a>{% else %}{{ name | t }}{% endif %}</li>{% endfor %}</ul>
+  {% endif %}
+</section>
+{% endif %}
+
+<section id="maintenance" aria-labelledby="maintenance-h">
+  <h2 id="maintenance-h">Maintenance</h2>
+  <dl class="facts">
+    {{ item('Update frequency', row.update_frequency) }}
+    {{ item('Last update', row.last_update) }}
+    {% if successor %}<dt>Status</dt><dd>Superseded by <a href="{{ u('dataset', successor[0]) }}">{{ successor[1] | t }}</a></dd>
+    {% else %}{{ item('Status', row.status) }}{% endif %}
+  </dl>
+</section>
+
+<section id="provenance" aria-labelledby="provenance-h">
+  <h2 id="provenance-h">Provenance</h2>
+  <dl class="facts">
+    {{ item('Library guides', row.guide_count) }}
+    {% if guides %}<dt>Listed by</dt><dd>{{ guides | join('; ') }}</dd>{% endif %}
+    {{ item('Last verified', row.last_verified_on) }}
+    {{ item('Confidence', row.confidence) }}
+  </dl>
+  {% if has(row.unverified_notes) %}<details><summary>Verification notes</summary><p>{{ row.unverified_notes | t }}</p></details>{% endif %}
+  {% if report_url %}<p class="report"><a href="{{ report_url }}">Report a problem with this entry</a></p>{% endif %}
+</section>
+{% endblock %}
+{% block scripts %}
+<script>
+addEventListener("beforeprint",function(){document.querySelectorAll("details:not([open])").forEach(function(d){d.open=true;d.dataset.p=1})});
+addEventListener("afterprint",function(){document.querySelectorAll("details[data-p]").forEach(function(d){d.open=false;delete d.dataset.p})});
+(function(){var b=document.querySelector("button[data-copy]");if(!b||!navigator.clipboard)return;b.hidden=false;
+b.addEventListener("click",function(){var t=document.getElementById(b.getAttribute("data-copy")).innerText;
+navigator.clipboard.writeText(t).then(function(){b.textContent="Copied";setTimeout(function(){b.textContent="Copy citation"},1500)})})})();
+</script>
+{% endblock %}

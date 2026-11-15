@@ -1,0 +1,7 @@
+{
+ "landscape": ["Fixture landscape paragraph for the regimes domain."],
+ "core": [{"id": "REG-001", "text": "Fixture core text for the flagship regimes dataset."},
+          {"id": "REG-061", "text": "Fixture core text for a dataset that is not a network node."}],
+ "choosing": ["Fixture choosing paragraph."],
+ "gaps": ["Fixture gap paragraph."]
+}

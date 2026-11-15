@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "id": "https://openalex.org/W4000000001",
+      "display_name": "Wrong Paper About Something Else Entirely",
+      "publication_year": 2010,
+      "type": "article",
+      "cited_by_count": 3,
+      "counts_by_year": [{"year": 2020, "cited_by_count": 1}],
+      "authorships": [{"author": {"display_name": "Zed Other"}}]
+    },
+    {
+      "id": "https://openalex.org/W4000000002",
+      "display_name": "Measuring Democracy With Expert Surveys",
+      "publication_year": 2011,
+      "type": "article",
+      "cited_by_count": 77,
+      "counts_by_year": [{"year": 2024, "cited_by_count": 9}, {"year": 2023, "cited_by_count": 8}],
+      "authorships": [{"author": {"display_name": "Maria Lopez-Garcia"}}, {"author": {"display_name": "Jane Smith"}}]
+    },
+    {
+      "id": "https://openalex.org/W4000000003",
+      "display_name": "Measuring Democracy With Expert Surveys",
+      "publication_year": 2011,
+      "type": "article",
+      "cited_by_count": 5,
+      "counts_by_year": [],
+      "authorships": [{"author": {"display_name": "Someone Else"}}]
+    }
+  ],
+  "meta": {"count": 3}
+}

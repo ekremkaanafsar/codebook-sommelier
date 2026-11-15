@@ -1,0 +1,22 @@
+{
+ "landscape": [
+  "Fixture landscape paragraph one for IR.",
+  "Fixture landscape paragraph two for IR."
+ ],
+ "core": [
+  {
+   "id": "IR-001",
+   "text": "Fixture core paragraph for IR-001."
+  },
+  {
+   "id": "IR-002",
+   "text": "Fixture core paragraph for IR-002."
+  }
+ ],
+ "choosing": [
+  "Fixture advice on choosing among IR datasets."
+ ],
+ "gaps": [
+  "Fixture gaps paragraph for IR."
+ ]
+}

@@ -1,0 +1,45 @@
+{
+  "landscape": [
+    "Historical political data come in four families. Historical statistics compendia digitise national statistical yearbooks and reconstructions. They include Historical Statistics of the United States (HIST-001) and of Canada (HIST-002), German histat (HIST-007), Swiss, Swedish, Norwegian, Italian, Irish, French and Dutch collections (HIST-008 to HIST-018), Latin American MOxLAD (HIST-019) and Japanese and Asian series (HIST-020 to HIST-022). Mitchell's International Historical Statistics (PE-021) and Clio Infra and Maddison (under PE) remain widely used cross-national compilations.",
+    "Micro-level historical data link individuals and places. Sources include U.S. full-count censuses and the Multigenerational Longitudinal Panel (HIST-025/026), the Census Linking Project (HIST-029), NAPP (HIST-027), British I-CeM (HIST-028), and Canadian, Dutch and Norwegian population registers and samples (HIST-030 to HIST-032). Elite and biographical data (CBDB HIST-070, the cross-verified notable people database HIST-071, Pantheon HIST-072, European elite lifespans HIST-073) describe political elites. So do historical legislator data (LEG-088 to LEG-093), including German Reichstag deputies and roll calls and Canadian House and Senate divisions since 1867. The Habsburg Manifesto Dataset (PARTY-076) adds coded party appeals for Imperial Austria.",
+    "Long-run economic and fiscal series measure prices, wages, output, money and state finance over centuries. Sources include MeasuringWorth (HIST-034), the Global Price and Income History Group (HIST-037), the Medieval and Early Modern Data Bank (HIST-035), the Bank of England millennium dataset (HIST-041), Swedish monetary statistics (HIST-043) and the European State Finance Database (HIST-044).",
+    "Comparative historical political data cover polities, empires and violence. Polity and empire data include Seshat (HIST-051), state mortality (HIST-052), historical state names (HIST-053), European states 1100-1790 (HIST-055), and colonial dates and colonial history (COLDAT HIST-045, ICOW HIST-046). Further files cover the slave trade (SlaveVoyages HIST-058/059) and pre-1945 conflict (Brecke HIST-063, early modern wars HIST-064/065, historical terrorism HIST-067, social conflict HIST-069). Historical U.S. election returns sit under ELEC (ELEC-150 to ELEC-155)."
+  ],
+  "core": [
+    {
+      "id": "HIST-001",
+      "text": "Historical Statistics of the United States, Millennial Edition (Carter, Gartner, Haines, Olmstead, Sutch and Wright, eds.) assembles 37,339 series on population, the economy, government and elections from colonial times to about 2000 in more than 1,900 tables. It is a standard starting point for long-run U.S. series. In 2026 Cambridge University Press licensed it to the Economic History Association and removed login requirements, so the archived edition is now free, although many library guides still list it as subscription-only. It is frozen, so recent years must be spliced from current agency data."
+    },
+    {
+      "id": "HIST-025",
+      "text": "IPUMS full-count census data provide over 800 million person records for the U.S. censuses of 1850-1950 and household records for 1790-1840. They make individual- and county-level historical analysis of voting-age populations, migration and occupations possible. The public edition needs a free account; names and string fields are restricted. Because the data come from genealogical transcriptions, errors in names, ages and occupations remain. Panels should be built with the linked Multigenerational Longitudinal Panel (HIST-026) and the Census Linking Project crosswalks (HIST-029)."
+    },
+    {
+      "id": "HIST-051",
+      "text": "Seshat: Global History Databank codes social complexity, institutions, religion and warfare for hundreds of past polities. The Polaris2025 release has 625 polities and 172 variables, and a Polaris2026 spreadsheet is now offered as the newest snapshot. It is widely used as a cross-cultural source in long-run comparative political science. Missingness is heavy for small and early polities, and analytic choices about missing values can reverse results (Beheim et al. 2021)."
+    },
+    {
+      "id": "HIST-058",
+      "text": "The Trans-Atlantic Slave Trade Database (SlaveVoyages) records over 36,000 voyages with 274 variables from 1514 to 1866, with a companion Intra-American database (HIST-059) and estimates of total volumes. It is the basis for studies of the slave trade's political and economic legacies. Recorded voyages do not cover the whole trade, so totals rest on imputation, and coverage is uneven by carrier and period."
+    },
+    {
+      "id": "HIST-045",
+      "text": "COLDAT records the start and end dates of colonial rule by eight European empires (1462-1984) for present-day states and is open on Harvard Dataverse. ICOW Colonial History (HIST-046) gives colonial ruler and independence data for states in the COW system. COLDAT inherits the errors of its secondary sources and excludes non-European and land-based empires."
+    }
+  ],
+  "choosing": [
+    "For long-run U.S. statistics, start with HSUS (HIST-001) and splice recent years from the original agencies; for historical county data use the Haines collection (HIST-003) or NHGIS (GEO-053).",
+    "For cross-national long-run series, use Mitchell (PE-021) or Clio Infra for breadth and the national collections (histat, SHNA, HSSO, MOxLAD, LTES) for depth and documented sources.",
+    "For individual-level historical work, use IPUMS full-count data with the Census Linking Project or MLP for the United States, I-CeM for Britain and NAPP or national registers for other North Atlantic countries.",
+    "For pre-modern and comparative polities, use Seshat for institutions and complexity, Abramson (HIST-055) or the historical state names data for European and global state lists, and CShapes or Cliopatria (GEO) for borders. Record how missing values are treated.",
+    "For historical conflict, Brecke (HIST-063) has the widest span, from 1400, but incomplete fatality figures. Use the early modern war datasets (HIST-064/065) for 1500-1816 Europe and COW (CONF and IR rows) from 1816.",
+    "For colonial history, combine COLDAT (dates) with ICOW (colonial rulers and independence) and the colonial administration datasets (HIST-047 to HIST-050) for specific empires."
+  ],
+  "gaps": [
+    "Historical statistics outside Europe, North America and Japan are thin; Africa and much of Asia rely on a few reconstruction projects (AEHN, African population estimates, ASHSTAT).",
+    "Many article-based historical datasets have no public release (for example Dincecco's fiscal panel, Karaman and Pamuk's revenue series and several parliament and patronage datasets), which limits replication.",
+    "Pre-1945 data on elections, parties and legislatures outside Europe and the Americas are scarce.",
+    "Several long-run sources are frozen or archived (HSUS, NBER Macrohistory, IISH prices and wages, Brecke), and some hosts have moved or gone offline, so stable archived copies matter.",
+    "Historical elite and biographical datasets are dominated by Western and Chinese records, and those built from Wikipedia or Wikidata reflect their coverage biases."
+  ]
+}

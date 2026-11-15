@@ -1,0 +1,28 @@
+Data licence: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The catalog data and the built site content are licensed under the Creative
+Commons Attribution 4.0 International licence (CC BY 4.0). The legal code is
+published at:
+
+    https://creativecommons.org/licenses/by/4.0/legalcode
+
+The human-readable summary is at https://creativecommons.org/licenses/by/4.0/
+
+What this covers
+- the files in data/ (catalog.csv, the annex tables, comparison groups, the
+  derived tables, the narratives and the citation record), and
+- the content of the site generated from them.
+
+What it does not cover
+- the source code in scripts/, templates/ and site_assets/, which is under the
+  MIT licence (see LICENSE);
+- the datasets that the catalog describes. Each of those has its own owner and
+  terms of use, recorded in the catalog's access and license fields.
+
+Suggested attribution
+
+    Afşar, Ekrem Kaan. 2026. Political Science Data Catalog. Version 1.1.
+    https://doi.org/10.5281/zenodo.24137498
+    Licensed under CC BY 4.0.
+
+Indicate if changes were made, and link to the licence.

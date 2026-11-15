@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}Compare datasets | {{ site_title }}{% endblock %}
+{% block description %}{{ n_groups }} groups of datasets that measure the same concept, with guidance on choosing among them.{% endblock %}
+{% block canonical %}{{ u('compare') }}{% endblock %}
+{% block body_class %}compare-index{% endblock %}
+{% block main %}
+<nav class="crumbs" aria-label="Breadcrumb"><a href="{{ home_url }}">Home</a></nav>
+<header class="page-head">
+  <h1>Compare datasets</h1>
+  <p class="lede">{{ n_groups }} groups of datasets that measure the same or a closely related concept. Each group page sets the members side by side and says how to choose among them.</p>
+</header>
+{% for d, gs in by_dom %}
+<section aria-labelledby="cmp-{{ d.code }}">
+  <h2 id="cmp-{{ d.code }}"><span class="badge dom-{{ d.code }}">{{ d.code }}</span> {{ d.name }}</h2>
+  <ul class="groups">
+    {% for g in gs %}
+    <li><a href="{{ u('compare', g.slug) }}">{{ g.group | t }}</a>{% if has(g.concept) %}: {{ g.concept | t }}{% endif %} <span class="meta">({{ g.id_list | length }} datasets)</span></li>
+    {% endfor %}
+  </ul>
+</section>
+{% endfor %}
+{% endblock %}

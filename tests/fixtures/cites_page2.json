@@ -1,0 +1,6 @@
+{
+ "meta": {"count": 3, "next_cursor": null},
+ "results": [
+  {"id": "https://openalex.org/W103", "publication_year": 2022, "type": "article", "primary_topic": null}
+ ]
+}

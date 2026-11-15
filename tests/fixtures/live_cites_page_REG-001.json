@@ -1,0 +1,4430 @@
+{
+  "meta": {
+    "count": 971,
+    "db_response_time_ms": 73,
+    "page": null,
+    "per_page": 200,
+    "next_cursor": "Ils5OS4wLCAxNCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyNTM2NTExNTcxJ10i",
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works citing (W2073099922)",
+      "x_new_oql": "get works citing (W2073099922)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "referenced_works",
+            "value": "W2073099922"
+          }
+        ]
+      },
+      "url": "/works?filter=referenced_works:W2073099922&per_page=200&cursor=%2A",
+      "order": "most cited (age-adjusted) first",
+      "order_default": true
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2129260435",
+      "publication_year": 2012,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.49900001287460327,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2792336927",
+      "publication_year": 2018,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9560999870300293,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2589179404",
+      "publication_year": 2017,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4211071057",
+      "publication_year": 2012,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13721",
+        "display_name": "Political Science Research and Education",
+        "score": 0.8320000171661377,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2527013194",
+      "publication_year": 2016,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T12013",
+        "display_name": "Sustainable Development and Environmental Policy",
+        "score": 0.5034000277519226,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2308",
+          "display_name": "Management, Monitoring, Policy and Law"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4211056783",
+      "publication_year": 2020,
+      "type": "book-chapter",
+      "primary_topic": {
+        "id": "https://openalex.org/T12880",
+        "display_name": "Qualitative Research Methods and Applications",
+        "score": 0.7529000043869019,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3304",
+          "display_name": "Education"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2970516730",
+      "publication_year": 2019,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10438",
+        "display_name": "Energy, Environment, Economic Growth",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W653973612",
+      "publication_year": 2012,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T13721",
+        "display_name": "Political Science Research and Education",
+        "score": 0.8842999935150146,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3121407316",
+      "publication_year": 2015,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9800000190734863,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2167679409",
+      "publication_year": 2014,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9916999936103821,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3035031599",
+      "publication_year": 2020,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11397",
+        "display_name": "Populism, Right-Wing Movements",
+        "score": 0.9990000128746033,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3139972671",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.4503999948501587,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4241294282",
+      "publication_year": 2019,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T11432",
+        "display_name": "Gender Politics and Representation",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3318",
+          "display_name": "Gender Studies"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2811808772",
+      "publication_year": 2018,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.7157999873161316,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4211183673",
+      "publication_year": 2020,
+      "type": "book-chapter",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.6913999915122986,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2125688819",
+      "publication_year": 2015,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.8568999767303467,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2310417374",
+      "publication_year": 2016,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.42719998955726624,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2013407241",
+      "publication_year": 2013,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11397",
+        "display_name": "Populism, Right-Wing Movements",
+        "score": 0.9922000169754028,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2914509225",
+      "publication_year": 2019,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9901999831199646,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4293088518",
+      "publication_year": 2022,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9330999851226807,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W1782575320",
+      "publication_year": 2015,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9639000296592712,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2784297447",
+      "publication_year": 2017,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11397",
+        "display_name": "Populism, Right-Wing Movements",
+        "score": 0.9785000085830688,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3083041545",
+      "publication_year": 2020,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11432",
+        "display_name": "Gender Politics and Representation",
+        "score": 0.9945999979972839,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3318",
+          "display_name": "Gender Studies"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2947906250",
+      "publication_year": 2019,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.5342000126838684,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3123888363",
+      "publication_year": 2018,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9359999895095825,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2114957471",
+      "publication_year": 2013,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.6836000084877014,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W1913607135",
+      "publication_year": 2015,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10216",
+        "display_name": "Migration, Refugees, and Integration",
+        "score": 0.9047999978065491,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4233549037",
+      "publication_year": 2019,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9937000274658203,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4211227646",
+      "publication_year": 2020,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T13765",
+        "display_name": "Social Science and Policy Research",
+        "score": 0.29100000858306885,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3300",
+          "display_name": "General Social Sciences"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2159908022",
+      "publication_year": 2015,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.576200008392334,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2802459311",
+      "publication_year": 2018,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9688000082969666,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2233121888",
+      "publication_year": 2015,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10216",
+        "display_name": "Migration, Refugees, and Integration",
+        "score": 0.9955999851226807,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2091579688",
+      "publication_year": 2015,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13035",
+        "display_name": "Human Rights and Development",
+        "score": 0.7865999937057495,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W1987808413",
+      "publication_year": 2014,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10216",
+        "display_name": "Migration, Refugees, and Integration",
+        "score": 0.9887999892234802,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2968899680",
+      "publication_year": 2019,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11397",
+        "display_name": "Populism, Right-Wing Movements",
+        "score": 0.9429000020027161,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2770733723",
+      "publication_year": 2017,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11168",
+        "display_name": "International Development and Aid",
+        "score": 0.9707000255584717,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3303",
+          "display_name": "Development"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4385551313",
+      "publication_year": 2023,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10213",
+        "display_name": "Public Policy and Administration Research",
+        "score": 0.5303000211715698,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3321",
+          "display_name": "Public Administration"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2102676226",
+      "publication_year": 2012,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13721",
+        "display_name": "Political Science Research and Education",
+        "score": 0.9804999828338623,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4221036710",
+      "publication_year": 2022,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10438",
+        "display_name": "Energy, Environment, Economic Growth",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2138935037",
+      "publication_year": 2014,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10108",
+        "display_name": "Electoral Systems and Political Participation",
+        "score": 0.9286999702453613,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3073794498",
+      "publication_year": 2020,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9154999852180481,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3122031823",
+      "publication_year": 2015,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10108",
+        "display_name": "Electoral Systems and Political Participation",
+        "score": 0.7196999788284302,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3183305994",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13945",
+        "display_name": "Legal, Health, Environmental and COVID-19 Challenges",
+        "score": 0.47049999237060547,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2739",
+          "display_name": "Public Health, Environmental and Occupational Health"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2124419055",
+      "publication_year": 2015,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10108",
+        "display_name": "Electoral Systems and Political Participation",
+        "score": 0.8637999892234802,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2811315403",
+      "publication_year": 2018,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.8525000214576721,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2066953818",
+      "publication_year": 2012,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10777",
+        "display_name": "Politics and Society in Latin America",
+        "score": 0.9243000149726868,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2059086332",
+      "publication_year": 2013,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10216",
+        "display_name": "Migration, Refugees, and Integration",
+        "score": 0.9932000041007996,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4309303313",
+      "publication_year": 2022,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9955999851226807,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2164714536",
+      "publication_year": 2012,
+      "type": "review",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.8270999789237976,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3207308188",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10557",
+        "display_name": "Social Media and Politics",
+        "score": 0.6381999850273132,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3315",
+          "display_name": "Communication"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2801414985",
+      "publication_year": 2018,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10108",
+        "display_name": "Electoral Systems and Political Participation",
+        "score": 0.5410000085830688,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2890327760",
+      "publication_year": 2018,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.638700008392334,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2462901608",
+      "publication_year": 2016,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9907000064849854,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W1994292715",
+      "publication_year": 2015,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10777",
+        "display_name": "Politics and Society in Latin America",
+        "score": 0.9115999937057495,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3019196846",
+      "publication_year": 2020,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9434000253677368,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4390746691",
+      "publication_year": 2023,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.8281000256538391,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2107900049",
+      "publication_year": 2014,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10216",
+        "display_name": "Migration, Refugees, and Integration",
+        "score": 0.9907000064849854,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2746780503",
+      "publication_year": 2017,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10053",
+        "display_name": "International Relations and Foreign Policy",
+        "score": 0.5996000170707703,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2577316354",
+      "publication_year": 2017,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10108",
+        "display_name": "Electoral Systems and Political Participation",
+        "score": 0.8920999765396118,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2105870227",
+      "publication_year": 2015,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9839000105857849,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4232784040",
+      "publication_year": 2020,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T10053",
+        "display_name": "International Relations and Foreign Policy",
+        "score": 0.9984999895095825,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4307253166",
+      "publication_year": 2022,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11397",
+        "display_name": "Populism, Right-Wing Movements",
+        "score": 0.8637999892234802,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2317087048",
+      "publication_year": 2016,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.7294999957084656,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2554009367",
+      "publication_year": 2016,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9467999935150146,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2322794239",
+      "publication_year": 2013,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10777",
+        "display_name": "Politics and Society in Latin America",
+        "score": 0.9101999998092651,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2927464374",
+      "publication_year": 2018,
+      "type": "book-chapter",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2884876449",
+      "publication_year": 2018,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10471",
+        "display_name": "Climate Change Policy and Economics",
+        "score": 0.8906000256538391,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3177824569",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13040",
+        "display_name": "Gender, Education, and Development Issues",
+        "score": 0.46630001068115234,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3304",
+          "display_name": "Education"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3014357256",
+      "publication_year": 2020,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T12619",
+        "display_name": "Political Systems and Governance",
+        "score": 0.45019999146461487,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3111157204",
+      "publication_year": 2020,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9965999722480774,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4210333278",
+      "publication_year": 2021,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9980000257492065,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3171281858",
+      "publication_year": 2018,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T10777",
+        "display_name": "Politics and Society in Latin America",
+        "score": 0.6455000042915344,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2597243514",
+      "publication_year": 2017,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9628999829292297,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2607389652",
+      "publication_year": 2016,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.6083999872207642,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4386121188",
+      "publication_year": 2023,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9429000020027161,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2494296819",
+      "publication_year": 2016,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11397",
+        "display_name": "Populism, Right-Wing Movements",
+        "score": 0.9922000169754028,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2954947654",
+      "publication_year": 2019,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9911999702453613,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4211057805",
+      "publication_year": 2019,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.8476999998092651,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2595611326",
+      "publication_year": 2017,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11256",
+        "display_name": "Asian Studies and History",
+        "score": 0.9872999787330627,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2309911549",
+      "publication_year": 2016,
+      "type": "review",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2586187479",
+      "publication_year": 2017,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10475",
+        "display_name": "Psychological Well-being and Life Satisfaction",
+        "score": 0.4081999957561493,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2794419143",
+      "publication_year": 2018,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9887999892234802,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3200926271",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11042",
+        "display_name": "Corruption and Economic Development",
+        "score": 0.3073999881744385,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4380372264",
+      "publication_year": 2023,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.8579000234603882,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2586472114",
+      "publication_year": 2017,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.5083000063896179,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3162245222",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11042",
+        "display_name": "Corruption and Economic Development",
+        "score": 0.3644999861717224,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3190350600",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T12210",
+        "display_name": "Policy Transfer and Learning",
+        "score": 0.8794000148773193,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4200604882",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10471",
+        "display_name": "Climate Change Policy and Economics",
+        "score": 0.8080999851226807,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3124109706",
+      "publication_year": 2018,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.4099000096321106,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2329930978",
+      "publication_year": 2016,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10108",
+        "display_name": "Electoral Systems and Political Participation",
+        "score": 0.5419999957084656,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4283763418",
+      "publication_year": 2022,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9990000128746033,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4378628085",
+      "publication_year": 2023,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11823",
+        "display_name": "Natural Resources and Economic Development",
+        "score": 0.9955999851226807,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2000",
+          "display_name": "General Economics, Econometrics and Finance"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3108876392",
+      "publication_year": 2020,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9980000257492065,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3168912556",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.8442000150680542,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4375855696",
+      "publication_year": 2023,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10319",
+        "display_name": "Conservation, Biodiversity, and Resource Management",
+        "score": 0.739300012588501,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2306",
+          "display_name": "Global and Planetary Change"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4225271173",
+      "publication_year": 2022,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.7294999957084656,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4294712271",
+      "publication_year": 2022,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10216",
+        "display_name": "Migration, Refugees, and Integration",
+        "score": 0.9106000065803528,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3128019567",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9980000257492065,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4291002721",
+      "publication_year": 2022,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9911999702453613,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3094141528",
+      "publication_year": 2020,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.948199987411499,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4319834542",
+      "publication_year": 2023,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.8949999809265137,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4404438706",
+      "publication_year": 2024,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10785",
+        "display_name": "Economic Theory and Institutions",
+        "score": 0.47119998931884766,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2623931633",
+      "publication_year": 2017,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9922000169754028,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4211176074",
+      "publication_year": 2019,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9789999723434448,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3021902804",
+      "publication_year": 2020,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.5034000277519226,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3044176510",
+      "publication_year": 2020,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11432",
+        "display_name": "Gender Politics and Representation",
+        "score": 0.6875,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3318",
+          "display_name": "Gender Studies"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3213473142",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10446",
+        "display_name": "Income, Poverty, and Inequality",
+        "score": 0.9545999765396118,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4287447325",
+      "publication_year": 2022,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9082000255584717,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2300995807",
+      "publication_year": 2016,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10108",
+        "display_name": "Electoral Systems and Political Participation",
+        "score": 0.7002000212669373,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2807324278",
+      "publication_year": 2018,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9955999851226807,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4390911218",
+      "publication_year": 2024,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T12210",
+        "display_name": "Policy Transfer and Learning",
+        "score": 0.9907000064849854,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3212021958",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.4909999966621399,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4387895350",
+      "publication_year": 2023,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.7246000170707703,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4409082226",
+      "publication_year": 2025,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13051",
+        "display_name": "Qualitative Comparative Analysis Research",
+        "score": 0.9032999873161316,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2783171966",
+      "publication_year": 2017,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11823",
+        "display_name": "Natural Resources and Economic Development",
+        "score": 0.9984999895095825,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2000",
+          "display_name": "General Economics, Econometrics and Finance"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4399675831",
+      "publication_year": 2024,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10053",
+        "display_name": "International Relations and Foreign Policy",
+        "score": 0.9854000210762024,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2215315979",
+      "publication_year": 2012,
+      "type": "book-chapter",
+      "primary_topic": {
+        "id": "https://openalex.org/T10777",
+        "display_name": "Politics and Society in Latin America",
+        "score": 0.7368000149726868,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2767534534",
+      "publication_year": 2017,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T14259",
+        "display_name": "Legal Rights and Human Rights",
+        "score": 0.3837999999523163,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3308",
+          "display_name": "Law"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2957449420",
+      "publication_year": 2019,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13721",
+        "display_name": "Political Science Research and Education",
+        "score": 0.6166999936103821,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4413361461",
+      "publication_year": 2025,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.8393999934196472,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4200537214",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.8974999785423279,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4401335359",
+      "publication_year": 2024,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T11863",
+        "display_name": "Gender, Security, and Conflict",
+        "score": 0.9810000061988831,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3318",
+          "display_name": "Gender Studies"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4415609589",
+      "publication_year": 2025,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10557",
+        "display_name": "Social Media and Politics",
+        "score": 0.5586000084877014,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3315",
+          "display_name": "Communication"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W1530530959",
+      "publication_year": 2015,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9868000149726868,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2000661871",
+      "publication_year": 2014,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.5526999831199646,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4250188586",
+      "publication_year": 2012,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2218351554",
+      "publication_year": 2015,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.7656000256538391,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2600406266",
+      "publication_year": 2017,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9775000214576721,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W1972791352",
+      "publication_year": 2014,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10216",
+        "display_name": "Migration, Refugees, and Integration",
+        "score": 0.9951000213623047,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2906094928",
+      "publication_year": 2018,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9990000128746033,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2915091014",
+      "publication_year": 2019,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11042",
+        "display_name": "Corruption and Economic Development",
+        "score": 0.43380001187324524,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3088834481",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9276999831199646,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2901214935",
+      "publication_year": 2017,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T10471",
+        "display_name": "Climate Change Policy and Economics",
+        "score": 0.9193999767303467,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2154029659",
+      "publication_year": 2013,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10467",
+        "display_name": "Psychometric Methodologies and Testing",
+        "score": 0.47530001401901245,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1803",
+          "display_name": "Management Science and Operations Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/18",
+          "display_name": "Decision Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W1971113847",
+      "publication_year": 2013,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.8252000212669373,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W1989114191",
+      "publication_year": 2012,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11432",
+        "display_name": "Gender Politics and Representation",
+        "score": 0.551800012588501,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3318",
+          "display_name": "Gender Studies"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2232925034",
+      "publication_year": 2016,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10718",
+        "display_name": "Political Philosophy and Ethics",
+        "score": 0.8345000147819519,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W1995999477",
+      "publication_year": 2013,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T12263",
+        "display_name": "Peacebuilding and International Security",
+        "score": 0.6205999851226807,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2914018954",
+      "publication_year": 2019,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10108",
+        "display_name": "Electoral Systems and Political Participation",
+        "score": 0.9603999853134155,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3179832075",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11397",
+        "display_name": "Populism, Right-Wing Movements",
+        "score": 0.9613999724388123,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2095915894",
+      "publication_year": 2015,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.7836999893188477,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2745958376",
+      "publication_year": 2017,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10209",
+        "display_name": "Global Maternal and Child Health",
+        "score": 0.9101999998092651,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2735",
+          "display_name": "Pediatrics, Perinatology and Child Health"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3080870735",
+      "publication_year": 2020,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10953",
+        "display_name": "E-Government and Public Services",
+        "score": 0.9794999957084656,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3130507431",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T12013",
+        "display_name": "Sustainable Development and Environmental Policy",
+        "score": 0.9984999895095825,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2308",
+          "display_name": "Management, Monitoring, Policy and Law"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W1986204482",
+      "publication_year": 2015,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9976000189781189,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3195185917",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9990000128746033,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2805681253",
+      "publication_year": 2018,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9990000128746033,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3109875729",
+      "publication_year": 2020,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11168",
+        "display_name": "International Development and Aid",
+        "score": 0.9800000190734863,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3303",
+          "display_name": "Development"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2009838477",
+      "publication_year": 2012,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9887999892234802,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2912721753",
+      "publication_year": 2019,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T12777",
+        "display_name": "Philosophy, History, and Historiography",
+        "score": 0.43970000743865967,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1202",
+          "display_name": "History"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2552474077",
+      "publication_year": 2016,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9940999746322632,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2790689876",
+      "publication_year": 2018,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.989300012588501,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4317677633",
+      "publication_year": 2023,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13867",
+        "display_name": "Economic Growth and Development",
+        "score": 0.4634000062942505,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2893123290",
+      "publication_year": 2020,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.7333999872207642,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W1141057074",
+      "publication_year": 2015,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.8187999725341797,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2791036094",
+      "publication_year": 2017,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.6865000128746033,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2591328776",
+      "publication_year": 2016,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.43290001153945923,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3047518861",
+      "publication_year": 2020,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.760699987411499,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4210402699",
+      "publication_year": 2022,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10557",
+        "display_name": "Social Media and Politics",
+        "score": 0.9262999892234802,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3315",
+          "display_name": "Communication"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4385404078",
+      "publication_year": 2023,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11336",
+        "display_name": "Energy and Environment Impacts",
+        "score": 0.9990000128746033,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2310",
+          "display_name": "Pollution"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4401010621",
+      "publication_year": 2024,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.5644999742507935,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2789823223",
+      "publication_year": 2018,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9785000085830688,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3201486654",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10895",
+        "display_name": "Species Distribution and Climate Change",
+        "score": 0.5952000021934509,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2302",
+          "display_name": "Ecological Modeling"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4283831260",
+      "publication_year": 2022,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9717000126838684,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W1991159907",
+      "publication_year": 2014,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11042",
+        "display_name": "Corruption and Economic Development",
+        "score": 0.8090999722480774,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4223511198",
+      "publication_year": 2022,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10557",
+        "display_name": "Social Media and Politics",
+        "score": 0.7343999743461609,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3315",
+          "display_name": "Communication"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2621737898",
+      "publication_year": 2017,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T14005",
+        "display_name": "Eastern European Communism and Reforms",
+        "score": 0.5687999725341797,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4206699179",
+      "publication_year": 2019,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11042",
+        "display_name": "Corruption and Economic Development",
+        "score": 0.4462999999523163,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3105403915",
+      "publication_year": 2020,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10108",
+        "display_name": "Electoral Systems and Political Participation",
+        "score": 0.6685000061988831,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3127803965",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9965999722480774,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4384929211",
+      "publication_year": 2023,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11432",
+        "display_name": "Gender Politics and Representation",
+        "score": 0.9980000257492065,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3318",
+          "display_name": "Gender Studies"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W1990683049",
+      "publication_year": 2012,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.8583999872207642,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4365449064",
+      "publication_year": 2023,
+      "type": "review",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.6855000257492065,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4383377276",
+      "publication_year": 2023,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.7109000086784363,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2942610255",
+      "publication_year": 2019,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T12013",
+        "display_name": "Sustainable Development and Environmental Policy",
+        "score": 0.9404000043869019,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2308",
+          "display_name": "Management, Monitoring, Policy and Law"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3104614384",
+      "publication_year": 2020,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9980000257492065,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3106880858",
+      "publication_year": 2020,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11838",
+        "display_name": "Crime, Illicit Activities, and Governance",
+        "score": 0.801800012588501,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3109893599",
+      "publication_year": 2020,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.8515999913215637,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2944739469",
+      "publication_year": 2019,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11076",
+        "display_name": "Policing Practices and Perceptions",
+        "score": 0.9970999956130981,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2981009146",
+      "publication_year": 2019,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13718",
+        "display_name": "Media Influence and Politics",
+        "score": 0.4494999945163727,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3162522550",
+      "publication_year": 2018,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9976000189781189,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4328124181",
+      "publication_year": 2023,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13867",
+        "display_name": "Economic Growth and Development",
+        "score": 0.3467000126838684,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4309372389",
+      "publication_year": 2022,
+      "type": "book-chapter",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.6381999850273132,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4360617648",
+      "publication_year": 2023,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9970999956130981,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3080810390",
+      "publication_year": 2020,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.4634000062942505,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3183228262",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11042",
+        "display_name": "Corruption and Economic Development",
+        "score": 0.9721999764442444,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3186895513",
+      "publication_year": 2021,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11432",
+        "display_name": "Gender Politics and Representation",
+        "score": 0.9976000189781189,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3318",
+          "display_name": "Gender Studies"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2046211427",
+      "publication_year": 2014,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10953",
+        "display_name": "E-Government and Public Services",
+        "score": 0.9824000000953674,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4288042045",
+      "publication_year": 2022,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.8036999702453613,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2329989619",
+      "publication_year": 2016,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.986299991607666,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2939088449",
+      "publication_year": 2019,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9560999870300293,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4311815348",
+      "publication_year": 2022,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.98580002784729,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4380537379",
+      "publication_year": 2023,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10102",
+        "display_name": "scientometrics and bibliometrics research",
+        "score": 0.9032999873161316,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3309",
+          "display_name": "Library and Information Sciences"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4407088849",
+      "publication_year": 2025,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9945999979972839,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4400799348",
+      "publication_year": 2024,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T10438",
+        "display_name": "Energy, Environment, Economic Growth",
+        "score": 0.9970999956130981,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4316340000",
+      "publication_year": 2023,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T13291",
+        "display_name": "Political Theory and Democracy",
+        "score": 0.9423999786376953,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3081538428",
+      "publication_year": 2020,
+      "type": "book-chapter",
+      "primary_topic": {
+        "id": "https://openalex.org/T13162",
+        "display_name": "African Studies and Ethnography",
+        "score": 0.8939999938011169,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W3082682105",
+      "publication_year": 2020,
+      "type": "book-chapter",
+      "primary_topic": {
+        "id": "https://openalex.org/T12332",
+        "display_name": "Comparative constitutional jurisprudence studies",
+        "score": 0.8467000126838684,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W4206449702",
+      "publication_year": 2020,
+      "type": "book",
+      "primary_topic": {
+        "id": "https://openalex.org/T12332",
+        "display_name": "Comparative constitutional jurisprudence studies",
+        "score": 0.5297999978065491,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    },
+    {
+      "id": "https://openalex.org/W2536511571",
+      "publication_year": 2016,
+      "type": "article",
+      "primary_topic": {
+        "id": "https://openalex.org/T11863",
+        "display_name": "Gender, Security, and Conflict",
+        "score": 0.6172000169754028,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3318",
+          "display_name": "Gender Studies"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    }
+  ],
+  "group_by": []
+}

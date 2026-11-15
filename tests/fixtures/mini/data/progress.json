@@ -1,0 +1,11 @@
+{
+ "catalog_version": "0.1",
+ "domains": {
+  "REG": {
+   "n": 1,
+   "name": "Regimes",
+   "status": "complete",
+   "rows": 6
+  }
+ }
+}

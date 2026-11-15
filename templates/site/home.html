@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}{{ site_title }}{% endblock %}
+{% block description %}A verified, citable guide to {{ n_rows }} political science datasets across 21 subfields, with access, coverage, citation and comparison notes for each.{% endblock %}
+{% block body_class %}home{% endblock %}
+{% block main %}
+<section class="hero">
+  <h1>{{ site_title }}</h1>
+  {% if author.get('subtitle') %}<p class="lede">{{ author['subtitle'] }}</p>{% endif %}
+  <p>The catalog describes {{ n_rows }} datasets, data portals and licensed data products used in political science research, grouped into 21 subfields. Each entry records coverage, access, licence, citation and maintenance, checked against the producer's own pages; anything that could not be confirmed there is marked as not confirmed. Each subfield page opens with the handful of datasets most researchers start from, then lists the rest.</p>
+  {% if u('explore') %}
+  <form class="search search-big" role="search" aria-label="Search from the home page" action="{{ u('explore') }}" method="get">
+    <label for="q-home">Search datasets by name, variable or topic</label>
+    <div class="search-row"><input id="q-home" name="q" type="search" autocomplete="off"><button type="submit">Search</button></div>
+  </form>
+  {% endif %}
+</section>
+
+<section id="subfields" aria-labelledby="subfields-h">
+  <h2 id="subfields-h">Subfields</h2>
+  <ul class="cards subfields">
+    {% for c in cards %}
+    <li class="subfield dom-{{ c.d.code }}">
+      <a href="{{ u('domain', c.d.code) }}"><span class="num">{{ c.d.num }}</span> {{ c.d.name }}</a>
+      <span class="meta">{{ c.d.count }} dataset{{ '' if c.d.count == 1 else 's' }}{% if c.acronyms %} &middot; {{ c.acronyms | join(', ') }}{% endif %}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="cite-block" aria-labelledby="cite-h">
+  <h2 id="cite-h">How to cite</h2>
+  <p class="cite-text">{{ catalog_cite }}</p>
+  <p>Catalog data are released under <a href="{{ licence[1] }}" rel="license">{{ licence[0] }}</a>; the code that builds this site is released under the {{ code_licence }} licence. Each dataset page also gives the citation the producers ask for.</p>
+</section>
+{% endblock %}

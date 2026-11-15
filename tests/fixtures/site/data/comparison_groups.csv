@@ -1,0 +1,4 @@
+domain,group,concept,ids,how_to_choose
+REG,Graded democracy indices,Degree of democracy,REG-001; REG-002; REG-003,Prefer the longest series that measures the concept you need.
+CONF,Event data,Violent events,CONF-001; CONF-002; CONF-003,Choose by unit: conflict-year or event.
+IR,Event data,Interstate incidents,IR-001; IR-002; CONF-003,Choose by unit: dispute or incident location.

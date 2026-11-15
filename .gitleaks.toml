@@ -1,0 +1,19 @@
+# Secret scanning for this repository: the full default gitleaks rule set, plus an allowlist of
+# known false positives. Each entry matches one specific string, never a whole file or commit.
+title = "Political Science Data Catalog"
+
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Fake test values in tests/test_privacy_check.py, public Dropbox share links, catalog prose"
+regexTarget = "match"
+regexes = [
+  # fake secrets that tests/test_privacy_check.py feeds to the privacy scanner
+  '''abcd1234efgh''',
+  '''AbCd-1234-EfGh''',
+  # the rlkey parameter of a public Dropbox share link published by a dataset's authors
+  '''rlkey=[0-9a-z]+''',
+  # catalog prose: a list of delivery channels ("platform subscription, API, Snowflake/AWS feeds")
+  '''API, Snowflake/AWS''',
+]

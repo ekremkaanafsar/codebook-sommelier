@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}Page not found | {{ site_title }}{% endblock %}
+{% block description %}The page you asked for is not in the catalog.{% endblock %}
+{% block body_class %}notfound{% endblock %}
+{% block main %}
+<header class="page-head"><h1>Page not found</h1>
+  <p class="lede">There is no page at this address. It may have moved, or the dataset may have been retired.</p></header>
+{% if u('explore') %}
+<form class="search search-big" role="search" aria-label="Search from the error page" action="{{ u('explore') }}" method="get">
+  <label for="q-404">Search datasets by name, variable or topic</label>
+  <div class="search-row"><input id="q-404" name="q" type="search" autocomplete="off"><button type="submit">Search</button></div>
+</form>
+{% endif %}
+<p><a href="{{ home_url }}">Back to the home page</a>{% if u('explore') %} &middot; <a href="{{ u('explore') }}">Explore all datasets</a>{% endif %}{% if u('compare') %} &middot; <a href="{{ u('compare') }}">Compare datasets</a>{% endif %}</p>
+<section aria-labelledby="sf-h">
+  <h2 id="sf-h">Subfields</h2>
+  <ul class="ds-list">
+    {% for d in all_domains %}<li><a href="{{ u('domain', d.code) }}">{{ d.name }}</a></li>
+    {% endfor %}
+  </ul>
+</section>
+{% endblock %}

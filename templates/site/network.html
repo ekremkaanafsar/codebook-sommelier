@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block title %}Co-usage network | {{ site_title }}{% endblock %}
+{% block description %}Which datasets are cited together in the political science literature, drawn from OpenAlex citation records.{% endblock %}
+{% block canonical %}{{ u('network') }}{% endblock %}
+{% block body_class %}network{% endblock %}
+{% block main %}
+<nav class="crumbs" aria-label="Breadcrumb"><a href="{{ home_url }}">Home</a></nav>
+<header class="page-head"><h1>Co-usage network</h1>
+  <p class="lede">Two datasets count as used together when a published work cites the reference articles of both.</p></header>
+{% if method_p %}<section class="prose"><h2>How the network is built</h2><p>{{ method_p | t }}</p>
+  <p>The citation counts behind the network are lower bounds; see <a href="{{ u('methods') }}#openalex">the methods page</a>.</p></section>{% endif %}
+{% for name, label, w, h in figures %}
+<figure class="figure">
+  <img src="{{ asset(name) }}" alt="{{ label }}"{% if w and h %} width="{{ w }}" height="{{ h }}"{% endif %} loading="lazy">
+  <figcaption>{{ label }}. <a href="{{ asset(name) }}">Open the full-size SVG</a>.</figcaption>
+</figure>
+{% endfor %}
+{% if finding_p %}<section class="prose"><h2>Main finding</h2><p>{{ finding_p | t }}</p></section>{% endif %}
+{% if bridges %}
+<section aria-labelledby="bridge-h">
+  <h2 id="bridge-h">Ten bridge datasets</h2>
+  <p>Bridge datasets lie on many of the shortest paths between communities of the network (highest betweenness).</p>
+  <div class="table-wrap">
+  <table class="data">
+    <thead><tr><th scope="col">Dataset</th><th scope="col">Subfield</th><th scope="col">Betweenness</th><th scope="col">Community</th></tr></thead>
+    <tbody>
+      {% for b in bridges %}
+      <tr>
+        <th scope="row"><a href="{{ u('dataset', b.n.id) }}">{{ b.n.name | t }}</a>{% if b.shares %}<br><span class="meta">Shares its reference article with:
+          {% for id, name in b.shares %}<a href="{{ u('dataset', id) }}">{{ name | t }}</a>{{ ', ' if not loop.last }}{% endfor %}</span>{% endif %}</th>
+        <td>{{ b.n.primary_domain | t }}</td>
+        <td class="num">{{ b.beta }}</td>
+        <td class="num">{{ b.n.community | t }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  </div>
+</section>
+{% endif %}
+{% if downloads %}
+<section aria-labelledby="dl-h">
+  <h2 id="dl-h">Downloads</h2>
+  <ul class="ds-links">
+    {% for name, label, kb in downloads %}<li><a href="{{ dl(name) }}" download>{{ label }}</a> <span class="meta">({{ name }}, {{ kb }} KB)</span></li>
+    {% endfor %}
+  </ul>
+  <p class="meta">Released under {{ licence[0] }}. The files hold catalog identifiers, citing-work counts and similarity scores, and nothing about the authors of citing works.</p>
+</section>
+{% endif %}
+{% endblock %}

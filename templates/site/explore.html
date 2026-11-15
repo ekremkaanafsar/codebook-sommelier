@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% block title %}Explore datasets | {{ site_title }}{% endblock %}
+{% block description %}Filter and search the whole catalog by subfield, unit of analysis, region, access, status and period.{% endblock %}
+{% block canonical %}{{ u('explore') }}{% endblock %}
+{% block body_class %}explore{% endblock %}
+{% block main %}
+<header class="page-head">
+  <h1>Explore datasets</h1>
+  <p class="lede">Filter the catalog by what you need, or search by name, variable or topic. The address of this page records your filters, so you can bookmark or share a view.</p>
+</header>
+<noscript>
+  <p class="notice">The explorer needs JavaScript. Without it, download the <a href="{{ csv_url }}">whole catalog as a CSV file</a> or browse by subfield:</p>
+  <ul class="ds-list">
+    {% for d in domains %}<li><a href="{{ u('domain', d.code) }}">{{ d.name }}</a></li>
+    {% endfor %}
+  </ul>
+</noscript>
+<div class="explorer" id="explorer">
+  <form class="ex-controls" id="ex-form" role="search" aria-label="Filter and search datasets">
+    <div class="ex-query">
+      <label for="ex-q">Search name, acronym, variables, strengths, maintainer</label>
+      <input id="ex-q" type="search" autocomplete="off">
+    </div>
+    <div class="ex-sort">
+      <label for="ex-sort">Sort by</label>
+      <select id="ex-sort">
+        <option value="best" hidden disabled>Best match</option>
+        <option value="cites">Most cited</option>
+        <option value="name">Name A to Z</option>
+        <option value="start">Start year, earliest first</option>
+        <option value="lu">Last update, newest first</option>
+      </select>
+    </div>
+    <button type="button" id="ex-clear" class="ex-clear">Clear all filters</button>
+  </form>
+  <div class="ex-layout">
+    <div class="ex-facets" role="group" aria-label="Filters">
+      <fieldset data-facet="sub"><legend>Subfield</legend><div class="opts"></div></fieldset>
+      <fieldset data-facet="type"><legend>Resource type</legend><div class="opts"></div></fieldset>
+      <fieldset data-facet="unit"><legend>Unit class</legend><div class="opts"></div></fieldset>
+      <fieldset data-facet="region"><legend>Region</legend><div class="opts"></div></fieldset>
+      <fieldset data-facet="access"><legend>Access level</legend><div class="opts"></div></fieldset>
+      <fieldset data-facet="status"><legend>Status</legend><div class="opts"></div></fieldset>
+      <fieldset data-facet="api"><legend>Programmatic access</legend><div class="opts"></div></fieldset>
+      <fieldset data-facet="conf"><legend>Confidence</legend><div class="opts"></div></fieldset>
+      <fieldset data-facet="period"><legend>Period covered</legend>
+        <div class="period">
+          <label for="ex-from">From year</label><input id="ex-from" type="number" inputmode="numeric" min="-3000" max="2100" step="1">
+          <label for="ex-to">To year</label><input id="ex-to" type="number" inputmode="numeric" min="-3000" max="2100" step="1">
+        </div>
+        <p class="ex-hint">Datasets without known years are hidden while a period is set.</p>
+      </fieldset>
+    </div>
+    <section class="ex-results" aria-labelledby="ex-heading">
+      <h2 id="ex-heading" class="vh">Results</h2>
+      <p class="ex-sel" id="ex-sel" hidden><span id="ex-sel-text"></span> <button type="button" id="ex-sel-clear" class="ex-clear">Show all datasets</button></p>
+      <p id="ex-count" class="ex-count" role="status" aria-live="polite" tabindex="-1">Loading datasets</p>
+      <p class="ex-note" id="ex-note" role="status" aria-live="polite" hidden></p>
+      <ol class="ex-list" id="ex-list"></ol>
+      <p><button type="button" id="ex-more" class="ex-more" hidden>Show more</button></p>
+    </section>
+  </div>
+</div>
+<script type="application/json" id="explorer-config">{{ conf_json }}</script>
+{% endblock %}
+{% block scripts %}
+<script src="{{ asset('minisearch.min.js') }}" defer></script>
+<script src="{{ asset('search.js') }}" defer></script>
+<script src="{{ asset('explorer.js') }}" defer></script>
+{% endblock %}

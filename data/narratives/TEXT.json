@@ -1,0 +1,42 @@
+{
+ "landscape": [
+  "Text-as-data resources in political science fall into four families. The first is speech by political actors: parliamentary debates (ParlSpeech, ParlaMint and a growing set of national corpora), the U.S. Congressional Record, executive and campaign speeches, party manifestos and press releases, and international speech such as the UN General Debate and Security Council corpora. These are mostly open, deposited on Dataverse, Zenodo or CLARIN, and built from official verbatim records.",
+  "The second family is tools and labeled data for measurement: dictionaries for sentiment, topics, emotions, morality and populism, and annotated corpora for training classifiers (check-worthy claims, populism, sentiment, hate speech, fallacies). The third covers the media environment. It includes press-freedom and media-system indicators (RSF, the legacy Freedom House press index, the Global Media Freedom Dataset, ownership and pluralism monitors), large news and television archives (Media Cloud, the Internet Archive TV News Archive, the Stanford Cable TV News Analyzer) and political advertising (Wesleyan Media Project, platform ad libraries, CREATIVE).",
+  "The fourth family is digital and social-media data, where access has shifted sharply. Open interfaces such as CrowdTangle, the Twitter academic API and Pushshift have closed or been restricted, and research access now runs through vetted environments such as the Meta Content Library and SOMAR. Archived corpora of politicians' accounts, e-newsletters, emails and podcasts fill part of the gap. Many resources in this domain are frozen one-off corpora tied to a single article, so maintenance scores are lower than in survey or event-data domains."
+ ],
+ "core": [
+  {
+   "id": "LEG-077",
+   "text": "ParlSpeech (catalogued under LEG) offers about 6.3 million plenary speeches from nine parliaments in its second version, with speaker, party and date metadata in a common format. It is a common starting point for comparative parliamentary text analysis. Coverage ends between 2016 and 2019, speaker matching relies on names, and agenda information is missing for several chambers."
+  },
+  {
+   "id": "TEXT-009",
+   "text": "ParlaMint (version 5.0, 2025) provides comparable, linguistically annotated corpora of debates from 29 European national and regional parliaments, over a billion words in a shared TEI format with machine-translated English versions. It suits recent cross-national work in many languages. Its common window is short (mostly 2015-2022), metadata depth varies by country, and the translated English text contains errors the producers document."
+  },
+  {
+   "id": "TEXT-003",
+   "text": "The UN General Debate Corpus collects the annual General Debate speeches of UN member states from 1946 to 2025 (version 14 on Harvard Dataverse, about 11,000 speeches). It is widely used to study state foreign-policy preferences and international norms. Most published work uses the 2017 release, so the version should be reported; falling speech length and growing membership affect frequency-based measures."
+  },
+  {
+   "id": "TEXT-005",
+   "text": "The Gentzkow, Shapiro and Taddy parsed Congressional Record covers House and Senate floor speeches from the 43rd to the 114th Congress with speaker attribution and phrase counts. It underpins much work on partisan language and polarization and supersedes the earlier ICPSR release. Older volumes contain OCR errors, some speech types are dropped, and the files are frozen."
+  },
+  {
+   "id": "TEXT-060",
+   "text": "Media Cloud indexes more than a billion online news stories from tens of thousands of sources and offers search, source collections and an API to registered users. It is an open tool for studying news attention across outlets and countries. It distributes URLs and metadata rather than full text, and source coverage starts and stops at different dates, which complicates long series."
+  }
+ ],
+ "choosing": [
+  "For legislative speech, use ParlSpeech for long national series in its nine parliaments, ParlaMint for recent cross-national comparison, and national corpora where they extend further back. For the U.S. Congress, use the Gentzkow-Shapiro-Taddy Record for floor speech and press releases or newsletters for constituent communication.",
+  "For international speech, use the UN General Debate Corpus for all states over time and the Security Council corpora for great-power and conflict debates; report the corpus version.",
+  "Treat dictionaries as a baseline only: validate against hand-coded samples or use the labeled corpora to train supervised models, and report agreement statistics.",
+  "For press freedom, prefer V-Dem media indicators or the Global Media Freedom Dataset for long series, RSF for recent years, and avoid splicing RSF or Freedom House series across their method changes.",
+  "For social media, check current access terms before planning a project: archived corpora cover past periods, while new collection needs approved access (Meta Content Library, SOMAR) or platform ad libraries."
+ ],
+ "gaps": [
+  "Parliamentary text outside Europe, North America and Australia is thin; few corpora exist for Africa, Latin America and most of Asia, and executive speech outside the United States and the EU is scarce.",
+  "Social-media research data for recent years depend on platform access programmes that change often; open archives for X/Twitter after 2023 and for TikTok are largely missing.",
+  "Many corpora are single-article deposits with no update plan, and dictionaries and labeled sets are mostly English or German.",
+  "Political advertising data outside the United States, and television ad data for 2024, are not openly available."
+ ]
+}

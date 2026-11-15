@@ -1,0 +1,11 @@
+{
+ "meta": {"count": 3, "next_cursor": "CUR2"},
+ "results": [
+  {"id": "https://openalex.org/W101", "publication_year": 2020, "type": "article",
+   "primary_topic": {"field": {"display_name": "Social Sciences"},
+                     "subfield": {"display_name": "Political Science and International Relations"}}},
+  {"id": "https://openalex.org/W102", "publication_year": 2021, "type": "preprint",
+   "primary_topic": {"field": {"display_name": "Social Sciences"},
+                     "subfield": {"display_name": "Sociology and Political Science"}}}
+ ]
+}

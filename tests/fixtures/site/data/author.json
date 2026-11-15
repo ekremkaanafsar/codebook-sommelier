@@ -1,0 +1,13 @@
+{
+ "name": "Jane Q. Example",
+ "citation_name": "Example, Jane Q.",
+ "emails": [],
+ "affiliation": "Department of Political Science, Example University, 1 Example Way, Exampleton",
+ "year": "2026",
+ "title": "Example Political Data Catalog",
+ "subtitle": "A fixture catalog for tests",
+ "version": "0.9",
+ "release_date": "2026-11-01",
+ "doi": "10.5281/zenodo.1234567",
+ "orcid": "0000-0002-1825-0097"
+}

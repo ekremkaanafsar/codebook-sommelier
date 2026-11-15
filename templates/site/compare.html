@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block title %}{{ g.group | scrub }} | Compare | {{ site_title }}{% endblock %}
+{% block description %}{{ members | length }} datasets compared on unit, coverage, measurement approach, generation method, access and status{% if has(g.concept) %}: {{ g.concept | scrub }}{% endif %}.{% endblock %}
+{% block canonical %}{{ u('compare', g.slug) }}{% endblock %}
+{% block body_class %}compare dom-{{ g.domain }}{% endblock %}
+{% block main %}
+<nav class="crumbs" aria-label="Breadcrumb"><a href="{{ home_url }}">Home</a> <span aria-hidden="true">/</span> <a href="{{ u('compare') }}">Compare</a></nav>
+<header class="page-head">
+  <p class="kicker"><span class="badge dom-{{ g.domain }}">{{ g.domain }}</span> {{ dom }}</p>
+  <h1>{{ g.group | t }}</h1>
+  {% if has(g.concept) %}<p class="lede">{{ g.concept | t }}</p>{% endif %}
+</header>
+{% if has(g.how_to_choose) %}
+<section class="prose" aria-labelledby="choose-h">
+  <h2 id="choose-h">How to choose</h2>
+  <p>{{ g.how_to_choose | t }}</p>
+</section>
+{% endif %}
+<section aria-labelledby="side-h">
+  <h2 id="side-h">Side by side</h2>
+  {% if members %}
+  <div class="table-wrap">
+  <table class="data">
+    <thead><tr><th scope="col">Dataset</th>{% for label, col in cols %}<th scope="col">{{ label }}</th>{% endfor %}</tr></thead>
+    <tbody>
+      {% for r in members %}
+      <tr>
+        <th scope="row"><a href="{{ u('dataset', r.id) }}">{{ r.name | t }}</a>{% if r.acronym | acr %} <span class="acr">{{ r.acronym | acr }}</span>{% endif %}</th>
+        {% for label, col in cols %}<td>{% if col == 'status' or col == 'access_level' %}{{ r[col] | t }}{% else %}<a class="cell" href="{{ u('dataset', r.id) }}">{{ r[col] | clip | t }}</a>{% endif %}</td>
+        {% endfor %}
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  </div>
+  {% else %}
+  <p class="notice">None of the datasets listed for this group is in the catalog.</p>
+  {% endif %}
+</section>
+{% endblock %}

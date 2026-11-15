@@ -1,0 +1,32 @@
+name: Suggest a dataset
+description: Propose a dataset for inclusion in the catalog.
+title: "Add dataset: "
+labels: ["new dataset"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Dataset name
+    validations:
+      required: true
+  - type: input
+    id: landing_url
+    attributes:
+      label: Landing page URL
+      description: The official page of the dataset or its maintainer.
+    validations:
+      required: true
+  - type: input
+    id: reference
+    attributes:
+      label: Reference article or DOI
+      description: The publication or persistent identifier that documents the dataset.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it qualifies
+      description: Is it systematically collected and documented (codebook or methods paper), and used or usable in peer-reviewed political science research?
+    validations:
+      required: true

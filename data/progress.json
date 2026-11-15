@@ -1,0 +1,194 @@
+{
+  "catalog_version": "0.1",
+  "domains": {
+    "REG": {
+      "n": 1,
+      "name": "Regimes, democracy & governance",
+      "status": "complete",
+      "rows": 98,
+      "last_run": "2026-11-03",
+      "open_unverified": 221,
+      "notes": "221 UNVERIFIED cells in 91 of 98 REG rows; 79 are citation_count (Google Scholar CAPTCHA-blocked; OpenAlex counts in unverified_notes)."
+    },
+    "ELEC": {
+      "n": 2,
+      "name": "Elections & electoral systems",
+      "status": "complete",
+      "rows": 173,
+      "last_run": "2026-11-03",
+      "open_unverified": 524,
+      "notes": "427 UNVERIFIED cells in 120 of 137 ELEC rows; 70 are citation_count. 47 Low-confidence rows (several sites block automated access)."
+    },
+    "PARTY": {
+      "n": 3,
+      "name": "Political parties & party systems",
+      "status": "complete",
+      "rows": 77,
+      "last_run": "2026-11-03",
+      "open_unverified": 146,
+      "notes": "142 UNVERIFIED cells in 73 of 74 PARTY rows; 69 are citation_count. Low confidence: PARTY-008, PARTY-027, PARTY-029, PARTY-034, PARTY-044, PARTY-068."
+    },
+    "LEG": {
+      "n": 4,
+      "name": "Legislatures & legislative behavior",
+      "status": "complete",
+      "rows": 112,
+      "last_run": "2026-11-04",
+      "open_unverified": 254,
+      "notes": "219 UNVERIFIED cells in 85 of 87 LEG rows; 63 are citation_count. Low confidence: LEG-011, LEG-020, LEG-021, LEG-023, LEG-024, LEG-025, LEG-027, LEG-030, LEG-042, LEG-043, LEG-045, LEG-049, LEG-050, LEG-052, LEG-056, LEG-058, LEG-072, LEG-075."
+    },
+    "EXEC": {
+      "n": 5,
+      "name": "Executives, cabinets & leaders",
+      "status": "complete",
+      "rows": 58,
+      "last_run": "2026-11-04",
+      "open_unverified": 101,
+      "notes": "96 UNVERIFIED cells in 41 of 53 EXEC rows; 32 are citation_count. Low confidence: EXEC-016, EXEC-034, EXEC-039, EXEC-045, EXEC-048."
+    },
+    "CONST": {
+      "n": 6,
+      "name": "Constitutions, courts, law & territorial institutions",
+      "status": "complete",
+      "rows": 101,
+      "last_run": "2026-11-04",
+      "open_unverified": 244,
+      "notes": "238 UNVERIFIED cells in 91 of 97 CONST rows; 80 are citation_count. Low confidence: CONST-007, CONST-018, CONST-026, CONST-028, CONST-030, CONST-031, CONST-034, CONST-040, CONST-045, CONST-048, CONST-058, CONST-064, CONST-078, CONST-087, CONST-090, CONST-092."
+    },
+    "BUR": {
+      "n": 7,
+      "name": "Bureaucracy & public administration",
+      "status": "complete",
+      "rows": 46,
+      "last_run": "2026-11-04",
+      "open_unverified": 99,
+      "notes": "94 UNVERIFIED cells in 41 of 41 BUR rows; 34 are citation_count. Low confidence: BUR-007, BUR-013, BUR-018, BUR-030."
+    },
+    "POLICY": {
+      "n": 8,
+      "name": "Public policy & policy agendas",
+      "status": "complete",
+      "rows": 86,
+      "last_run": "2026-11-04",
+      "open_unverified": 194,
+      "notes": "184 UNVERIFIED cells in 75 of 75 POLICY rows; 67 are citation_count. Low confidence: POLICY-012, POLICY-024, POLICY-027, POLICY-036, POLICY-037, POLICY-045, POLICY-051, POLICY-056, POLICY-060, POLICY-062."
+    },
+    "OPIN": {
+      "n": 9,
+      "name": "Political behavior & public opinion",
+      "status": "complete",
+      "rows": 157,
+      "last_run": "2026-11-04",
+      "open_unverified": 326,
+      "notes": "315 UNVERIFIED cells in 132 of 143 OPIN rows; 103 are citation_count. 27 Low-confidence rows: OPIN-016, OPIN-021, OPIN-022, OPIN-023, OPIN-024, OPIN-032, OPIN-034, OPIN-041, OPIN-044, OPIN-053, OPIN-065, OPIN-067, OPIN-072, OPIN-073, OPIN-076, OPIN-078, OPIN-080, OPIN-081, OPIN-087, OPIN-089, OPIN-090, OPIN-098, OPIN-102, OPIN-105, OPIN-120, OPIN-142, OPIN-143."
+    },
+    "PE": {
+      "n": 10,
+      "name": "Political economy",
+      "status": "complete",
+      "rows": 171,
+      "last_run": "2026-11-04",
+      "open_unverified": 403,
+      "notes": "393 UNVERIFIED cells in 153 of 162 PE rows; 101 are citation_count (Google Scholar CAPTCHA; OpenAlex/Crossref counts in unverified_notes). Updated 2026-11-04 (77 rows re-verified, 74 patched). 27 Low-confidence rows: PE-006 PE-013 PE-021 PE-025 PE-037 PE-051 PE-052 PE-067 PE-075 PE-087 PE-088 PE-090 PE-095 PE-104 PE-105 PE-109 PE-118 PE-120 PE-121 PE-122 PE-129 PE-136 PE-138 PE-142 PE-154 PE-157 PE-158."
+    },
+    "IR": {
+      "n": 11,
+      "name": "International relations",
+      "status": "complete",
+      "rows": 148,
+      "last_run": "2026-11-04",
+      "open_unverified": 294,
+      "notes": "294 UNVERIFIED cells in 143 of 148 IR rows; 120 are citation_count (Google Scholar CAPTCHA; OpenAlex/Crossref counts in unverified_notes). Updated 2026-11-04 (44 rows re-verified, 43 patched). 16 Low-confidence rows: IR-026 IR-027 IR-037 IR-038 IR-049 IR-056 IR-070 IR-074 IR-084 IR-097 IR-098 IR-102 IR-110 IR-119 IR-128 IR-144."
+    },
+    "CONF": {
+      "n": 12,
+      "name": "Conflict & political violence",
+      "status": "complete",
+      "rows": 154,
+      "last_run": "2026-11-04",
+      "open_unverified": 356,
+      "notes": "356 UNVERIFIED cells in 149 of 154 CONF rows; 132 are citation_count (Google Scholar CAPTCHA; OpenAlex/Crossref counts in unverified_notes). Updated 2026-11-04 (41 rows re-verified, 40 patched). 20 Low-confidence rows: CONF-037 CONF-040 CONF-051 CONF-054 CONF-057 CONF-058 CONF-064 CONF-070 CONF-071 CONF-073 CONF-075 CONF-076 CONF-079 CONF-080 CONF-108 CONF-110 CONF-129 CONF-130 CONF-149 CONF-154."
+    },
+    "HR": {
+      "n": 13,
+      "name": "Human rights, repression & contentious politics",
+      "status": "complete",
+      "rows": 101,
+      "last_run": "2026-11-04",
+      "open_unverified": 227,
+      "notes": "221 UNVERIFIED cells in 94 of 96 HR rows; 79 are citation_count (Google Scholar CAPTCHA; OpenAlex/Crossref counts in unverified_notes). Updated 2026-11-04 (32 rows re-verified and patched). 13 Low-confidence rows: HR-007 HR-031 HR-033 HR-039 HR-047 HR-059 HR-061 HR-079 HR-080 HR-083 HR-084 HR-092 HR-094."
+    },
+    "TEXT": {
+      "n": 14,
+      "name": "Political communication, media & text-as-data",
+      "status": "complete",
+      "rows": 101,
+      "last_run": "2026-11-04",
+      "open_unverified": 175,
+      "notes": "171 UNVERIFIED cells in 95 of 99 TEXT rows; 73 are citation_count (Google Scholar CAPTCHA; OpenAlex/Crossref counts in unverified_notes). ParlSpeech is catalogued as LEG-077. Updated 2026-11-04 (39 rows re-verified and patched). 14 Low-confidence rows: TEXT-006 TEXT-007 TEXT-023 TEXT-024 TEXT-026 TEXT-027 TEXT-040 TEXT-061 TEXT-072 TEXT-074 TEXT-079 TEXT-081 TEXT-087 TEXT-090."
+    },
+    "IDENT": {
+      "n": 15,
+      "name": "Identity, ethnicity, religion & migration",
+      "status": "complete",
+      "rows": 137,
+      "last_run": "2026-11-05",
+      "open_unverified": 182,
+      "notes": "179 UNVERIFIED cells in 101 of 136 IDENT rows; 90 are citation_count (Google Scholar answered only intermittently; OpenAlex/Crossref counts in unverified_notes). EPR family, MAR and AMAR are catalogued under CONF. Updated twice on 2026-11-05 (48 rows, then 92 rows re-verified; 6 rows added). 18 Low-confidence rows: IDENT-009 IDENT-013 IDENT-022 IDENT-029 IDENT-033 IDENT-036 IDENT-051 IDENT-057 IDENT-099 IDENT-102 IDENT-103 IDENT-107 IDENT-112 IDENT-122 IDENT-124 IDENT-127 IDENT-133 IDENT-136."
+    },
+    "GENDER": {
+      "n": 16,
+      "name": "Gender & politics",
+      "status": "complete",
+      "rows": 76,
+      "last_run": "2026-11-05",
+      "open_unverified": 110,
+      "notes": "109 UNVERIFIED cells in 66 of 75 GENDER rows; 57 are citation_count (Google Scholar CAPTCHA, OpenAlex rate limit; OpenAlex/Crossref counts in unverified_notes where available). Gender-related rows with other primary domains carry GENDER as a secondary domain. Updated 2026-11-05 (59 rows re-verified). 16 Low-confidence rows: GENDER-002 007 010 011 026 028 035 038 048 049 052 062 063 064 069 075."
+    },
+    "ENV": {
+      "n": 17,
+      "name": "Environmental & climate politics",
+      "status": "complete",
+      "rows": 118,
+      "last_run": "2026-11-05",
+      "open_unverified": 165,
+      "notes": "165 UNVERIFIED cells in 99 of 118 ENV rows; 75 are citation_count (Google Scholar CAPTCHA, OpenAlex daily quota; Crossref counts in unverified_notes). Natural-resource rows stay under PE/CONF with ENV as a secondary domain. Updated 2026-11-05 (82 rows re-verified, 2 rows added). 12 Low-confidence rows: ENV-014 020 021 022 037 048 057 071 072 092 097 111."
+    },
+    "GEO": {
+      "n": 18,
+      "name": "Subnational, local & geospatial politics",
+      "status": "complete",
+      "rows": 88,
+      "last_run": "2026-11-06",
+      "open_unverified": 134,
+      "notes": "129 UNVERIFIED cells in 78 of 85 GEO rows; 49 are citation_count. Updated 2026-11-06 (80 rows re-verified across GEO and the run's other-domain rows; GEO-084 and GEO-085 added). Low-confidence GEO rows: GEO-014 023 051 082 083."
+    },
+    "HIST": {
+      "n": 19,
+      "name": "Historical political data",
+      "status": "complete",
+      "rows": 84,
+      "last_run": "2026-11-06",
+      "open_unverified": 113,
+      "notes": "113 UNVERIFIED cells in 72 of 84 HIST rows; 70 are citation_count. PROTOCOL.md lists no HIST must-includes. Updated 2026-11-06 (72 rows patched across HIST and the run's other-domain rows; LEG-091 to LEG-093 and PARTY-076 added). Low-confidence HIST rows: HIST-004 HIST-015 HIST-050 HIST-054 HIST-056."
+    },
+    "AREA": {
+      "n": 20,
+      "name": "Regional and country-specific collections",
+      "status": "complete",
+      "rows": 74,
+      "last_run": "2026-11-06",
+      "open_unverified": 147,
+      "notes": "147 UNVERIFIED cells in 61 of 74 AREA rows; 15 are citation_count. All five protocol must-includes present (AREA-010 to AREA-014). Updated 2026-11-06 (119 rows patched across AREA and the run's other-domain rows; AREA-074, ELEC-172, ELEC-173, EXEC-058 and IDENT-137 added). Low-confidence AREA rows: AREA-014 AREA-025 AREA-034 AREA-037 AREA-047 AREA-063 AREA-066 AREA-070."
+    },
+    "INFRA": {
+      "n": 21,
+      "name": "Data infrastructure",
+      "status": "complete",
+      "rows": 109,
+      "last_run": "2026-11-11",
+      "open_unverified": 159,
+      "notes": "159 UNVERIFIED cells in 75 of 109 INFRA rows; 40 are citation_count. All four protocol must-includes present (INFRA-021, INFRA-022, INFRA-023, INFRA-026). Updated 2026-11-11 (61 INFRA-run rows patched; LEG-038 updated for the EveryPolitician relaunch). Low-confidence INFRA rows: INFRA-013 INFRA-015 INFRA-016 INFRA-079 INFRA-083 INFRA-099 INFRA-100."
+    }
+  }
+}

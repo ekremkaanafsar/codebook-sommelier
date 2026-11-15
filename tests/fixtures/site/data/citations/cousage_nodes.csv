@@ -1,0 +1,7 @@
+id,name,primary_domain,n_citing,n_citing_polisci,degree,weighted_degree,eigenvector,betweenness,community,top5,shares_reference_with
+CONF-001,UCDP/PRIO Armed Conflict Dataset,CONF,3851,2652,291,8.865863,0.174028,0.036084,2,CONF-003;CONF-002;IR-001,
+CONF-003,UCDP Georeferenced Event Dataset (Global),CONF,1280,840,164,4.924737,0.069342,0.047349,2,CONF-001;CONF-002,
+IR-001,Correlates of War Militarized Interstate Disputes (incl. Dyadic MID and incident-level MIDI/MIDIP files),IR,1013,820,91,3.436539,0.061391,0.004092,9,IR-002;CONF-001,
+REG-001,Varieties of Democracy (V-Dem) Country-Year Dataset,REG,971,668,141,5.283346,0.125665,0.007293,4,REG-003;REG-002;CONF-001;ZZZ-001;IR-001,REG-003
+REG-002,Historical Varieties of Democracy (Historical V-Dem),REG,80,52,39,2.006662,0.059746,0.013633,4,REG-001;REG-003,
+REG-003,Regimes of the World (RoW),REG,641,480,118,4.154639,0.102177,0.031974,5,REG-001;REG-002,

@@ -1,0 +1,38 @@
+{
+  "landscape": [
+    "Regional and country-specific data come in three families. The first is country political data built around one national system: U.S. money-in-politics and presidency data (AREA-010 to AREA-018, POLICY-081, POLICY-082, EXEC-055, EXEC-056), parliamentary open-data services for Canada, Australia, Ireland, Switzerland, Italy, Spain, Brazil, Korea, Taiwan and Israel (LEG-094 to LEG-111), and national election-results archives (ELEC-156 to ELEC-171). Many of these are official services whose structure changes when governments redesign websites, so links and formats need checking before each use.",
+    "The second family is EU-institution data: Council voting and negotiations (LEG-096 to LEG-099), Commission personnel and organisation (EXEC-057, BUR-044 to BUR-046), EU law, infringements and differentiated integration (CONST-100, CONST-101, POLICY-083, POLICY-084, AREA-021, INFRA-034), EU funds (AREA-022, AREA-023) and the Commission's economic databases (PE-167, PE-169), plus Eurostat (PE-026).",
+    "The third family is official statistics: national statistical offices and their query portals (AREA-026, AREA-027, AREA-031, AREA-052, AREA-060 to AREA-073), UN regional commission portals for Africa, Asia-Pacific, the Arab region and Europe (AREA-039, AREA-054 to AREA-056), regional bodies (AREA-057, AREA-058) and commercial country-statistics products for China, India and Russia (AREA-006 to AREA-008, AREA-035, AREA-049, AREA-051, PE-171). Region-specific elite and survey data complete the picture: Chinese elite databases (AREA-045 to AREA-047), Russian elite and election surveys (OPIN-149, OPIN-150), Chinese, Arab and Central Asian surveys (OPIN-151 to OPIN-157) and national social-science data archives (INFRA-035 to INFRA-038)."
+  ],
+  "core": [
+    {
+      "id": "AREA-010",
+      "text": "The FEC's bulk files and OpenFEC API are the official record of U.S. federal campaign finance since the 1970s: candidate and committee masters, itemised individual contributions, committee transfers, independent and operating expenditures, updated nightly. Itemisation thresholds hide small donors, and there is no unique contributor identifier, so researchers must standardise names before aggregating (Williams, Gulati and Zeglen 2020 review uses and limits)."
+    },
+    {
+      "id": "AREA-011",
+      "text": "Bonica's DIME links more than 850 million contributions from 1979 to 2024 across federal, state and local elections and estimates common-space CFscores for candidates, committees and donors. It is widely used for donor-based ideology and for linking campaign money across levels of government. CFscores track donor behaviour and only weakly predict within-party roll-call voting (Tausanovitch and Warshaw 2017)."
+    },
+    {
+      "id": "AREA-012",
+      "text": "The American Presidency Project at UC Santa Barbara holds about 189,000 presidential documents from 1789 to the present, from the Public Papers to signing statements and executive orders, and a data archive of tables on presidential actions, approval and elections. It has no bulk download or API, so large-scale text work depends on the site's terms."
+    },
+    {
+      "id": "AREA-013",
+      "text": "The Census Bureau's November CPS Voting and Registration Supplement measures self-reported registration and turnout by demographic group and state for every national election since 1964, with microdata from 1968 and API files from 1994. Over-reporting and the coding of non-respondents as non-voters bias turnout estimates; Hur and Achen (2013) propose a reweighting correction."
+    },
+    {
+      "id": "AREA-023",
+      "text": "The Commission's Cohesion Open Data Platform publishes planned and paid amounts for EU shared-management funds by programme, theme and region across three programming periods, with regionalised historic payments from 1986. It is an open source for studying the politics of EU regional spending, though payments follow programme accounting cycles rather than actual spending on the ground."
+    }
+  ],
+  "choosing": [
+    "For U.S. federal campaign money, use FEC data (AREA-010) for the official filings and DIME (AREA-011) when you need linked donors, ideology scores or state and local races. OpenSecrets (AREA-014) adds industry coding and lobbying links, but its access terms have tightened and its pages blocked automated verification. For state campaign finance and lobbying, see FollowTheMoney (AREA-004, frozen while merging into OpenSecrets) and the state law databases (AREA-015 to AREA-017).",
+    "For lobbying, use LDA filings (POLICY-081) for registrations and quarterly reports and FARA (POLICY-082) for agents of foreign principals; LobbyView (POLICY-022) adds bill-level links and firm identifiers. In the EU, use Integrity Watch EU (POLICY-085) for meetings with Commission officials and MEPs, noting it is produced by an advocacy organisation.",
+    "For Council of the EU voting, the official open dataset (LEG-096) is discontinued; use the SWP cleaned data (LEG-097) for public votes and the Negotiations in the Council dataset (LEG-098) for positions and bargaining. For compliance, the Berlin Infringement Database (POLICY-084) and EUIP (POLICY-083) both code infringement cases against member states; compare their case definitions, stages covered and years before pooling.",
+    "For official statistics on one country, start with the national statistical office's query portal (AREA-060 to AREA-073) and use regional commission portals (AREA-039, AREA-054 to AREA-056) only for cross-country comparison, since they re-publish national figures with their own harmonisation. Commercial products (AREA-049, AREA-051, PE-171) add long time series and translation but cost money and document their sources unevenly. For Latin American institutions, use SIGLA (AREA-074), the successor to the Political Database of the Americas."
+  ],
+  "gaps": [
+    "Several widely used regional datasets have no public release: the African Legislatures Project, the Africa Leadership Change data and the African Cabinet and Political Elite Data were dropped for that reason. For African cabinets, the open African Cabinet Politics and ECAG datasets (EXEC-058, IDENT-137) fill part of the gap. Pre-2000 subnational political data outside the U.S., Europe, China and India are scarce, and official parliamentary open data for Africa, the Middle East and Central Asia are rare or unreachable (the Ukrainian Rada portal could not be opened when checked). Many official portals block automated access (OpenSecrets, lda.gov, ICPSR, several statistical offices), so their rows carry blocked-by-site link status and some unverified fields."
+  ]
+}

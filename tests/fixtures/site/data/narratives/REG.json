@@ -1,0 +1,34 @@
+{
+ "landscape": [
+  "Fixture landscape paragraph one for REG.",
+  "Fixture landscape paragraph two for REG."
+ ],
+ "core": [
+  {
+   "id": "REG-001",
+   "text": "Fixture core paragraph for REG-001."
+  },
+  {
+   "id": "REG-003",
+   "text": "Fixture core paragraph for REG-003."
+  },
+  {
+   "id": "REG-004",
+   "text": "Fixture core paragraph for REG-004."
+  },
+  {
+   "id": "REG-002",
+   "text": "Fixture core paragraph for REG-002."
+  },
+  {
+   "id": "REG-999",
+   "text": "Fixture core paragraph for REG-999."
+  }
+ ],
+ "choosing": [
+  "Fixture advice on choosing among REG datasets."
+ ],
+ "gaps": [
+  "Fixture gaps paragraph for REG."
+ ]
+}

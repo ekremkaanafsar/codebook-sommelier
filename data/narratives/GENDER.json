@@ -1,0 +1,44 @@
+{
+ "landscape": [
+  "Gender-and-politics data cluster in four families. Representation data count women in parliaments, cabinets, parties, local councils, international organizations and courts. The main sources are IPU's women-in-parliament series (GENDER-001), the Paxton-Green-Hughes historical file (GENDER-005), EIGE's decision-making database for Europe (GENDER-012), CAWP for the United States (GENDER-013) and UN Women's local-government indicator (GENDER-006). Cabinet and legislator data with gender fields sit in other domains (WhoGov EXEC-004, Paths to Power EXEC-019, Global Legislators Database LEG-033).",
+  "Institutional and policy data code the rules that shape women's position. They cover electoral quotas (IDEA's current-state database GENDER-003 and the QAROT panel GENDER-004), legal equality (World Bank Women, Business and the Law GENDER-027; OECD SIGI and GID-DB GENDER-025/026), abortion law (WHO's Global Abortion Policies Database GENDER-044), parental leave (GDParL, EPLP and LIS, GENDER-049 to 051), gender budgeting, and treaty commitments (CEDAW ROCS GENDER-039).",
+  "Composite indices and statistics portals summarise women's status across many domains. They include WomanStats (GENDER-024), the Global Gender Gap Index, EIGE's Gender Equality Index, the SDG Gender Index and the WPS Index (GENDER-028 to 031), plus official portals from the World Bank, UN Women, UNSD, OECD, EIGE, UNECE and ECLAC (GENDER-032 to 038). Movement and attitude data (RNGS, WINGO, the Feminist Mobilization Index, FEMPOWER, Public Gender Egalitarianism and the Gender Social Norms Index) cover the demand side.",
+  "LGBTQ+ politics is a younger field. Its data include legal-recognition and rights indices (GILRHO, TRIP, the TGEU index, the F&M barometers, and ILGA, Rainbow Map and the LGBTI Policy Index under POLICY), acceptance measures (the Global Acceptance Index; Support for Gay Rights under OPIN), data on LGBTQ+ officeholders (Queer Politics at Princeton, now offline; Victory Institute) and U.S. transgender surveys (USTS, TransPop). Advocacy organizations produce many of these, so their methods need checking before use."
+ ],
+ "core": [
+  {
+   "id": "GENDER-001",
+   "text": "IPU's women-in-parliament series is the reference count of women in national legislatures: monthly world and regional rankings since 1997 and chamber-level historical data from 1945, supplied by parliaments themselves. It underlies SDG indicator 5.5.1a and most cross-national studies of women's descriptive representation. Only lower or single houses enter the ranking, and early values were revised by Paxton, Green and Hughes (GENDER-005), whose file remains the better choice for long series before 2003. The wider Parline platform is catalogued as LEG-041."
+  },
+  {
+   "id": "GENDER-004",
+   "text": "QAROT codes the adoption, reform, type, threshold, sanctions and placement rules of national legislative quotas for 190 countries from 1947 to 2015, which suits it to studying when quotas are adopted and whether they work. It ends in 2015 and covers only national legislative quotas, so current rules, party quotas and subnational quotas should be taken from International IDEA's Gender Quotas Database (GENDER-003). That database records only the current state of quota rules and has no bulk download."
+  },
+  {
+   "id": "GENDER-027",
+   "text": "Women, Business and the Law scores the laws affecting women's economic participation in 190 economies across topics such as mobility, work, pay, marriage, parenthood, assets and pensions, with a historical panel from 1970/1971. It is open, annually updated and widely used for legal-equality variables. Its own handbook notes that it codes codified law in the main business city, so customary law, enforcement and subnational variation are outside its scope. Method changes in 2024 and 2026 break the series."
+  },
+  {
+   "id": "GENDER-025",
+   "text": "The OECD's SIGI measures discrimination in social institutions (family, physical integrity, access to resources, civil liberties) by combining law, practice and attitudes for up to 179 countries in five editions from 2009 to 2023. The underlying GID-DB (GENDER-026) holds the variables. It complements WBL by covering informal institutions, but the editions are not a consistent panel and many countries lack a score in the latest round."
+  },
+  {
+   "id": "GENDER-024",
+   "text": "WomanStats compiles qualitative and quantitative information on the status of women in 176 countries and derives ordinal scales such as the physical security of women and the discrepancy between law and practice. Its family-law, clan-governance and violence-related scales are widely used in the gender-and-security literature. Access requires a free account, extracts come without standard country codes, and scales were coded at different times, which limits comparison over time."
+  }
+ ],
+ "choosing": [
+  "For women's share of seats, use IPU (GENDER-001) for recent years and Paxton-Green-Hughes (GENDER-005) for long series to 2003, and cite the IPU monthly date used. For cabinets use WhoGov (EXEC-004); for local office use UN Women's SDG 5.5.1b data (GENDER-006); for European decision-making bodies use EIGE WMID (GENDER-012).",
+  "For quotas, use QAROT for panel analyses to 2015 and IDEA's database for current rules; code thresholds and sanctions rather than relying on a quota dummy.",
+  "For legal equality, combine WBL (codified economic law, annual) with SIGI/GID-DB (social institutions, five editions) and WomanStats (law versus practice). The Global Gender Gap Index measures outcome gaps truncated at parity and has been criticised for that choice (Stoet and Geary 2019).",
+  "For attitudes, prefer Public Gender Egalitarianism (GENDER-022), which pools surveys into country-year estimates with uncertainty, over single-survey items; the Gender Social Norms Index is a two-wave snapshot.",
+  "For LGBTQ+ rights, use ILGA (POLICY-073) or GILRHO (GENDER-068) for legal status, TRIP (GENDER-061) for transgender rights to 2021 and the Global Acceptance Index (GENDER-065) for public acceptance. Treat advocacy indices (TGEU, HRC, MAP, Victory Institute) as descriptive sources and document their methods."
+ ],
+ "gaps": [
+  "No maintained global panel of quota rules exists after 2015, and IDEA's database has no bulk download.",
+  "Women's representation below the national level is thinly covered outside Europe and the United States, and the UN Women local indicator starts in 2020.",
+  "Data on women in international organizations are scattered: two academic datasets identified during the source search have no public release, so only GWL Voices' annual counts remain.",
+  "LGBTQ+ officeholder data lost their main global source when Queer Politics at Princeton went offline in 2024; legal-rights indices exist, but implementation and enforcement are rarely coded.",
+  "Several policy datasets are one-off or frozen (RNGS to 2001, WINGO to 2013, Canning's abortion law database, the IMF gender budgeting data of 2016). The Htun-Weldon violence-against-women policy data have no public release that this project could locate."
+ ]
+}

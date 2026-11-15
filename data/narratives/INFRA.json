@@ -1,0 +1,39 @@
+{
+  "landscape": [
+    "Data infrastructure is what lets researchers find, combine and preserve political data. It has four layers. Identifier standards and crosswalks define the units that datasets share. They include ISO 3166 and UN M49 country codes (INFRA-040, INFRA-041), World Bank country groups (INFRA-042), U.S. ANSI/FIPS, ICPSR and SSA codes (INFRA-044 to INFRA-046) and the Correlates of War and Gleditsch-Ward state lists (catalogued under IR). Wikidata identifiers for politicians and parties (INFRA-043) and occupational, industry and trade concordances (INFRA-047 to INFRA-050, INFRA-056) belong to the same layer.",
+    "Software turns those standards into working merges. The countrycode package and its relatives convert names and codes (INFRA-022, INFRA-051 to INFRA-055), and the peacesciencer, democracyData and states packages build country-year and dyad-year frames from many sources (INFRA-021, INFRA-023, INFRA-024). API clients reach official statistics through SDMX, the World Bank API, DBnomics, EconDataverse and Google Data Commons (INFRA-061 to INFRA-065), and harmonisation tools such as retroharmonize (INFRA-057) align survey waves.",
+    "Repositories hold the data. Social-science archives offer curation and long-term preservation (ICPSR INFRA-005, GESIS INFRA-002, UK Data Service INFRA-004 and national archives across Europe, the Nordic countries, Canada, Australia, South Africa and Asia, INFRA-007 to INFRA-018, INFRA-035 to INFRA-038, INFRA-075 to INFRA-090). Generalist repositories with lighter curation (Harvard Dataverse INFRA-067, Zenodo INFRA-069, OSF INFRA-070, figshare INFRA-071, Dryad INFRA-072) and journal replication collections (INFRA-026, INFRA-091, INFRA-092) sit beside them. Since 2025 a set of rescue archives has preserved U.S. federal data removed from agency websites (INFRA-096 to INFRA-101).",
+    "Discovery services connect the layers. They include dataset search engines and registries (Google Dataset Search INFRA-102, re3data INFRA-103, DataCite Commons INFRA-104), data-citation indexes (INFRA-106, INFRA-107) and curated lists of political datasets (PolData INFRA-058, the CRAN Official Statistics task view INFRA-060)."
+  ],
+  "core": [
+    {
+      "id": "INFRA-022",
+      "text": "countrycode (Arel-Bundock, Enevoldsen and Yetman 2018) converts between more than 40 country-coding schemes and matches hundreds of name variants by regular expression. It is a common first step in merging cross-national data in R and has a Python port. It is not year-aware, so state births, mergers and differences between the COW and Gleditsch-Ward lists must be handled separately, for example with states (INFRA-024) or democracyData (INFRA-023)."
+    },
+    {
+      "id": "INFRA-021",
+      "text": "peacesciencer (Miller 2022) builds state-year, dyad-year and leader-year frames and merges about thirty conflict, alliance, capability, regime and economic datasets into them through a consistent set of functions. It makes the construction of standard IR panels reproducible, but its bundled source versions can trail the producers' latest releases, so users should record the package version and check each source."
+    },
+    {
+      "id": "INFRA-067",
+      "text": "Harvard Dataverse is a general-purpose repository widely used in political science, with about 120,000 datasets in close to 10,000 collections in November 2026 and persistent DOIs for every deposit. Most political-science journals deposit replication files there (INFRA-026 for IR journals, INFRA-091 for twenty others). Curation is light: Trisovic et al. (2022) found that most R scripts in the repository failed to run without errors."
+    },
+    {
+      "id": "INFRA-005",
+      "text": "ICPSR at the University of Michigan is a large curated social-science archive in the United States, holding more than 400,000 research files in topical collections, with a bibliography linking data to publications (INFRA-106). In 2026 it absorbed the self-publishing platform openICPSR and hosts the DataLumos archive of U.S. government data (INFRA-096). Many collections require institutional membership, and its web pages block automated access."
+    },
+    {
+      "id": "INFRA-103",
+      "text": "re3data indexes more than 3,500 research-data repositories with structured metadata on subjects, access, licences, persistent identifiers and certification (Pampel et al. 2023). It helps locate where data in a field are deposited and check a repository's status. It describes repositories rather than datasets, so dataset search goes through Google Dataset Search (INFRA-102) or DataCite Commons (INFRA-104)."
+    }
+  ],
+  "choosing": [
+    "For country codes, use ISO 3166 (INFRA-040) or UN M49 (INFRA-041) to match official statistics and the COW or Gleditsch-Ward lists (IR) for state-system panels. Convert with countrycode (INFRA-022) in R or country_converter (INFRA-051) in Python, and use a year-aware tool (INFRA-023, INFRA-024) when borders or state membership change over the period.",
+    "For assembling panels from many sources, peacesciencer (INFRA-021) covers peace-science variables, democracyData (INFRA-023) collects regime measures, and Demscore (INFRA-001), QoG (REG-057) or the IPE Data Resource (INFRA-019) provide ready-merged files. Record the version of each source, because merged files lag producers' releases.",
+    "For official statistics, prefer the producer's own API through an SDMX client (INFRA-062) or the World Bank clients (INFRA-064). DBnomics (INFRA-061) and Google Data Commons (INFRA-065) are convenient single entry points but re-publish data, so cite the original provider.",
+    "For depositing data, use a curated social-science archive (ICPSR, GESIS, UK Data Service or the national archive) when long-term preservation and documentation matter or data are sensitive. Use Harvard Dataverse or Zenodo for the open replication packages that most political-science journals require. OSF stops new projects on 2026-11-16 and becomes read-only in February 2027, so it is no longer a place for new data deposits."
+  ],
+  "gaps": [
+    "Identifier systems for sub-national units, parties and politicians remain fragmented: there is no maintained, year-aware global crosswalk for sub-national units, and politician identifiers depend on Wikidata or project-specific IDs. Several infrastructure services changed or closed recently: openICPSR merged into ICPSR in 2026, MacroDataGuide and Elsevier DataSearch are offline, the World Bank's GovData360 appears offline, and OSF is ending new projects. Some U.S. federal data now survive only in rescue archives with uneven documentation. Replication collections are large but unevenly documented, and many deposits do not run as provided."
+  ]
+}

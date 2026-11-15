@@ -1,0 +1,118 @@
+url,status,verified_on,method,note
+https://www.transparency.org/en/cpi/2025,ok,2026-11-03,manual browser check,Page title 'Corruption Perceptions Index 2025'; 403 only for scripted requests
+https://www.transparency.org/en/gcb,ok,2026-11-03,manual browser check,Page title 'Global Corruption Barometer'; 403 only for scripted requests
+https://www.journals.uchicago.edu/doi/suppl/10.1086/700936,ok,2026-11-03,manual browser check,JPE article 'Democracy Does Cause Growth' supplement page loads
+https://www.spglobal.com/market-intelligence/en/solutions/products/risk-quantification-risk-management,ok,2026-11-03,manual browser check,Page title 'Risk Quantification: Country Risk Management'
+https://www.icpsr.umich.edu/web/ICPSR/studies/2532,blocked-by-site,2026-11-03,manual browser check,Cloudflare bot verification page; study details confirmed via DataCite record
+https://www.icpsr.umich.edu/web/ICPSR/studies/6996,blocked-by-site,2026-11-03,manual browser check,Cloudflare bot verification page; study details confirmed via DataCite record
+https://doi.org/10.3886/E113745V1,blocked-by-site,2026-11-03,manual browser check,Resolves to openICPSR project 113745; Cloudflare bot verification page
+https://CRAN.R-project.org/package=PolicyPortfolios,ok,2026-11-04,manual browser check,Package page loads in a browser; scripted TLS connections to CRAN package paths fail from this machine
+https://cran.r-project.org/web/packages/PolicyPortfolios/refman/PolicyPortfolios.html,ok,2026-11-04,manual browser check,Same CRAN package (index page loaded in browser); scripted TLS connections fail from this machine
+https://jdsurvey.net/jds/jdsurvey.jsp?Idioma=I,ok,2026-11-04,manual curl check,HTTP 200 with curl; Python TLS client fails from this machine
+https://jdsurvey.net/jds/jdsurveyContents.jsp?Idioma=I&SeccionTexto=05,ok,2026-11-04,manual curl check,Same host as the ASEP/JDS landing page (HTTP 200 with curl)
+https://data.imf.org/en/Datasets/IMTS,ok,2026-11-04,manual browser check,Dataset page 'International Trade in Goods (by partner country) (IMTS) (formerly DOTS)'
+https://data.imf.org/datasets/WEO,ok,2026-11-04,manual browser check,"Dataset page 'World Economic Outlook (WEO)', October 2026 vintage"
+https://data.imf.org/en/datasets/IMF.FAD:HPD,ok,2026-11-04,manual browser check,Dataset page 'Historical Public Debt (HPD)'
+https://data.imf.org/en/datasets/IMF.FAD:GDD,ok,2026-11-04,manual browser check,Dataset page 'Global Debt Database (GDD)'
+https://data.imf.org/en/datasets/IMF.RES:SRD,ok,2026-11-04,manual browser check,Dataset page 'Structural Reform Database (SRD)'
+https://data.imf.org/en/datasets/IMF.STA:BOP,ok,2026-11-04,manual browser check,Dataset page 'Balance of Payments (BOP)'
+https://data.imf.org/en/datasets/IMF.STA:CPI,ok,2026-11-04,manual browser check,Dataset page 'Consumer Price Index (CPI)'
+https://data.imf.org/en/news/accessing%20international%20financial%20statistics,ok,2026-11-04,manual browser check,"News item 'Accessing International Financial Statistics (IFS)', 2025-03-24"
+https://data.imf.org/en/Resource-Pages/IMF-API,ok,2026-11-04,manual browser check,IMF Data APIs page (SDMX 2.1 and 3.0)
+https://data.imf.org/en/Datasets/WEO/Frequently-Asked-Questions,ok,2026-11-04,manual browser check,"WEO FAQ, last updated October 2026"
+https://data.imf.org/Datasets/GFS_COFOG,ok,2026-11-04,manual browser check,Dataset page 'GFS Government Expenditures by Function'
+https://data.imf.org/Datasets/WORLD,ok,2026-11-04,manual browser check,Dataset page 'World Revenue Longitudinal Database (WoRLD)'
+https://data.imf.org/en/datasets/IMF.STA%3ADIP,ok,2026-11-04,manual browser check,Dataset page 'Direct Investment Positions by Counterpart Economy (formerly CDIS)'
+https://data.imf.org/en/Data%20Explorer?datasetUrn=IMF.STA:IMTS(1.0.0)&dataPresentation=H_IMTS_EXPORT_IMPORT_AREA_COUNTRY,ok,2026-11-04,manual browser check,IMF Data Explorer view of IMTS
+https://data.imf.org/en/Datasets,ok,2026-11-04,manual browser check,IMF dataset list (111 datasets on 2026-11-04)
+https://data.imf.org/en,ok,2026-11-04,manual browser check,IMF Data home
+https://www.imf.org/external/datamapper/datasets/FPP,ok,2026-11-04,manual browser check,DataMapper application page loads (JavaScript app)
+https://www.imf.org/en/Research/commodity-prices,redirect,2026-11-04,manual browser check,Loads as 'IMF Primary Commodity Prices' at lower-case path /en/research/commodity-prices
+https://www.oecd.org/en/data/datasets/social-expenditure-database-socx.html,ok,2026-11-04,manual browser check,Page 'Social Expenditure Database (SOCX)'
+https://www.oecd.org/en/data/datasets/oecdaias-ictwss-database.html,ok,2026-11-04,manual browser check,Page 'OECD/AIAS ICTWSS database'
+https://www.oecd.org/en/data/datasets/global-revenue-statistics-database.html,ok,2026-11-04,manual browser check,Page 'Global Revenue Statistics Database'
+https://www.oecd.org/en/data/datasets/corporate-tax-statistics-database.html,redirect,2026-11-04,manual browser check,Redirects to 'Corporate Income Tax Rates Database' (/corporate-income-tax-rates-database.html)
+https://www.oecd.org/en/topics/product-market-regulation.html,ok,2026-11-04,manual browser check,Topic page 'Product market regulation'
+https://www.oecd.org/en/data/tools/oecd-better-life-index.html,redirect,2026-11-04,manual browser check,Redirects to 'OECD Well-being Data Monitor' (/en/data/tools/well-being-data-monitor.html)
+https://www.oecd.org/en/tiva.html,redirect,2026-11-04,manual browser check,Redirects to topic page 'Trade in value-added'
+https://www.oecd.org/en/publications/building-a-global-dataset-on-state-owned-enterprises_41a26c09-en.html,ok,2026-11-04,manual browser check,Publication page loads
+https://www.oecd.org/en/data/insights/data-explainers/2024/09/api.html,ok,2026-11-04,manual browser check,OECD API data explainer page
+https://stat.unido.org/,ok,2026-11-04,manual browser check,'UNIDO Statistics Portal' home
+https://stat.unido.org/data/database-descriptions,ok,2026-11-04,manual browser check,'Database Descriptions | UNIDO Statistics Portal'
+https://stat.unido.org/data/table?dataset=indstat&revision=4,ok,2026-11-04,manual browser check,'Browse and Download Our Databases' (INDSTAT Rev. 4)
+https://fred.stlouisfed.org/,ok,2026-11-04,manual browser check,FRED home; scripted requests time out
+https://fred.stlouisfed.org/help/about/about-fred/what-is-fred,ok,2026-11-04,manual browser check,'What is FRED?' help page; scripted requests time out
+https://www.cgdev.org/cdi,ok,2026-11-04,manual browser check,'Commitment to Development Index' interactive page
+https://www.cgdev.org/project/commitment-development-index,ok,2026-11-04,manual browser check,CDI project page
+https://www.heritage.org/index/,redirect,2026-11-04,manual browser check,Redirects to economicfreedom.heritage.org ('Index of Economic Freedom')
+http://www.columbia.edu/~mu2166/fkrsu/,ok,2026-11-04,manual browser check,FKRSU capital control measures page loads
+https://www.gesis.org/en/services/finding-and-accessing-data,ok,2026-11-04,manual browser check,GESIS data services page loads
+https://doi.org/10.1093/isq/sqaf090,ok,2026-11-04,manual browser check,Resolves to ISQ abstract 'Treasure Troves ... SWIFT Dataset'
+https://doi.org/10.1093/wber/6.3.353,ok,2026-11-04,manual browser check,"Resolves to WBER abstract (Cukierman, Webb and Neyapti 1992)"
+https://votes.theyworkforyou.com/data,ok,2026-11-04,manual browser check,Page 'Data | TheyWorkForYou Votes' loads; scripted requests get 503
+http://www.theyworkforyou.com/pwdata/scrapedxml/,redirect,2026-11-04,manual browser check,Directory listing 'Index of /pwdata/scrapedxml' at https://www.theyworkforyou.com/pwdata/scrapedxml/ (updated 2026-11-04); scripted requests get 503
+https://www.imf.org/external/np/pdr/mona/index.aspx,redirect,2026-11-04,manual browser check,"Redirects to https://www.imf.org/mona ('Monitoring of Fund Arrangements (Mona)', downloads for 2002-current)"
+https://data.imf.org/en/Resource-Pages/Additional-Data-Resources,ok,2026-11-04,manual browser check,IMF 'Additional Data Resources' page describing MONA
+https://data.imf.org/en/datasets/IMF.STA%3AFA,ok,2026-11-04,manual browser check,Dataset page 'Fund Accounts (FA)'
+https://coil.isr.umich.edu/data/,ok,2026-11-04,manual browser check,Page 'Data Files | The Continent of International Law'
+https://www.giga-hamburg.de/en/publications/research-data/giga-sanctions-dataset,ok,2026-11-04,manual browser check,Page 'GIGA Sanctions Dataset' loads after a Vercel security check
+https://www.usitc.gov/data/gravity/gravity_portal_labpta,ok,2026-11-04,manual browser check,Page 'Gravity Portal: LABPTA'
+https://www.imf.org/mona,ok,2026-11-04,manual browser check,Page 'Monitoring of Fund Arrangements (Mona)'
+https://data-explorer.oecd.org/vis?df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_CRS%40DF_CRS&df[ag]=OECD.DCD.FSD,ok,2026-11-04,manual browser check,OECD Data Explorer view of CRS flows (DSD_CRS@DF_CRS)
+https://cran.r-project.org/web/packages/troopdata/index.html,ok,2026-11-04,manual browser check,Page 'CRAN: Package troopdata'; scripted TLS fails on this machine
+https://esoc.princeton.edu/data,ok,2026-11-04,manual browser check,Page 'Data | Empirical Studies of Conflict' loads; scripts get 403
+https://esoc.princeton.edu/data/,ok,2026-11-04,manual browser check,Page 'Data | Empirical Studies of Conflict' loads; scripts get 403
+https://mbeissinger.scholar.princeton.edu/revolutionary-episodes-dataset,ok,2026-11-04,manual browser check,Page 'Revolutionary Episodes Dataset | Mark R. Beissinger' loads; scripts get 403
+https://developers.facebook.com/docs/content-library-and-api,ok,2026-11-04,manual browser check,Page 'Meta Content Library and API - Documentation' loads; scripts get 400
+https://developers.facebook.com/docs/content-library-and-api/changelog,ok,2026-11-04,manual browser check,"Changelog page of the Meta Content Library documentation (same site, loads in a browser); scripts get 400"
+https://transparency.meta.com/researchtools/other-data-catalogue/crowdtangle/,ok,2026-11-04,manual browser check,Meta Transparency Center page CrowdTangle (updated 2024-08-16) loads and states the tool closed on 2024-08-14; scripts get 400
+https://www.annenbergpublicpolicycenter.org/?p=42261,redirect,2026-11-04,manual browser check,"Redirects to the APPC page on assessing campaign discourse 1960-1992 (Campaign Discourse Mapping Project, posted 1996-07-22); scripts get 403"
+https://doi.org/10.1590/1678-987320287611,redirect,2026-11-05,manual browser check,DOI resolves to the SciELO article page (Revista de Sociologia e Politica); scripts time out
+https://oecd.org/en/data/datasets/oecd-databases-on-migration.html,ok,2026-11-05,manual browser check,OECD Databases on Migration page loads (www.oecd.org); scripts get 403
+https://www.oecd.org/els/mig/dioc.htm,redirect,2026-11-05,manual browser check,Redirects to the OECD dataset page Database on Immigrants in OECD and non-OECD Countries; scripts get 403
+https://www.oecd.org/en/publications/indicators-of-immigrant-integration-2023_1d5020a6-en.html,ok,2026-11-05,manual browser check,Publication page Indicators of Immigrant Integration 2023: Settling In loads; scripts get 403
+https://www.unhcr.org/refugee-statistics/,ok,2026-11-05,manual browser check,Refugee Data Finder key indicators page loads; scripts get 403
+https://missingmigrants.iom.int/downloads,ok,2026-11-05,manual browser check,Missing Migrants Project download page loads; scripts get 403
+https://www.migrationdataportal.org/,ok,2026-11-05,manual browser check,Migration Data Portal home page loads; scripts get 403
+https://ohss.dhs.gov/topics/immigration/yearbook-immigration-statistics,redirect,2026-11-05,manual browser check,Redirects to the OHSS Yearbook of Immigration Statistics page (/topics/immigration/yearbook); scripts get 403
+https://scholar.harvard.edu/barro/publications/religion-adherence-data,broken,2026-11-05,manual browser check,"Redirects to barro.scholars.harvard.edu, which shows Page not found (HTTP 404); scripts get 403"
+https://barro.scholars.harvard.edu/data_sets,ok,2026-11-05,manual browser check,Barro Data Sets page loads and lists Religion Adherence Data (Excel); scripts get 403
+https://github.com/carl-mc/LEDA/raw/master/docs/LEDA_paper.pdf,redirect,2026-11-05,HEAD request,Resolves to raw.githubusercontent.com with HTTP 200; full GET timed out with 504 twice
+https://www.weforum.org/publications/series/global-gender-gap-report/,redirect,2026-11-05,manual browser check,"Redirects to /publications/global-gender-gap-report (series page, 18 editions listed); 403 only for scripted requests"
+https://www.weforum.org/publications/global-gender-gap-report-2026,ok,2026-11-05,manual browser check,Global Gender Gap Report 2026 publication page with Download PDF button; 403 only for scripted requests
+https://www.climatewatchdata.org/api/v1/data/ndc_content/download.csv,ok,2026-11-05,HEAD request,"HTTP 200, application/zip; GET times out because the export is generated on request"
+https://www.oecd.org/en/data/insights/data-explainers/2025/04/the-climate-actions-and-policies-measurement-framework-capmf.html,ok,2026-11-05,manual browser check,CAPMF FAQ page loads; 403 only for scripted requests
+https://www.oecd.org/en/topics/sub-issues/economic-policies-to-foster-green-growth/how-stringent-are-environmental-policies.html,ok,2026-11-05,manual browser check,OECD page 'A tool to evaluate the effectiveness of environmental policy' loads; 403 only for scripted requests
+https://www.oecd.org/en/data/datasets/carbon-pricing-and-energy-taxation-database.html,ok,2026-11-05,manual browser check,Carbon Pricing and Energy Taxation Database page loads; 403 only for scripted requests
+https://www.oecd.org/en/data/dashboards/development-finance-for-climate/development-finance-for-climate.html,ok,2026-11-05,manual browser check,Development Finance for Climate dashboard loads (title 'Provider perspective'); 403 only for scripted requests
+https://carbonpricingdashboard.worldbank.org/,ok,2026-11-05,manual browser check,Carbon Pricing Dashboard home page loads; 403 only for scripted requests
+https://www.opec.org/annual-statistical-bulletin.html,ok,2026-11-05,manual browser check,Annual Statistical Bulletin page loads; 403 only for scripted requests
+https://rise.esmap.org/,ok,2026-11-05,manual browser check,RISE home page loads; 403 only for scripted requests
+https://rise.esmap.org/downloads,ok,2026-11-05,manual browser check,RISE downloads page loads (title 'Report'); 403 only for scripted requests
+https://rise.esmap.org/methodology,ok,2026-11-05,manual browser check,RISE methodology page loads; 403 only for scripted requests
+https://data.imf.org/en/CID,ok,2026-11-05,manual browser check,IMF climate indicators dashboard page loads; 403 only for scripted requests
+https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2,ok,2026-11-05,manual browser check,OpenFEMA Disaster Declarations Summaries v2 page loads; 403 only for scripted requests
+https://data.malariaatlas.org/geoserver/ows?service=CSW&version=2.0.1&request=DirectDownload&ResourceId=Explorer:2015_accessibility_to_cities_v1.0,ok,2026-11-06,HEAD request,"HTTP 200, application/zip; GET times out because the file is generated on request"
+https://data.malariaatlas.org/geoserver/ows?service=CSW&version=2.0.1&request=DirectDownload&ResourceId=Explorer:2015_friction_surface_v1_Decompressed,ok,2026-11-06,HEAD request,HTTP 200; GET times out because the file is generated on request
+https://www.nhgis.org/,ok,2026-11-06,manual browser check,IPUMS NHGIS home page loads; 403 only for scripted requests
+https://data.census.gov/,ok,2026-11-06,manual browser check,Census Bureau Data (data.census.gov) loads; 403 only for scripted requests
+https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html,ok,2026-11-06,manual browser check,IBGE 'Malha Municipal' page loads; 403 only for scripted requests
+https://mosaic.ipums.org/historical-gis-datafiles,ok,2026-11-06,manual browser check,IPUMS Census Mosaic 'Historical GIS datafiles' page loads; 403 only for scripted requests
+http://oe.cd/geostats,redirect,2026-11-06,manual browser check,"Redirects to OECD 'Regions, cities and local statistics' topic page; 403 only for scripted requests"
+https://cser.ac.uk/resources/toolkit/moros,blocked-by-site,2026-11-06,manual browser check,Browser redirects to www.cser.ac.uk and gets HTTP 403 (Apache Forbidden); scripts get 404 on the bare host; page not confirmed
+https://econ.cam.ac.uk/node/825,blocked-by-site,2026-11-06,manual browser check,Browser redirects to www.econ.cam.ac.uk and gets HTTP 403 (Apache Forbidden); scripts get 404 on the bare host; page not confirmed
+https://doi.org/10.4232/1.8090,ok,2026-11-06,browser,GESIS search page for ZA8090 (Best roll-call votes) loaded in a browser
+https://cbdb.hsites.harvard.edu/,ok,2026-11-06,browser,CBDB home page loaded in a browser
+https://cbdb.hsites.harvard.edu/download-cbdb-standalone-database,ok,2026-11-06,browser,CBDB download page loaded in a browser
+https://www.oldbaileyonline.org/,ok,2026-11-06,browser,Old Bailey Online home page (version 9.0) loaded in a browser
+https://www.dhi.ac.uk/data/oldbailey,ok,2026-11-06,browser,DHI Data Service Old Bailey download page loaded in a browser (title only; page is script-rendered)
+https://liberalarts.tulane.edu/political-science/people/faculty-staff/christopher-fettweis,ok,2026-11-06,browser,Tulane faculty page linking the Early Modern War dataset loaded in a browser
+https://data.ly.gov.tw/,ok,2026-11-06,browser,Legislative Yuan open data platform home page loaded in a browser
+https://data.ly.gov.tw/catelog.action,ok,2026-11-06,browser,Legislative Yuan data catalogue (42 datasets) loaded in a browser
+https://data.ly.gov.tw/ID999Action.action,ok,2026-11-06,browser,Legislative Yuan dataset list JSON loaded in a browser
+https://data.ly.gov.tw/getds.action?id=370,ok,2026-11-06,browser,Legislative Yuan plenary vote dataset page (field descriptions) loaded in a browser
+https://genesis.destatis.de/datenbank/online?language=en,ok,2026-11-06,browser,GENESIS-Online loaded in a browser (script-rendered page)
+https://commission.europa.eu/publications/statistical-bulletin-more-figures-staff_en,ok,2026-11-11,browser,Commission HR statistical bulletin page (October 2025 bulletin listed) loaded in a browser
+https://commission.europa.eu/publications/key-figures-european-commission-staff_en,ok,2026-11-11,browser,Commission HR key figures page (2026 edition listed) loaded in a browser
+https://vinyardsoftware.com/,ok,2026-11-11,browser,Vinyard Software International Terrorism Data Center home page loaded in a browser
+https://www.girl.pitt.edu/gen-pacs-data/,ok,2026-11-11,browser,Gen-PaCS dataset page loaded in a browser (no download link shown)

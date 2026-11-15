@@ -1,0 +1,26 @@
+{
+ "landscape": [
+  "Fixture landscape paragraph one for ELEC.",
+  "Fixture landscape paragraph two for ELEC."
+ ],
+ "core": [
+  {
+   "id": "ELEC-001",
+   "text": "Fixture core paragraph for ELEC-001."
+  },
+  {
+   "id": "ELEC-002",
+   "text": "Fixture core paragraph for ELEC-002."
+  },
+  {
+   "id": "ELEC-003",
+   "text": "Fixture core paragraph for ELEC-003."
+  }
+ ],
+ "choosing": [
+  "Fixture advice on choosing among ELEC datasets."
+ ],
+ "gaps": [
+  "Fixture gaps paragraph for ELEC."
+ ]
+}

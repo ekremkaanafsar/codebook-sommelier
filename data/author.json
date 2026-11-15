@@ -1,0 +1,25 @@
+{
+  "name": "Ekrem Kaan Afşar",
+  "citation_name": "Afşar, Ekrem Kaan",
+  "emails": [
+    "aekremk1@binghamton.edu"
+  ],
+  "year": "2026",
+  "rights": "Data licensed under CC BY 4.0; code under the MIT licence",
+  "rights_notice": "The catalog data may be shared and adapted under the Creative Commons Attribution 4.0 International licence (https://creativecommons.org/licenses/by/4.0/), provided the catalog is credited as shown under Cite as. The code is released under the MIT licence.",
+  "title": "Political Science Data Catalog",
+  "subtitle": "A verified, citable guide to datasets across the discipline",
+  "version": "1.1",
+  "release_date": "2026-11-11",
+  "doi": "10.5281/zenodo.24137498",
+  "orcid": "0009-0007-6936-6392",
+  "doi_kind": "all-versions (concept) DOI; resolves to the latest version",
+  "previous_versions": [
+    {
+      "version": "1.0",
+      "release_date": "2026-11-11",
+      "doi": "10.5281/zenodo.24137499"
+    }
+  ],
+  "version_notes": "Corrections after an audit against official sources: Mass Mobilization (HR-056) coverage conflict resolved (1990 to 31 March 2020 per Harvard Dataverse v5.1), size added, demand and state-response fields corrected, status changed from frozen to irregular (overall score 3.1 to 3.3); Institutions and Elections Project (CONST-008) confirmed, with minor fixes. Link statuses refreshed."
+}

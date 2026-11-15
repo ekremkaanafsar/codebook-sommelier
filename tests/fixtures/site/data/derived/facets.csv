@@ -1,0 +1,13 @@
+id,unit_class,region_tags,start_year,end_year,has_programmatic
+REG-001,country-year,global,1789,2025,1
+REG-002,country-year,multi-country,1789,2025,1
+REG-003,country-year,global,1900,2025,1
+REG-004,country-year,global,1900,2025,1
+ELEC-001,party,global,1788,2024,0
+ELEC-002,party,europe,1900,2023,1
+ELEC-003,election-or-candidate,global,1945,2026,0
+IR-001,dyad,global,1816,2014,1
+IR-002,event,global,1816,2010,0
+CONF-001,event,global,1946,2025,1
+CONF-002,dyad,global,1946,2025,1
+CONF-003,event,global,1989,2025,1

@@ -1,0 +1,7 @@
+a,b,co_count,cosine,jaccard,co_count_polisci,cosine_polisci
+REG-001,REG-002,4,0.1,0.05,2,0.2
+REG-001,REG-003,5,0.15,0.05,2,0.2
+REG-001,REG-009,6,0.2,0.05,2,0.2
+REG-002,REG-003,6,0.2,0.05,2,0.2
+REG-002,REG-009,7,0.25,0.05,2,0.2
+REG-003,REG-009,8,0.3,0.05,2,0.2

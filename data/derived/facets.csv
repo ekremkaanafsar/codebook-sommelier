@@ -1,0 +1,2270 @@
+id,unit_class,region_tags,start_year,end_year,has_programmatic
+REG-001,country-year,global,1789,2025,1
+REG-002,country-year,multi-country,1789,2025,1
+REG-003,country-year,global,1900,2025,1
+REG-004,country-year,global,1900,2025,1
+REG-005,country,multi-country,2020,2021,0
+REG-006,country-year,global,1900,2023,1
+REG-007,document,multi-country,1800,2018,1
+REG-008,document,multi-country,,,0
+REG-009,country-year,global,1972,2025,1
+REG-010,country-year,europe;central-asia,2005,2024,0
+REG-011,country-year,multi-country,2009,2026,0
+REG-012,country,multi-country,2004,2012,0
+REG-013,country-year,multi-country,1995,2018,1
+REG-014,country-year,global,1800,2020,1
+REG-015,country-year,multi-country,1946,2010,1
+REG-016,country-year,global,1946,2008,1
+REG-017,country-year,global,1950,2024,1
+REG-018,country-year,global,1789,2025,1
+REG-019,country-year,global,1800,2024,1
+REG-020,country-year,global,1960,2010,1
+REG-021,country-year,global,2008,2026,1
+REG-022,country-year,global,1946,2026,1
+REG-023,country-year,global,1950,2012,1
+REG-024,country-year,global,1946,2010,1
+REG-025,country-year,global,1946,2008,1
+REG-026,event,global,1900,2025,1
+REG-027,party,global,1940,2015,0
+REG-028,event,global,1918,2019,0
+REG-029,country-year,global,1955,2010,1
+REG-030,country-year,global,1946,2012,1
+REG-031,country-year,global,1810,2018,1
+REG-032,country-year,global,1919,2019,1
+REG-033,country-year,europe,1990,2017,0
+REG-034,country-year,global,1900,2021,0
+REG-035,country-year,global,1950,2000,1
+REG-036,country-year,global,1985,2000,1
+REG-037,country,global,1945,1992,1
+REG-038,country,global,1800,2001,1
+REG-039,country-year,multi-country,,,1
+REG-040,country-year,global,1950,1990,1
+REG-041,country,global,1988,1988,1
+REG-042,country-year,global,,,1
+REG-043,country-year,latin-america,1900,2010,1
+REG-044,country-year,latin-america,1900,2000,1
+REG-045,country-year,global,1913,2005,1
+REG-046,country-year,global,1946,2006,1
+REG-047,country,sub-saharan-africa,1910,1994,1
+REG-048,country-year,global,1800,2000,0
+REG-049,country-year,multi-country,1975,2025,0
+REG-050,event,multi-country,2022,2026,0
+REG-051,country,europe,2003,2026,1
+REG-052,country,europe,2022,2024,1
+REG-053,country-year,multi-country,2006,2025,1
+REG-054,country-year,sub-saharan-africa,2016,2026,1
+REG-055,country-year,multi-country,2000,2023,1
+REG-056,country-year,global,1996,2025,1
+REG-057,country-year,global,1946,2025,1
+REG-058,respondent,europe,2010,2024,1
+REG-059,country-year,global,1975,2023,1
+REG-060,country-year,global,1800,2025,0
+REG-061,country-year,multi-country,2005,2025,1
+REG-062,country-year,global,1990,2010,1
+REG-063,respondent,global,2001,2016,0
+REG-064,country-year,global,1971,2014,0
+REG-065,country-year,multi-country,1995,2025,0
+REG-066,respondent,global,2003,2021,0
+REG-067,country-year,multi-country,1984,2025,0
+REG-068,country-year,mena,2015,2021,0
+REG-069,country-year,multi-country,,,0
+REG-070,country,sub-saharan-africa,2011,2026,0
+REG-071,country-year,multi-country,2004,2011,0
+REG-072,subnational,multi-country,1995,2022,0
+REG-073,country,multi-country,2008,2008,0
+REG-074,country-year,multi-country,2008,2026,0
+REG-075,country-year,multi-country,1984,2025,0
+REG-076,country-year,global,2005,2024,0
+REG-077,country,multi-country,1992,2008,0
+REG-078,country-year,multi-country,1980,2015,0
+REG-079,subnational,europe;north-america;latin-america;sub-saharan-africa,2006,2021,0
+REG-080,country,multi-country,,,0
+REG-081,country-year,global,1960,2018,1
+REG-082,country-year,global,1960,2015,1
+REG-083,country-year,southeast-asia;europe,1750,2015,1
+REG-084,country-year,global,1789,2025,1
+REG-085,country,global,2000,2000,1
+REG-086,country-year,global,2004,2024,1
+REG-087,subnational,multi-country,1960,2015,0
+REG-088,grid-cell,sub-saharan-africa,1945,2016,1
+REG-089,event,global,2000,2023,1
+REG-090,country-year,global,1946,2019,1
+REG-091,country-year,global,1901,2000,1
+REG-092,subnational,single-country:United States,2000,2023,1
+REG-093,country-year,global,1789,2025,1
+REG-094,document,global,,,0
+REG-095,country,multi-country,,,1
+REG-096,country,unclassified,,,1
+REG-097,country,global,,,1
+REG-098,country-year,southeast-asia;east-asia;south-asia;oceania;north-america,,,0
+ELEC-001,party,global,1788,2024,0
+ELEC-002,party,europe,1900,2023,1
+ELEC-003,election-or-candidate,global,1945,2026,0
+ELEC-004,country,multi-country,1991,2026,0
+ELEC-005,election-or-candidate,global,1919,2020,1
+ELEC-006,election-or-candidate,global,1945,2020,1
+ELEC-007,election-or-candidate,multi-country,1998,2026,1
+ELEC-008,subnational,europe,1990,2014,0
+ELEC-009,subnational,mena,2012,2025,1
+ELEC-010,person-or-actor,global,2016,2024,1
+ELEC-011,election-or-candidate,multi-country,1978,2004,0
+ELEC-012,election-or-candidate,multi-country,1980,2004,0
+ELEC-013,election-or-candidate,europe;latin-america;sub-saharan-africa,1995,2006,0
+ELEC-014,election-or-candidate,multi-country,1975,2011,0
+ELEC-015,election-or-candidate,multi-country,2000,2022,1
+ELEC-016,subnational,single-country:Russia,2007,2021,0
+ELEC-017,country,global,2006,2026,0
+ELEC-018,country,global,1923,2026,0
+ELEC-019,country,global,2013,2014,0
+ELEC-020,country,global,2014,2016,0
+ELEC-021,country,global,2021,2021,0
+ELEC-022,election-or-candidate,global,2020,2024,0
+ELEC-023,election-or-candidate,global,2020,2022,0
+ELEC-024,country,global,2004,2026,0
+ELEC-025,country-year,global,1978,2005,1
+ELEC-026,election-or-candidate,global,,,0
+ELEC-027,country-year,latin-america,1900,2024,0
+ELEC-028,subnational,latin-america;east-asia;mena,,,1
+ELEC-029,party,multi-country,1880,2015,0
+ELEC-030,election-or-candidate,multi-country,1945,2023,1
+ELEC-031,election-or-candidate,multi-country,1789,2023,0
+ELEC-032,legislator-or-vote,unclassified,1996,2019,0
+ELEC-033,country-year,global,1950,2020,0
+ELEC-034,subnational,latin-america;europe;north-america,1900,2018,0
+ELEC-035,party,multi-country,1948,2026,1
+ELEC-036,subnational,multi-country,1906,2017,0
+ELEC-037,election-or-candidate,single-country:Taiwan,1945,2020,1
+ELEC-038,party,global,,,0
+ELEC-039,subnational,latin-america,1983,2026,1
+ELEC-040,party,latin-america,1983,2026,1
+ELEC-041,subnational,latin-america,1983,2026,1
+ELEC-042,election-or-candidate,single-country:Australia,1843,2026,0
+ELEC-043,party,europe,1983,2020,1
+ELEC-044,subnational,europe,2013,2020,0
+ELEC-045,party,europe,2019,2024,1
+ELEC-046,party,europe,1979,2024,1
+ELEC-047,party,europe,1979,2019,1
+ELEC-048,party,europe,1999,2014,1
+ELEC-049,party,europe,1919,1939,1
+ELEC-050,party,europe,1815,1815,0
+ELEC-051,subnational,europe,2019,2019,1
+ELEC-052,subnational,europe,1832,2024,1
+ELEC-053,subnational,single-country:United Kingdom,1918,2024,1
+ELEC-054,subnational,single-country:United Kingdom,1885,1949,0
+ELEC-055,election-or-candidate,single-country:United Kingdom,1889,2024,0
+ELEC-056,election-or-candidate,single-country:France,1789,2022,0
+ELEC-057,party,single-country:Spain,1977,2026,1
+ELEC-058,subnational,single-country:Spain,1890,1923,0
+ELEC-059,subnational,single-country:Germany,1945,2026,1
+ELEC-060,subnational,single-country:Germany,1949,1969,1
+ELEC-061,legislator-or-vote,single-country:Switzerland,1848,2026,0
+ELEC-062,country,europe,1993,2023,1
+ELEC-063,election-or-candidate,single-country:Norway,1906,2025,0
+ELEC-064,election-or-candidate,single-country:Norway,1971,2023,0
+ELEC-065,election-or-candidate,single-country:Portugal,2001,2017,0
+ELEC-066,subnational,single-country:Slovakia,2002,2019,0
+ELEC-067,country,global,1791,2025,1
+ELEC-068,legislator-or-vote,global,1790,2027,0
+ELEC-069,country,global,,,0
+ELEC-070,other,multi-country,2010,2022,0
+ELEC-071,subnational,north-america;latin-america,1800,2016,0
+ELEC-072,subnational,single-country:United States,1904,2026,0
+ELEC-073,subnational,single-country:Mexico,1994,2019,0
+ELEC-074,subnational,single-country:Mexico,1961,2024,1
+ELEC-075,election-or-candidate,single-country:Canada,,,1
+ELEC-076,subnational,single-country:Canada,1867,2015,1
+ELEC-077,country,sub-saharan-africa,1990,2012,0
+ELEC-078,party,single-country:Namibia,1989,2019,1
+ELEC-079,document,latin-america,,,0
+ELEC-080,subnational,single-country:India,1951,2026,0
+ELEC-081,election-or-candidate,single-country:India,2009,2019,1
+ELEC-082,subnational,single-country:Indonesia,1994,2009,0
+ELEC-083,subnational,single-country:Malaysia,1955,2025,1
+ELEC-084,election-or-candidate,single-country:Japan,1947,2014,1
+ELEC-085,election-or-candidate,single-country:Japan,2005,2025,1
+ELEC-086,subnational,single-country:Japan,1985,2017,1
+ELEC-087,subnational,single-country:South Korea,1948,2024,1
+ELEC-088,party,single-country:Indonesia,1999,2024,1
+ELEC-089,legislator-or-vote,single-country:United States,1976,2024,1
+ELEC-090,subnational,north-america;europe,1789,2024,0
+ELEC-091,subnational,single-country:United States,2012,2024,1
+ELEC-092,election-or-candidate,single-country:United States,1967,2022,1
+ELEC-093,subnational,single-country:United States,2000,2026,1
+ELEC-094,subnational,single-country:United States,2002,2012,1
+ELEC-095,subnational,single-country:United States,1984,1990,1
+ELEC-096,subnational,single-country:United States,1828,2024,0
+ELEC-097,subnational,single-country:United States,1823,1968,0
+ELEC-098,subnational,single-country:United States,1840,1972,0
+ELEC-099,party,single-country:United States,1968,1989,0
+ELEC-100,subnational,single-country:United States,1840,1974,1
+ELEC-101,election-or-candidate,single-country:United States,1787,1826,0
+ELEC-102,election-or-candidate,single-country:United States,1956,2018,1
+ELEC-103,party,single-country:United States,2006,2020,1
+ELEC-104,subnational,single-country:United States,1865,2020,1
+ELEC-105,subnational,north-america;oceania;latin-america,2004,2024,0
+ELEC-106,subnational,single-country:United States,2008,2024,1
+ELEC-107,subnational,single-country:United States,1900,2018,1
+ELEC-108,subnational,single-country:United States,2020,2020,1
+ELEC-109,election-or-candidate,single-country:United States,2004,2024,1
+ELEC-110,subnational,single-country:United States,1989,2021,1
+ELEC-111,election-or-candidate,single-country:United States,,,0
+ELEC-112,election-or-candidate,unclassified,1995,2026,0
+ELEC-113,subnational,single-country:United States,,,0
+ELEC-114,subnational,single-country:United States,2010,2026,1
+ELEC-115,subnational,single-country:United States,2010,2020,1
+ELEC-116,subnational,single-country:United States,1789,2025,1
+ELEC-117,subnational,single-country:United States,1962,2002,1
+ELEC-118,subnational,single-country:United States,2020,2024,1
+ELEC-119,subnational,north-america;latin-america,1980,2020,1
+ELEC-120,subnational,single-country:United States,2016,2024,1
+ELEC-121,subnational,single-country:United States,2004,2022,0
+ELEC-122,party,north-america;oceania;latin-america,1982,2024,0
+ELEC-123,subnational,single-country:Canada,1867,2025,1
+ELEC-124,party,single-country:Australia,1993,2025,1
+ELEC-125,subnational,single-country:United Kingdom,,,0
+ELEC-126,grid-cell,single-country:Brazil,1933,2026,1
+ELEC-127,subnational,single-country:Mexico,,,0
+ELEC-128,subnational,single-country:India,,,0
+ELEC-129,party,europe,1949,2025,1
+ELEC-130,respondent,single-country:United States,2014,2014,0
+ELEC-131,subnational,single-country:United States,1984,2008,0
+ELEC-132,subnational,north-america;europe,1980,2014,0
+ELEC-133,election-or-candidate,single-country:United States,,,1
+ELEC-134,other,north-america;latin-america;east-asia;europe,1988,2026,0
+ELEC-135,other,single-country:United States,2014,2026,1
+ELEC-136,subnational,single-country:United States,1984,2026,0
+ELEC-137,respondent,single-country:United States,2014,2024,1
+ELEC-138,party,europe,1941,2018,1
+ELEC-139,subnational,single-country:Poland,1990,2024,1
+ELEC-140,election-or-candidate,single-country:Afghanistan,2004,2014,0
+ELEC-141,election-or-candidate,single-country:Canada,1867,2021,1
+ELEC-142,election-or-candidate,single-country:Brazil,1998,2018,1
+ELEC-143,election-or-candidate,single-country:Chile,1811,2025,1
+ELEC-144,document,single-country:United States,2000,2026,0
+ELEC-145,subnational,single-country:United States,1896,2014,1
+ELEC-146,subnational,single-country:United States,1943,1998,0
+ELEC-147,subnational,single-country:United States,1962,1994,1
+ELEC-148,election-or-candidate,single-country:United States,2012,2020,1
+ELEC-149,subnational,single-country:United States,2021,2026,0
+ELEC-150,subnational,north-america;europe,1788,1823,0
+ELEC-151,subnational,single-country:United States,1910,1990,0
+ELEC-152,subnational,single-country:United States,1920,1972,0
+ELEC-153,subnational,single-country:United States,1880,2012,1
+ELEC-154,subnational,single-country:United States,1871,1978,1
+ELEC-155,party,single-country:United States,1787,1825,1
+ELEC-156,election-or-candidate,single-country:United States,2006,2024,1
+ELEC-157,election-or-candidate,single-country:Canada,1867,2010,1
+ELEC-158,party,single-country:Australia,1856,2026,1
+ELEC-159,party,single-country:New Zealand,2002,2023,1
+ELEC-160,election-or-candidate,single-country:Italy,1946,2026,0
+ELEC-161,subnational,single-country:Spain,1976,2026,1
+ELEC-162,subnational,single-country:France,1999,2026,1
+ELEC-163,subnational,single-country:Russia,2003,2011,0
+ELEC-164,election-or-candidate,sub-saharan-africa,1970,2026,0
+ELEC-165,subnational,single-country:Japan,1965,2013,0
+ELEC-166,subnational,single-country:South Korea,2002,2025,1
+ELEC-167,election-or-candidate,single-country:Taiwan,1991,2026,0
+ELEC-168,party,single-country:India,2004,2026,0
+ELEC-169,subnational,single-country:Pakistan,1970,2024,1
+ELEC-170,election-or-candidate,single-country:Philippines,1992,2022,0
+ELEC-171,party,single-country:Turkey,1995,2024,1
+ELEC-172,subnational,single-country:Russia,2000,2024,0
+ELEC-173,party,east-asia,1992,2024,0
+PARTY-001,party,europe,1920,2026,1
+PARTY-002,party,europe,1979,2024,0
+PARTY-003,party,europe,1984,2024,0
+PARTY-004,party,latin-america,2020,2021,0
+PARTY-005,party,global,1900,2019,1
+PARTY-006,party,global,2019,2019,1
+PARTY-007,respondent,europe,2018,2023,1
+PARTY-008,respondent,europe,2003,2004,0
+PARTY-009,party,global,,2026,0
+PARTY-010,party,europe;latin-america;sub-saharan-africa;east-asia,2002,2020,0
+PARTY-011,respondent,sub-saharan-africa,2008,2024,0
+PARTY-012,party,europe,1945,2014,1
+PARTY-013,party,europe;latin-america;sub-saharan-africa;east-asia,2016,2020,0
+PARTY-014,party,multi-country,1944,2015,1
+PARTY-015,party,oceania;europe;north-america;mena;east-asia,2016,2018,0
+PARTY-016,election-or-candidate,latin-america;europe;east-asia;oceania,,,1
+PARTY-017,party,europe,1989,2026,0
+PARTY-018,party,europe,1945,2026,0
+PARTY-019,party,europe,1979,2019,1
+PARTY-020,party,europe,1979,2024,0
+PARTY-021,document,multi-country,1934,2025,1
+PARTY-022,subnational,single-country:United States,,,1
+PARTY-023,country,europe,1945,2024,0
+PARTY-024,country,europe,1945,2016,0
+PARTY-025,country,europe,1950,2014,1
+PARTY-026,party,latin-america,1932,2018,1
+PARTY-027,country,global,,,0
+PARTY-028,subnational,global,1946,2017,1
+PARTY-029,party,europe,1992,1992,1
+PARTY-030,party,global,1990,1995,1
+PARTY-031,party,europe,1984,1996,1
+PARTY-032,party,global,1950,1978,1
+PARTY-033,party,latin-america,1912,1995,1
+PARTY-034,country-year,oceania;europe;north-america;east-asia,1950,2015,1
+PARTY-035,respondent,europe,2009,2019,0
+PARTY-036,party,global,1800,2024,1
+PARTY-037,country,europe,1993,2018,1
+PARTY-038,party,mena;europe,1977,2015,1
+PARTY-039,party,europe,1970,2025,1
+PARTY-040,party,oceania;europe;north-america,1998,2013,1
+PARTY-041,country-year,europe,1999,2016,1
+PARTY-042,dyad,multi-country,1946,2002,1
+PARTY-043,party,europe,1945,2019,1
+PARTY-044,party,multi-country,1940,2010,0
+PARTY-045,document,europe,1990,2018,1
+PARTY-046,party,europe,1953,2025,1
+PARTY-047,party,europe;latin-america;sub-saharan-africa,1942,2025,1
+PARTY-048,party,europe,1944,2020,1
+PARTY-049,country,global,2003,2023,0
+PARTY-050,party,single-country:Germany,2009,2017,1
+PARTY-051,event,europe,1945,2010,1
+PARTY-052,event,europe,1960,2022,1
+PARTY-053,party,global,1945,2020,1
+PARTY-054,party,europe,2010,2020,1
+PARTY-055,party,europe,1970,2026,1
+PARTY-056,party,global,2016,2020,1
+PARTY-057,party,latin-america,2006,2019,1
+PARTY-058,party,single-country:Germany,2024,2026,1
+PARTY-059,party,europe,2024,2024,1
+PARTY-060,party,single-country:India,1962,2021,1
+PARTY-061,party,europe,2007,2008,0
+PARTY-062,party,europe,2011,2024,1
+PARTY-063,party,europe,1990,2017,1
+PARTY-064,party,oceania;europe;north-america;mena,1965,2019,1
+PARTY-065,party,europe;latin-america;sub-saharan-africa;oceania,2016,2016,0
+PARTY-066,party,europe,1968,2021,0
+PARTY-067,respondent,single-country:Slovakia,2023,2023,1
+PARTY-068,party,europe;latin-america;sub-saharan-africa,1960,2022,1
+PARTY-069,party,europe,2018,2022,1
+PARTY-070,election-or-candidate,single-country:Spain,1991,2021,1
+PARTY-071,party,europe,2021,2022,1
+PARTY-072,subnational,europe,2005,2019,0
+PARTY-073,party,europe,1946,2018,1
+PARTY-074,party,europe,1945,2026,0
+PARTY-075,document,europe,2006,2018,1
+PARTY-076,party,europe,1897,1911,1
+PARTY-077,country,europe,1979,2024,0
+LEG-001,legislator-or-vote,single-country:United States,1789,2026,1
+LEG-002,legislator-or-vote,single-country:United States,1947,2016,1
+LEG-003,legislator-or-vote,single-country:United States,1973,2025,1
+LEG-004,legislator-or-vote,single-country:United States,1993,2022,1
+LEG-005,person-or-actor,single-country:United States,1789,2023,1
+LEG-006,legislator-or-vote,single-country:United States,1789,2026,1
+LEG-007,study-or-record,single-country:United States,1877,1994,0
+LEG-008,legislator-or-vote,single-country:United States,1921,2024,0
+LEG-009,legislator-or-vote,single-country:United States,1789,1998,0
+LEG-010,legislator-or-vote,single-country:United States,1953,2026,0
+LEG-011,legislator-or-vote,single-country:United States,1981,2013,0
+LEG-012,legislator-or-vote,single-country:United States,1955,1986,0
+LEG-013,legislator-or-vote,single-country:United States,1973,2016,1
+LEG-014,document,single-country:United States,1789,2022,1
+LEG-015,legislator-or-vote,single-country:United States,1973,2026,0
+LEG-016,study-or-record,single-country:United States,1824,2020,1
+LEG-017,person-or-actor,single-country:United States,1855,2025,0
+LEG-018,subnational,single-country:United States,1789,2024,1
+LEG-019,legislator-or-vote,single-country:United States,1979,2018,1
+LEG-020,legislator-or-vote,single-country:United States,1789,1840,1
+LEG-021,legislator-or-vote,single-country:United States,1789,2026,0
+LEG-022,legislator-or-vote,single-country:United States,1989,2026,1
+LEG-023,legislator-or-vote,single-country:United States,1774,2026,0
+LEG-024,legislator-or-vote,single-country:United States,,,1
+LEG-025,person-or-actor,single-country:United States,2000,2026,1
+LEG-026,event,north-america;latin-america,1980,2026,1
+LEG-027,legislator-or-vote,single-country:United States,2009,2026,1
+LEG-028,subnational,single-country:United States,1979,2021,1
+LEG-029,legislator-or-vote,single-country:United States,2021,2024,0
+LEG-030,document,single-country:United States,2015,2015,1
+LEG-031,legislator-or-vote,single-country:United States,2003,2020,1
+LEG-032,legislator-or-vote,europe;latin-america;north-america;mena;east-asia,1789,2022,1
+LEG-033,legislator-or-vote,sub-saharan-africa;southeast-asia;south-asia,2010,2022,1
+LEG-034,legislator-or-vote,latin-america,1978,2023,1
+LEG-035,election-or-candidate,latin-america,1985,2023,1
+LEG-036,country,multi-country,1945,2023,1
+LEG-037,legislator-or-vote,single-country:Denmark,1849,2022,1
+LEG-038,legislator-or-vote,multi-country,2010,2019,1
+LEG-039,legislator-or-vote,single-country:Turkey,1920,2023,1
+LEG-040,subnational,single-country:United States,1990,1990,1
+LEG-041,party,global,1945,2026,1
+LEG-042,legislator-or-vote,global,,,0
+LEG-043,legislator-or-vote,europe;oceania;north-america,1989,2024,0
+LEG-044,legislator-or-vote,oceania;europe;north-america;east-asia;mena,1990,2019,1
+LEG-045,legislator-or-vote,single-country:Germany,2021,2026,0
+LEG-046,document,europe,1811,2025,0
+LEG-047,legislator-or-vote,europe,1979,2009,0
+LEG-048,legislator-or-vote,europe,2019,2026,1
+LEG-049,legislator-or-vote,europe,2004,2022,0
+LEG-050,legislator-or-vote,europe,,,1
+LEG-051,legislator-or-vote,europe,1979,2024,1
+LEG-052,legislator-or-vote,europe,2014,2026,0
+LEG-053,document,europe,2014,2022,1
+LEG-054,legislator-or-vote,europe,1979,2025,1
+LEG-055,legislator-or-vote,europe,1979,2024,1
+LEG-056,legislator-or-vote,europe,1979,2026,0
+LEG-057,other,europe,1999,2019,1
+LEG-058,document,europe,1993,2021,0
+LEG-059,study-or-record,europe,1967,2012,0
+LEG-060,document,europe,1952,2019,1
+LEG-061,document,europe,2009,2019,1
+LEG-062,party,europe,2019,2024,1
+LEG-063,legislator-or-vote,single-country:Germany,1949,2021,1
+LEG-064,legislator-or-vote,single-country:Netherlands,1922,2025,1
+LEG-065,legislator-or-vote,single-country:Portugal,1980,2024,1
+LEG-066,legislator-or-vote,single-country:United Kingdom,1992,2005,1
+LEG-067,legislator-or-vote,single-country:United Kingdom,1918,2026,1
+LEG-068,legislator-or-vote,single-country:United Kingdom,1964,2017,1
+LEG-069,legislator-or-vote,europe,1947,2017,1
+LEG-070,respondent,single-country:Brazil,1990,2021,1
+LEG-071,respondent,latin-america,1994,2025,0
+LEG-072,legislator-or-vote,single-country:Brazil,1988,2021,1
+LEG-073,country-year,sub-saharan-africa,1990,2019,1
+LEG-074,country-year,europe,1952,2020,1
+LEG-075,legislator-or-vote,single-country:Kenya,2022,2026,1
+LEG-076,respondent,europe,1990,2015,0
+LEG-077,document,europe,1987,2019,1
+LEG-078,document,oceania;europe;north-america,2004,2022,1
+LEG-079,other,single-country:Spain,1977,2024,1
+LEG-080,other,single-country:Belgium,1995,2019,1
+LEG-081,document,single-country:Netherlands,2010,2026,1
+LEG-082,legislator-or-vote,single-country:United Kingdom,1803,2026,1
+LEG-083,legislator-or-vote,single-country:Germany,1949,2026,1
+LEG-084,legislator-or-vote,single-country:France,1997,2026,0
+LEG-085,event,single-country:Brazil,1826,2026,1
+LEG-086,legislator-or-vote,single-country:Canada,1994,2026,1
+LEG-087,person-or-actor,sub-saharan-africa,1789,2026,0
+LEG-088,legislator-or-vote,single-country:Germany,1867,1918,1
+LEG-089,legislator-or-vote,single-country:Austria,1907,1914,1
+LEG-090,legislator-or-vote,single-country:Canada,1758,1870,1
+LEG-091,legislator-or-vote,single-country:Germany,1867,1890,0
+LEG-092,legislator-or-vote,single-country:Germany,1867,1918,1
+LEG-093,legislator-or-vote,single-country:Canada,1867,2015,1
+LEG-094,election-or-candidate,single-country:Canada,1867,2026,0
+LEG-095,party,single-country:Australia,1901,2026,1
+LEG-096,legislator-or-vote,europe,2009,2026,0
+LEG-097,legislator-or-vote,europe,2010,2025,1
+LEG-098,respondent,europe,2003,2022,0
+LEG-099,subnational,europe,2010,2015,1
+LEG-100,legislator-or-vote,single-country:Ireland,1919,2026,1
+LEG-101,legislator-or-vote,single-country:Switzerland,1970,2026,1
+LEG-102,respondent,europe,1950,2026,1
+LEG-103,respondent,single-country:Italy,1848,2026,1
+LEG-104,legislator-or-vote,single-country:Spain,1977,2026,1
+LEG-105,legislator-or-vote,single-country:Sweden,1925,1993,0
+LEG-106,legislator-or-vote,single-country:Brazil,,,1
+LEG-107,legislator-or-vote,single-country:Colombia,1998,2026,0
+LEG-108,legislator-or-vote,single-country:South Korea,2004,2026,1
+LEG-109,legislator-or-vote,single-country:South Korea,,,1
+LEG-110,legislator-or-vote,single-country:Taiwan,1993,2023,1
+LEG-111,legislator-or-vote,single-country:Israel,1948,2026,1
+LEG-112,legislator-or-vote,single-country:Tunisia,2011,2014,0
+EXEC-001,party,europe,1945,2026,1
+EXEC-002,event,global,1875,2015,1
+EXEC-003,person-or-actor,global,1950,2021,1
+EXEC-004,country-year,global,1966,2025,1
+EXEC-005,person-or-actor,global,1875,2004,1
+EXEC-006,country-year,global,1919,2018,1
+EXEC-007,event,global,1950,2017,1
+EXEC-008,event,global,1789,2022,0
+EXEC-009,country,global,1700,2026,0
+EXEC-010,country-year,global,1945,2020,0
+EXEC-011,country-year,europe;north-america;latin-america;east-asia,1870,2012,0
+EXEC-012,country-year,multi-country,1880,2020,1
+EXEC-013,event,global,1989,2023,1
+EXEC-014,respondent,global,2010,2019,1
+EXEC-015,person-or-actor,global,1960,2015,1
+EXEC-016,respondent,unclassified,1922,2020,0
+EXEC-017,country-year,europe,1945,2014,1
+EXEC-018,country-year,global,1952,2025,1
+EXEC-019,country-year,europe,1966,2021,1
+EXEC-020,person-or-actor,europe;east-asia;mena;north-america,1789,2017,0
+EXEC-021,other,europe,1918,1958,0
+EXEC-022,other,europe;mena,1945,2023,1
+EXEC-023,event,europe,1991,2020,1
+EXEC-024,country-year,europe,1990,2026,0
+EXEC-025,party,europe,1848,2025,0
+EXEC-026,event,unclassified,1945,2024,1
+EXEC-027,other,europe;mena;east-asia;north-america;oceania,1945,2020,1
+EXEC-028,person-or-actor,europe,1945,2019,1
+EXEC-029,respondent,europe,2002,2016,1
+EXEC-030,person-or-actor,single-country:Japan,1871,2013,1
+EXEC-031,study-or-record,europe,1800,1800,1
+EXEC-032,country,global,,,1
+EXEC-033,country-year,global,1950,2010,0
+EXEC-034,party,latin-america;north-america,1958,2018,1
+EXEC-035,event,latin-america,1980,1980,0
+EXEC-036,event,single-country:Chile,1990,2014,1
+EXEC-037,event,single-country:Chile,1990,2022,1
+EXEC-038,person-or-actor,single-country:Equatorial Guinea,1994,2020,1
+EXEC-039,event,global,1945,2026,0
+EXEC-040,country,sub-saharan-africa,1990,2019,0
+EXEC-041,event,global,2000,2018,1
+EXEC-042,event,global,1840,2022,1
+EXEC-043,document,north-america;europe,,,1
+EXEC-044,country-year,global,1946,2010,1
+EXEC-045,person-or-actor,global,1946,2024,1
+EXEC-046,study-or-record,single-country:United States,1789,2012,0
+EXEC-047,legislator-or-vote,single-country:United States,1792,2026,1
+EXEC-048,legislator-or-vote,single-country:United States,1953,2015,0
+EXEC-049,document,single-country:United States,1789,2026,1
+EXEC-050,document,single-country:United States,1861,2016,0
+EXEC-051,subnational,single-country:United States,1936,2015,1
+EXEC-052,subnational,single-country:United States,1775,2020,1
+EXEC-053,subnational,single-country:India,1962,2022,1
+EXEC-054,person-or-actor,global,1700,2026,0
+EXEC-055,other,single-country:United States,1789,2009,1
+EXEC-056,study-or-record,single-country:United States,1877,2020,1
+EXEC-057,person-or-actor,europe,1958,2014,1
+EXEC-058,event,sub-saharan-africa,2019,2019,1
+CONST-001,country-year,multi-country,1789,2025,0
+CONST-002,document,mena,,,1
+CONST-003,document,europe;latin-america;sub-saharan-africa;oceania,,,0
+CONST-004,country,multi-country,2022,2022,1
+CONST-005,country-year,europe;east-asia;southeast-asia;mena,1789,2022,1
+CONST-006,country-year,multi-country,1900,2020,1
+CONST-007,event,global,1789,2016,1
+CONST-008,country-year,global,1960,2012,1
+CONST-009,country-year,global,1975,2019,1
+CONST-010,country-year,global,1945,2018,1
+CONST-011,country,europe;north-america;latin-america;oceania,1945,2010,0
+CONST-012,country-year,unclassified,1800,2012,1
+CONST-013,event,global,1949,2017,1
+CONST-014,event,global,1776,2012,1
+CONST-015,subnational,europe;latin-america;oceania,1950,2018,0
+CONST-016,subnational,multi-country,2000,2018,0
+CONST-017,country,oceania;north-america;europe;south-asia,1790,2010,0
+CONST-018,country,europe,,,0
+CONST-019,subnational,sub-saharan-africa,1980,2016,1
+CONST-020,legislator-or-vote,europe,1793,2019,1
+CONST-021,country-year,europe;sub-saharan-africa,1990,2020,0
+CONST-022,country-year,multi-country,1972,1972,1
+CONST-023,country-year,europe;sub-saharan-africa,1965,2024,1
+CONST-024,country-year,global,2019,2022,1
+CONST-025,country,multi-country,2005,2005,1
+CONST-026,event,latin-america;europe;central-asia;south-asia;southeast-asia,1995,2015,1
+CONST-027,country,europe,2020,2022,1
+CONST-028,document,europe;sub-saharan-africa,2020,2021,1
+CONST-029,country-year,global,1990,2005,1
+CONST-030,event,global,1975,2008,0
+CONST-031,country,global,1990,1990,0
+CONST-032,country,multi-country,1960,1995,1
+CONST-033,document,single-country:United States,1662,1662,0
+CONST-034,document,single-country:United States,1776,2017,0
+CONST-035,legislator-or-vote,single-country:United States,1791,2025,0
+CONST-036,person-or-actor,single-country:United States,1937,2024,0
+CONST-037,country,single-country:United States,1937,2022,0
+CONST-038,country,single-country:United States,1789,2022,0
+CONST-039,person-or-actor,single-country:United States,1953,2024,1
+CONST-040,document,single-country:United States,1955,2026,1
+CONST-041,document,single-country:United States,2005,2016,1
+CONST-042,other,single-country:United States,1993,2025,1
+CONST-043,document,single-country:United States,1789,2022,0
+CONST-044,legislator-or-vote,single-country:United States,1946,2001,0
+CONST-045,legislator-or-vote,single-country:United States,1946,2020,0
+CONST-046,document,single-country:United States,,,1
+CONST-047,person-or-actor,single-country:United States,,,1
+CONST-048,person-or-actor,single-country:United States,,,0
+CONST-049,respondent,single-country:United States,1925,2002,0
+CONST-050,respondent,single-country:United States,2009,2016,1
+CONST-051,respondent,single-country:United States,1892,2025,1
+CONST-052,person-or-actor,single-country:United States,1789,2026,1
+CONST-053,document,single-country:United States,1970,2026,0
+CONST-054,person-or-actor,single-country:United States,1789,2004,0
+CONST-055,document,single-country:United States,1927,2012,0
+CONST-056,document,single-country:United States,1925,2002,0
+CONST-057,person-or-actor,single-country:United States,,,1
+CONST-058,country,single-country:United States,1977,2004,0
+CONST-059,person-or-actor,single-country:United States,1990,2024,1
+CONST-060,document,single-country:United States,1999,2025,1
+CONST-061,document,single-country:United States,,,1
+CONST-062,legislator-or-vote,single-country:United States,2012,2024,1
+CONST-063,legislator-or-vote,single-country:United States,1995,1998,1
+CONST-064,document,single-country:United States,1995,2010,0
+CONST-065,legislator-or-vote,single-country:United States,1990,2015,1
+CONST-066,person-or-actor,single-country:United States,1970,2019,1
+CONST-067,person-or-actor,single-country:United States,1995,2010,1
+CONST-068,person-or-actor,single-country:United States,1990,2014,0
+CONST-069,person-or-actor,single-country:United States,1960,2016,1
+CONST-070,subnational,single-country:United States,1852,2020,1
+CONST-071,subnational,single-country:United States,1990,2010,0
+CONST-072,subnational,single-country:United States,1990,2010,1
+CONST-073,legislator-or-vote,single-country:United States,2008,2025,1
+CONST-074,legislator-or-vote,single-country:United States,1878,2026,0
+CONST-075,legislator-or-vote,single-country:United States,1989,2008,1
+CONST-076,country-year,global,1900,2019,1
+CONST-077,respondent,global,1950,2018,0
+CONST-078,country,global,,,1
+CONST-079,country,multi-country,1789,1999,0
+CONST-080,person-or-actor,latin-america,1900,2026,1
+CONST-081,legislator-or-vote,sub-saharan-africa,1953,2005,0
+CONST-082,legislator-or-vote,southeast-asia,1960,2024,1
+CONST-083,country,global,1945,2020,0
+CONST-084,document,single-country:Germany,1972,2010,0
+CONST-085,party,single-country:Czechia,1993,2023,0
+CONST-086,document,single-country:Germany,1950,2020,1
+CONST-087,legislator-or-vote,single-country:Canada,,,0
+CONST-088,event,single-country:Canada,1975,2021,1
+CONST-089,document,single-country:Australia,1981,2020,1
+CONST-090,document,single-country:Brazil,2000,2026,0
+CONST-091,person-or-actor,single-country:India,1993,2021,0
+CONST-092,person-or-actor,latin-america;sub-saharan-africa,1984,2014,0
+CONST-093,party,europe,1952,2026,1
+CONST-094,document,multi-country,1958,1998,0
+CONST-095,document,europe,1998,2020,1
+CONST-096,legislator-or-vote,europe,2006,2006,1
+CONST-097,legislator-or-vote,latin-america,1988,2016,1
+CONST-098,document,single-country:Germany,1951,2025,1
+CONST-099,document,single-country:India,2010,2018,0
+CONST-100,document,europe,1951,2015,1
+CONST-101,document,europe,1952,2020,0
+BUR-001,respondent,single-country:Hong Kong,2008,2020,0
+BUR-002,country,multi-country,1970,1990,0
+BUR-003,country-year,europe,2008,2018,1
+BUR-004,country,europe,2009,2013,0
+BUR-005,country,europe,2012,2019,1
+BUR-006,country,global,2024,2024,1
+BUR-007,country-year,multi-country,2021,2026,0
+BUR-008,country-year,global,2000,2022,1
+BUR-009,respondent,europe;central-asia;oceania;latin-america;north-america;sub-saharan-africa;southeast-asia,2010,2022,0
+BUR-010,respondent,europe,2012,2015,0
+BUR-011,country,europe,2015,2024,0
+BUR-012,country-year,europe,2002,2026,1
+BUR-013,country-year,global,1975,2025,1
+BUR-014,grid-cell,global,1996,2025,0
+BUR-015,grid-cell,europe,2016,2026,0
+BUR-016,respondent,single-country:United States,2002,2025,0
+BUR-017,person-or-actor,global,2010,2026,1
+BUR-018,document,single-country:United States,1993,2026,0
+BUR-019,respondent,single-country:United States,1957,2025,1
+BUR-020,subnational,single-country:United States,1997,2026,1
+BUR-021,respondent,single-country:United States,2014,2020,0
+BUR-022,organisation,single-country:United States,1988,2020,1
+BUR-023,organisation,global,2010,2010,0
+BUR-024,country,multi-country,1920,2007,0
+BUR-025,organisation,single-country:United States,2013,2014,1
+BUR-026,organisation,single-country:United States,,,0
+BUR-027,event,single-country:United States,1946,1997,1
+BUR-028,organisation,single-country:United States,1988,2020,1
+BUR-029,organisation,single-country:United States,1998,2023,1
+BUR-030,country,global,2005,2025,0
+BUR-031,country,global,2006,2025,0
+BUR-032,country,global,1990,2020,1
+BUR-033,country,global,2011,2025,1
+BUR-034,country,multi-country,2001,2024,0
+BUR-035,country,europe,2017,2025,1
+BUR-036,country,global,2020,2025,1
+BUR-037,country,europe;latin-america;sub-saharan-africa,2006,2014,0
+BUR-038,country-year,oceania;north-america;europe,1990,2024,1
+BUR-039,event,single-country:Norway,1947,2026,1
+BUR-040,other,single-country:Germany,1980,2015,1
+BUR-041,country,global,1997,2015,1
+BUR-042,respondent,single-country:United States,1987,2020,0
+BUR-043,event,single-country:United States,1981,2018,1
+BUR-044,legislator-or-vote,europe,2008,2013,0
+BUR-045,person-or-actor,europe,1958,2021,1
+BUR-046,event,europe,1958,2025,0
+POLICY-001,event,europe,1791,2025,0
+POLICY-002,event,single-country:United States,1791,2025,0
+POLICY-003,other,europe,1975,2014,0
+POLICY-004,document,latin-america,1996,2018,0
+POLICY-005,document,europe,1996,2024,1
+POLICY-006,party,north-america;europe,,,1
+POLICY-007,party,single-country:United States,1868,1944,1
+POLICY-008,subnational,single-country:United States,1900,2020,1
+POLICY-009,subnational,single-country:United States,1691,2025,1
+POLICY-010,dyad,single-country:United States,,,1
+POLICY-011,subnational,single-country:United States,1935,2014,1
+POLICY-012,subnational,single-country:United States,1970,2014,1
+POLICY-013,subnational,single-country:United States,1913,2022,1
+POLICY-014,legislator-or-vote,single-country:United States,1991,2018,1
+POLICY-015,legislator-or-vote,single-country:United States,2008,2015,1
+POLICY-016,document,north-america;oceania;europe;south-asia,1970,2025,1
+POLICY-017,document,single-country:United States,1970,2026,1
+POLICY-018,organisation,single-country:United States,1981,2026,1
+POLICY-019,other,single-country:United States,1964,2006,0
+POLICY-020,organisation,single-country:United States,1981,2011,1
+POLICY-021,respondent,europe,2015,2018,0
+POLICY-022,legislator-or-vote,single-country:United States,1999,2025,1
+POLICY-023,legislator-or-vote,single-country:United States,2005,2016,1
+POLICY-024,legislator-or-vote,single-country:United States,2007,2022,1
+POLICY-025,respondent,single-country:United States,2004,2017,1
+POLICY-026,organisation,global,2012,2026,0
+POLICY-027,document,europe,2019,2019,1
+POLICY-028,grid-cell,europe,1976,2018,1
+POLICY-029,country,global,2020,2020,0
+POLICY-030,country,global,2000,2026,0
+POLICY-031,country-year,global,1800,2022,1
+POLICY-032,country-year,europe;north-america;latin-america;oceania,1930,2024,0
+POLICY-033,country-year,europe,1970,2009,0
+POLICY-034,country-year,europe,1990,2009,0
+POLICY-035,country-year,europe,2000,2026,1
+POLICY-036,country-year,global,1989,2015,1
+POLICY-037,dyad,global,1880,2026,0
+POLICY-038,country-year,latin-america;sub-saharan-africa,1880,2021,1
+POLICY-039,country-year,multi-country,1995,2016,1
+POLICY-040,country-year,sub-saharan-africa,1995,2026,1
+POLICY-041,country-year,global,1950,2025,1
+POLICY-042,country-year,global,1998,2023,1
+POLICY-043,subnational,global,2000,2015,0
+POLICY-044,country,single-country:Kosovo,1990,2024,0
+POLICY-045,country,europe,1998,2026,0
+POLICY-046,event,europe,1980,2007,0
+POLICY-047,study-or-record,europe,2000,2018,0
+POLICY-048,country-year,europe,,,0
+POLICY-049,country-year,europe,1960,2010,0
+POLICY-050,country-year,europe,2004,2009,0
+POLICY-051,country-year,europe,1946,2000,0
+POLICY-052,country-year,europe;latin-america,1985,2025,1
+POLICY-053,country,latin-america,2013,2013,1
+POLICY-054,country-year,multi-country,2009,2019,0
+POLICY-055,country-year,global,1970,2022,0
+POLICY-056,country,multi-country,1995,1997,0
+POLICY-057,country-year,europe,1960,2025,1
+POLICY-058,other,multi-country,2014,2026,0
+POLICY-059,country-year,europe;latin-america;oceania,2011,2015,1
+POLICY-060,country-year,europe,,,0
+POLICY-061,country-year,multi-country,1789,2020,1
+POLICY-062,country-year,multi-country,1739,2020,0
+POLICY-063,country-year,europe,2000,2024,1
+POLICY-064,country,oceania;latin-america;north-america;east-asia;south-asia;europe,2020,2023,1
+POLICY-065,event,latin-america;north-america;east-asia;europe;south-asia;sub-saharan-africa,2020,2021,1
+POLICY-066,country,global,2020,2021,1
+POLICY-067,event,europe,2020,2022,0
+POLICY-068,study-or-record,global,2020,2022,1
+POLICY-069,country,europe;north-america;latin-america;mena,2020,2020,1
+POLICY-070,document,europe;central-asia,1990,2025,1
+POLICY-071,country,europe;latin-america,2008,2023,1
+POLICY-072,country-year,multi-country,1991,2025,1
+POLICY-073,country,multi-country,,,0
+POLICY-074,country-year,europe,2009,2026,0
+POLICY-075,country,europe,2016,2023,0
+POLICY-076,subnational,single-country:United States,2006,2018,0
+POLICY-077,subnational,single-country:United States,2023,2025,1
+POLICY-078,subnational,single-country:United States,2019,2022,1
+POLICY-079,subnational,single-country:United States,1970,2026,1
+POLICY-080,country-year,europe;latin-america,1828,2015,1
+POLICY-081,study-or-record,single-country:United States,2002,2026,1
+POLICY-082,document,single-country:United States,1938,2019,1
+POLICY-083,document,europe,2002,2020,1
+POLICY-084,other,europe,1978,2019,0
+POLICY-085,organisation,europe,2014,2026,0
+POLICY-086,respondent,europe,1989,2020,0
+OPIN-001,country,europe,1981,2015,1
+OPIN-002,respondent,global,1981,2023,0
+OPIN-003,respondent,europe;central-asia,1981,2026,0
+OPIN-004,respondent,global,2017,2022,0
+OPIN-005,respondent,europe,2002,2027,1
+OPIN-006,respondent,global,1985,2029,0
+OPIN-007,respondent,global,1996,2026,0
+OPIN-008,respondent,europe,1970,2026,0
+OPIN-009,respondent,europe,1979,2024,0
+OPIN-010,respondent,sub-saharan-africa,1999,2025,1
+OPIN-011,respondent,mena,2006,2026,1
+OPIN-012,respondent,south-asia;east-asia;southeast-asia,2001,2026,0
+OPIN-013,respondent,latin-america,1970,2026,1
+OPIN-014,respondent,latin-america,1995,2024,1
+OPIN-015,respondent,global,2002,2025,0
+OPIN-016,respondent,global,,,1
+OPIN-017,respondent,mena;central-asia,2004,2024,1
+OPIN-018,respondent,europe;sub-saharan-africa;central-asia,2006,2024,0
+OPIN-019,respondent,global,2005,2026,0
+OPIN-020,respondent,europe,2005,2030,0
+OPIN-021,respondent,europe,2003,2026,0
+OPIN-022,respondent,europe,2008,2023,0
+OPIN-023,respondent,east-asia,2006,2019,0
+OPIN-024,respondent,europe;latin-america;sub-saharan-africa,1990,2025,0
+OPIN-025,respondent,europe;latin-america;east-asia;central-asia;south-asia,2020,2023,1
+OPIN-026,respondent,east-asia;southeast-asia;central-asia,2003,2008,0
+OPIN-027,respondent,europe,1991,2007,0
+OPIN-028,respondent,europe,1992,2012,0
+OPIN-029,respondent,europe,1970,2002,0
+OPIN-030,respondent,europe,2002,2023,0
+OPIN-031,respondent,europe,1956,2001,0
+OPIN-032,respondent,south-asia,2004,2020,0
+OPIN-033,respondent,latin-america;europe;sub-saharan-africa;south-asia;mena;oceania;east-asia;north-america,2023,2024,0
+OPIN-034,respondent,europe;latin-america,2021,2025,1
+OPIN-035,country-year,multi-country,1973,2020,1
+OPIN-036,country-year,multi-country,1986,2022,1
+OPIN-037,respondent,multi-country,1966,2017,1
+OPIN-038,respondent,multi-country,1981,2022,0
+OPIN-039,country-year,europe,1982,2023,0
+OPIN-040,country-year,multi-country,,,0
+OPIN-041,respondent,europe,1981,2022,0
+OPIN-042,respondent,europe;east-asia;north-america,1991,2000,0
+OPIN-043,respondent,europe,1989,2017,1
+OPIN-044,respondent,global,1981,2011,0
+OPIN-045,respondent,single-country:United Kingdom,1963,2025,0
+OPIN-046,document,single-country:United Kingdom,2010,2026,0
+OPIN-047,respondent,single-country:United Kingdom,1999,2026,1
+OPIN-048,respondent,single-country:United Kingdom,1983,2024,0
+OPIN-049,respondent,single-country:United Kingdom,1991,2024,0
+OPIN-050,respondent,single-country:Ireland,2002,2020,0
+OPIN-051,respondent,single-country:Ireland,2024,2025,0
+OPIN-052,respondent,single-country:Germany,2009,2026,0
+OPIN-053,respondent,single-country:Germany,1949,2005,0
+OPIN-054,respondent,single-country:Germany,1977,2025,0
+OPIN-055,respondent,single-country:Germany,1980,2023,0
+OPIN-056,respondent,single-country:Germany,2013,2025,0
+OPIN-057,respondent,single-country:Germany,2012,2026,0
+OPIN-058,person-or-actor,single-country:Germany,1984,2025,0
+OPIN-059,respondent,single-country:Austria,2002,2025,1
+OPIN-060,respondent,single-country:Switzerland,1983,2023,0
+OPIN-061,respondent,single-country:Switzerland,1999,2024,0
+OPIN-062,respondent,single-country:Netherlands,1971,2025,1
+OPIN-063,respondent,single-country:Netherlands,2007,2026,0
+OPIN-064,respondent,single-country:Belgium,2019,2021,1
+OPIN-065,respondent,single-country:Belgium,1991,2003,1
+OPIN-066,respondent,single-country:Sweden,1956,2022,1
+OPIN-067,respondent,single-country:Norway,1957,2025,1
+OPIN-068,respondent,single-country:Denmark,1971,2023,0
+OPIN-069,respondent,single-country:Finland,1966,2023,0
+OPIN-070,respondent,single-country:Norway,2013,2026,0
+OPIN-071,respondent,single-country:France,2002,2024,1
+OPIN-072,respondent,single-country:France,1958,2022,1
+OPIN-073,respondent,europe,2009,2026,1
+OPIN-074,respondent,single-country:France,2012,2025,1
+OPIN-075,respondent,single-country:Italy,1970,2022,1
+OPIN-076,respondent,single-country:Spain,1963,2026,0
+OPIN-077,respondent,single-country:Portugal,2002,2025,1
+OPIN-078,respondent,single-country:Greece,2007,2023,0
+OPIN-079,respondent,single-country:Poland,1997,2023,1
+OPIN-080,respondent,single-country:Czechia,1996,2021,1
+OPIN-081,respondent,single-country:Hungary,1990,1994,0
+OPIN-082,respondent,single-country:Israel,1969,2025,0
+OPIN-083,respondent,single-country:Canada,1965,2025,1
+OPIN-084,respondent,single-country:Canada,2020,2023,1
+OPIN-085,respondent,single-country:Australia,1967,2025,1
+OPIN-086,respondent,single-country:New Zealand,1990,2023,1
+OPIN-087,respondent,single-country:Japan,1983,2022,0
+OPIN-088,respondent,single-country:Japan,2003,2026,0
+OPIN-089,respondent,single-country:South Korea,2006,2012,0
+OPIN-090,respondent,single-country:Taiwan,2001,2026,1
+OPIN-091,respondent,single-country:India,1967,2024,0
+OPIN-092,respondent,single-country:Brazil,2002,2022,0
+OPIN-093,respondent,single-country:Mexico,2000,2012,0
+OPIN-094,respondent,single-country:Argentina,2015,2015,0
+OPIN-095,respondent,single-country:Chile,2016,2023,1
+OPIN-096,respondent,single-country:Chile,1987,2026,0
+OPIN-097,respondent,sub-saharan-africa,1999,2024,1
+OPIN-098,respondent,sub-saharan-africa,2000,2018,1
+OPIN-099,respondent,single-country:United States,1948,2024,1
+OPIN-100,respondent,north-america;europe,1972,2024,1
+OPIN-101,respondent,single-country:United States,2006,2025,1
+OPIN-102,respondent,single-country:United States,2007,2026,0
+OPIN-103,respondent,single-country:United States,2019,2021,1
+OPIN-104,respondent,single-country:United States,1935,2026,0
+OPIN-105,respondent,single-country:United States,2000,2009,0
+OPIN-106,respondent,single-country:United States,2011,2020,0
+OPIN-107,respondent,single-country:United States,2007,2008,1
+OPIN-108,respondent,single-country:United States,,,0
+OPIN-109,respondent,single-country:United States,2018,2024,0
+OPIN-110,respondent,single-country:United States,1972,2024,0
+OPIN-111,country,single-country:United States,2022,2026,0
+OPIN-112,respondent,global,1936,2026,0
+OPIN-113,subnational,single-country:United States,1947,2021,1
+OPIN-114,respondent,single-country:United States,2011,2018,1
+OPIN-115,country,single-country:United States,1952,2024,0
+OPIN-116,country-year,single-country:United States,1956,2022,1
+OPIN-117,country,single-country:United States,1952,2017,0
+OPIN-118,respondent,single-country:United States,2000,2021,1
+OPIN-119,country-year,single-country:United States,1936,2014,1
+OPIN-120,respondent,single-country:United States,2020,2020,0
+OPIN-121,respondent,single-country:United States,2022,2022,0
+OPIN-122,respondent,single-country:United States,2022,2026,1
+OPIN-123,respondent,single-country:United States,2001,2024,1
+OPIN-124,respondent,single-country:United States,1984,1996,0
+OPIN-125,respondent,north-america;latin-america,1989,1990,0
+OPIN-126,respondent,latin-america,2012,2017,0
+OPIN-127,respondent,single-country:United States,2008,2025,0
+OPIN-128,respondent,single-country:United States,2007,2024,1
+OPIN-129,subnational,single-country:United States,2006,2010,0
+OPIN-130,respondent,single-country:United States,1974,2025,0
+OPIN-131,respondent,single-country:United States,1992,2026,0
+OPIN-132,respondent,oceania,2011,2026,0
+OPIN-133,election-or-candidate,single-country:United States,1968,2025,1
+OPIN-134,respondent,single-country:United States,2012,2020,1
+OPIN-135,respondent,single-country:United States,2008,2017,0
+OPIN-136,respondent,single-country:United States,1939,2020,1
+OPIN-137,respondent,single-country:United States,2020,2021,0
+OPIN-138,respondent,single-country:United States,2010,2025,1
+OPIN-139,respondent,single-country:United States,2017,2024,0
+OPIN-140,respondent,unclassified,1950,2016,1
+OPIN-141,respondent,single-country:United States,2014,2026,0
+OPIN-142,other,single-country:United States,,,0
+OPIN-143,respondent,single-country:United States,2013,2026,0
+OPIN-144,grid-cell,single-country:United Kingdom,2011,2016,1
+OPIN-145,subnational,single-country:United States,1960,2017,1
+OPIN-146,subnational,single-country:United States,2008,2018,1
+OPIN-147,respondent,single-country:United Kingdom,1998,2025,0
+OPIN-148,country,europe,2015,2026,0
+OPIN-149,respondent,single-country:Russia,1993,2020,0
+OPIN-150,respondent,single-country:Russia,1995,2000,1
+OPIN-151,respondent,central-asia,2017,2023,0
+OPIN-152,respondent,single-country:Russia,1994,2023,1
+OPIN-153,respondent,east-asia;north-america,2019,2025,0
+OPIN-154,respondent,single-country:China,2003,2024,0
+OPIN-155,respondent,east-asia,2010,2022,1
+OPIN-156,respondent,mena,2011,2025,0
+OPIN-157,respondent,mena,2014,2014,0
+PE-001,country-year,multi-country,1960,2025,1
+PE-002,country-year,global,1960,2025,1
+PE-003,country-year,sub-saharan-africa,1950,2023,1
+PE-004,country-year,multi-country,2022,2022,1
+PE-005,country-year,multi-country,1980,2031,1
+PE-006,country,multi-country,,,1
+PE-007,country,multi-country,,,1
+PE-008,country-year,global,1960,2025,0
+PE-009,country-year,global,1800,2025,1
+PE-010,country-year,europe;latin-america;sub-saharan-africa;oceania,1963,2025,1
+PE-011,subnational,global,1950,2025,0
+PE-012,subnational,global,1963,2025,1
+PE-013,country-year,multi-country,1950,2024,0
+PE-014,country-year,multi-country,1960,2016,0
+PE-015,country,global,1988,2008,0
+PE-016,country-year,global,1500,2018,1
+PE-017,country-year,global,1815,2025,0
+PE-018,country-year,oceania;europe;north-america;east-asia,1870,2020,1
+PE-019,country-year,global,2025,2031,1
+PE-020,country-year,multi-country,1820,2040,1
+PE-021,country-year,global,1750,2010,0
+PE-022,country-year,global,1800,2014,0
+PE-023,subnational,global,1870,2020,0
+PE-024,country-year,multi-country,,,1
+PE-025,country-year,global,,,1
+PE-026,country-year,europe,1947,2026,1
+PE-027,country-year,global,1914,2030,1
+PE-028,country-year,global,2005,2020,1
+PE-029,country-year,multi-country,1961,2026,1
+PE-030,country-year,multi-country,1970,2026,1
+PE-031,subnational,single-country:United States,,,1
+PE-032,country-year,multi-country,1990,2025,1
+PE-033,country-year,global,1950,2024,1
+PE-034,country-year,single-country:United States,,,1
+PE-035,country-year,global,1900,1950,1
+PE-036,subnational,multi-country,,,1
+PE-037,country-year,sub-saharan-africa,,,1
+PE-038,country-year,multi-country,1970,2032,1
+PE-039,country-year,unclassified,1987,2026,1
+PE-040,country,europe;latin-america;sub-saharan-africa;mena,1990,2019,1
+PE-041,country,global,1965,2016,1
+PE-042,country,europe,1970,2025,0
+PE-043,country-year,north-america;east-asia,1950,2026,0
+PE-044,country-year,global,1962,2026,1
+PE-045,country,multi-country,1995,2025,1
+PE-046,country-year,global,1800,2024,1
+PE-047,country-year,global,1800,1800,1
+PE-048,subnational,multi-country,2001,2025,1
+PE-049,subnational,global,1990,2023,1
+PE-050,country-year,europe,2011,2026,0
+PE-051,country-year,global,2015,2026,0
+PE-052,country-year,europe;sub-saharan-africa,2000,2026,1
+PE-053,country,multi-country,2005,2025,0
+PE-054,country-year,multi-country,2000,2026,1
+PE-055,country,europe,2003,2025,0
+PE-056,respondent,multi-country,1703,2020,1
+PE-057,respondent,latin-america;sub-saharan-africa;mena;east-asia;southeast-asia,1985,2025,1
+PE-058,respondent,europe;latin-america;sub-saharan-africa;south-asia;central-asia,1985,2025,1
+PE-059,respondent,europe,1994,2025,0
+PE-060,respondent,multi-country,2002,2026,1
+PE-061,country-year,multi-country,1980,2023,0
+PE-062,country-year,europe,1965,2024,1
+PE-063,country-year,europe;latin-america,1800,2024,0
+PE-064,country-year,multi-country,1972,2026,1
+PE-065,study-or-record,oceania;europe;latin-america;north-america;east-asia;south-asia;mena,1970,2014,0
+PE-066,country-year,oceania;europe;north-america;east-asia,1800,2010,0
+PE-067,country-year,europe,1965,2026,1
+PE-068,country-year,single-country:Liechtenstein,1980,2026,1
+PE-069,other,multi-country,1990,2026,0
+PE-070,respondent,central-asia;latin-america;east-asia;sub-saharan-africa;south-asia;europe;mena,2009,2017,1
+PE-071,other,europe,2009,2026,0
+PE-072,other,multi-country,2019,2026,0
+PE-073,country,global,1900,2026,0
+PE-074,country,global,1952,2026,0
+PE-075,country-year,multi-country,2007,2025,0
+PE-076,country-year,multi-country,1800,2025,1
+PE-077,country-year,multi-country,1800,2015,1
+PE-078,country-year,multi-country,1950,2025,1
+PE-079,country-year,global,1970,2005,0
+PE-080,country-year,multi-country,1692,2016,0
+PE-081,country-year,global,1970,2025,0
+PE-082,country-year,multi-country,1985,2024,1
+PE-083,country-year,europe;latin-america,1978,2020,0
+PE-084,country-year,global,1970,2023,0
+PE-085,country,global,1946,2026,0
+PE-086,country-year,multi-country,1995,2021,0
+PE-087,country-year,europe,1950,2008,1
+PE-088,event,europe,1951,1998,0
+PE-089,country-year,multi-country,1950,2026,0
+PE-090,country-year,multi-country,1973,2005,0
+PE-091,country-year,multi-country,1973,2026,1
+PE-092,country-year,global,1970,2023,0
+PE-093,country-year,multi-country,1923,2023,0
+PE-094,country,multi-country,1950,1989,0
+PE-095,country-year,multi-country,1970,2005,0
+PE-096,country-year,multi-country,1960,2021,1
+PE-097,respondent,multi-country,2001,2019,1
+PE-098,country-year,multi-country,1980,2019,0
+PE-099,country-year,europe,1980,2024,1
+PE-100,country-year,multi-country,1970,2019,1
+PE-101,country-year,europe,1960,2023,0
+PE-102,country-year,oceania;europe;north-america;east-asia,1960,2018,0
+PE-103,country-year,latin-america,1945,2014,0
+PE-104,country-year,europe,1960,2024,1
+PE-105,country-year,multi-country,,,1
+PE-106,country-year,multi-country,2000,2020,0
+PE-107,country-year,multi-country,1950,2024,0
+PE-108,country-year,single-country:Afghanistan,1995,2026,0
+PE-109,respondent,global,1998,2024,1
+PE-110,country-year,multi-country,2024,2025,1
+PE-111,country-year,multi-country,2003,2020,1
+PE-112,country-year,europe,1989,2014,0
+PE-113,country-year,global,1970,2023,1
+PE-114,country-year,multi-country,2001,2025,0
+PE-115,event,global,1988,2008,0
+PE-116,organisation,global,2013,2023,0
+PE-117,organisation,global,2017,2019,0
+PE-118,organisation,multi-country,,,0
+PE-119,country-year,multi-country,1932,2023,1
+PE-120,event,global,,,1
+PE-121,subnational,global,,,0
+PE-122,organisation,single-country:United States,2002,2003,0
+PE-123,study-or-record,global,1962,2026,1
+PE-124,study-or-record,global,1962,2026,1
+PE-125,study-or-record,global,1948,2026,1
+PE-126,other,multi-country,1995,2024,0
+PE-127,dyad,multi-country,1948,2023,0
+PE-128,country,global,1948,2026,1
+PE-129,study-or-record,multi-country,2001,2026,0
+PE-130,country,single-country:United States,1992,2026,1
+PE-131,other,single-country:United States,1988,2025,0
+PE-132,subnational,global,2008,2026,1
+PE-133,study-or-record,multi-country,2009,2026,1
+PE-134,document,multi-country,1980,2024,0
+PE-135,country-year,multi-country,1990,2026,0
+PE-136,study-or-record,multi-country,2000,2019,0
+PE-137,study-or-record,global,2009,2024,1
+PE-138,party,global,,,0
+PE-139,document,global,,,0
+PE-140,other,global,2003,2026,0
+PE-141,country-year,europe,1932,2014,1
+PE-142,country-year,latin-america;sub-saharan-africa;mena;europe,1800,2006,0
+PE-143,country,mena,2012,2021,0
+PE-144,organisation,multi-country,2011,2025,0
+PE-145,country,multi-country,,,1
+PE-146,other,global,1960,2026,0
+PE-147,country,global,1962,1992,1
+PE-148,country-year,multi-country,1970,2025,1
+PE-149,country-year,multi-country,1949,2025,0
+PE-150,other,global,2008,2024,0
+PE-151,other,sub-saharan-africa,2000,2024,0
+PE-152,country,global,,2026,1
+PE-153,country,global,1950,2026,1
+PE-154,organisation,global,,,1
+PE-155,organisation,global,2018,2026,1
+PE-156,organisation,global,1950,2026,1
+PE-157,document,europe;latin-america;sub-saharan-africa;mena;central-asia,,,1
+PE-158,country-year,multi-country,1980,2030,0
+PE-159,country-year,global,1980,2024,0
+PE-160,country,southeast-asia;latin-america;sub-saharan-africa,2026,2026,0
+PE-161,country,latin-america;mena;europe;sub-saharan-africa;southeast-asia,2017,2024,0
+PE-162,subnational,global,1982,2006,0
+PE-163,document,global,,,0
+PE-164,other,single-country:United States,2001,2025,1
+PE-165,subnational,north-america;latin-america,1790,2026,1
+PE-166,country-year,single-country:Russia,1940,1990,0
+PE-167,country-year,europe,1960,1960,1
+PE-168,country,europe,1990,2026,1
+PE-169,country,europe,1962,2023,1
+PE-170,country,latin-america,1974,2024,0
+PE-171,subnational,east-asia;southeast-asia,1949,1949,1
+IR-001,dyad,global,1816,2014,1
+IR-002,event,global,1816,2010,0
+IR-003,country-year,global,1816,2022,1
+IR-004,dyad,global,1816,2012,1
+IR-005,event,global,1816,2018,0
+IR-006,country,global,1816,2024,1
+IR-007,event,global,1816,2007,1
+IR-008,dyad,global,1816,2016,1
+IR-009,dyad,global,1815,2014,0
+IR-010,dyad,global,1817,2005,0
+IR-011,dyad,global,1870,2014,1
+IR-012,dyad,global,1815,2018,0
+IR-013,dyad,global,1918,2021,1
+IR-014,event,global,1918,2015,1
+IR-015,dyad,global,1816,2014,0
+IR-016,country,global,1816,2020,1
+IR-017,dyad,europe;mena,1816,2025,0
+IR-018,dyad,global,1816,2014,0
+IR-019,dyad,global,1816,2001,1
+IR-020,dyad,global,1918,2001,1
+IR-021,dyad,global,1816,2019,1
+IR-022,event,global,1919,1995,1
+IR-023,country-year,global,1816,2010,1
+IR-024,other,global,1918,2017,1
+IR-025,dyad,global,2010,2020,1
+IR-026,dyad,global,1816,2021,0
+IR-027,dyad,unclassified,1816,1993,1
+IR-028,person-or-actor,unclassified,1875,2004,1
+IR-029,subnational,multi-country,1816,2023,0
+IR-030,document,global,1980,2010,0
+IR-031,country-year,multi-country,1970,2014,0
+IR-032,country-year,multi-country,1865,2025,1
+IR-033,country-year,global,1949,2025,0
+IR-034,event,global,1950,2025,1
+IR-035,country-year,global,1816,2023,1
+IR-036,country-year,multi-country,1959,2026,1
+IR-037,country-year,multi-country,1963,2021,0
+IR-038,country-year,multi-country,1981,2026,0
+IR-039,organisation,global,1989,2024,0
+IR-040,event,global,1950,2026,0
+IR-041,dyad,global,1962,2015,0
+IR-042,subnational,multi-country,1992,2025,0
+IR-043,study-or-record,global,2008,2026,0
+IR-044,country-year,global,,,0
+IR-045,country-year,global,1939,2012,0
+IR-046,dyad,global,1945,2003,0
+IR-047,dyad,global,1945,2000,0
+IR-048,dyad,global,1941,2000,0
+IR-049,event,global,,,1
+IR-050,subnational,multi-country,1930,2017,0
+IR-051,event,global,1980,2016,1
+IR-052,event,global,1980,2010,1
+IR-053,event,single-country:Russia,2009,2018,1
+IR-054,country-year,single-country:United States,1950,2026,1
+IR-055,country-year,multi-country,1950,2023,0
+IR-056,other,global,1776,2021,0
+IR-057,event,global,1776,2019,0
+IR-058,event,global,1946,2005,0
+IR-059,event,global,1816,2013,1
+IR-060,event,global,1946,2026,1
+IR-061,subnational,global,1990,2026,1
+IR-062,other,global,,,0
+IR-063,other,global,1991,2019,1
+IR-064,dyad,global,1992,2022,1
+IR-065,dyad,unclassified,2000,2020,1
+IR-066,event,global,2005,2026,0
+IR-067,event,global,2000,2026,1
+IR-068,document,global,1949,2025,0
+IR-069,document,global,1945,2005,0
+IR-070,event,global,1914,2006,0
+IR-071,document,global,1989,2015,0
+IR-072,document,multi-country,1991,2014,0
+IR-073,dyad,global,1990,2018,1
+IR-074,event,global,1990,2010,0
+IR-075,person-or-actor,global,2021,2021,1
+IR-076,country,global,1946,2025,0
+IR-077,other,east-asia,2001,2024,0
+IR-078,subnational,global,1816,2016,1
+IR-079,country-year,global,1945,2011,1
+IR-080,document,global,1946,2014,1
+IR-081,organisation,global,1948,2026,0
+IR-082,subnational,global,1815,2017,0
+IR-083,country-year,global,1925,2010,1
+IR-084,country,global,1815,2005,0
+IR-085,other,global,1945,2022,1
+IR-086,event,global,1950,2019,0
+IR-087,organisation,global,1919,2013,1
+IR-088,country-year,global,1950,2019,1
+IR-089,country-year,global,1946,2025,1
+IR-090,legislator-or-vote,global,1946,2023,1
+IR-091,organisation,global,1950,2023,1
+IR-092,organisation,global,1980,2023,1
+IR-093,organisation,global,2016,2016,1
+IR-094,dyad,global,1945,2023,1
+IR-095,country,global,1945,2020,1
+IR-096,organisation,global,1980,2020,1
+IR-097,country,multi-country,,,0
+IR-098,legislator-or-vote,global,1995,2025,0
+IR-099,legislator-or-vote,multi-country,1996,2012,1
+IR-100,study-or-record,global,1946,2026,1
+IR-101,event,global,1946,2015,1
+IR-102,document,global,1900,1999,0
+IR-103,legislator-or-vote,north-america;europe;mena,1990,2019,1
+IR-104,document,global,1922,2023,1
+IR-105,event,unclassified,2003,2021,1
+IR-106,event,multi-country,1995,2016,0
+IR-107,election-or-candidate,global,1945,2012,1
+IR-108,dyad,global,1816,2015,1
+IR-109,dyad,global,1946,2010,0
+IR-110,study-or-record,multi-country,2002,2026,0
+IR-111,person-or-actor,multi-country,1945,2026,1
+IR-112,other,global,1964,2026,1
+IR-113,other,global,1940,2026,1
+IR-114,dyad,global,1960,2025,1
+IR-115,country,europe,2016,2024,0
+IR-116,dyad,global,1968,2024,0
+IR-117,country-year,single-country:United States,1966,2017,1
+IR-118,dyad,europe;south-asia,1817,1914,0
+IR-119,other,single-country:United States,,,0
+IR-120,person-or-actor,global,1779,2025,1
+IR-121,person-or-actor,global,1990,2025,1
+IR-122,person-or-actor,single-country:United States,1946,2019,1
+IR-123,country,global,1998,2025,1
+IR-124,other,sub-saharan-africa,2000,2024,1
+IR-125,dyad,global,1960,2025,1
+IR-126,event,global,1947,2014,1
+IR-127,geospatial,global,2000,2025,1
+IR-128,country-year,global,1999,2021,1
+IR-129,country-year,single-country:Italy,1816,2050,1
+IR-130,legislator-or-vote,global,1946,2025,1
+IR-131,country,south-asia;europe;oceania;north-america,2018,2025,0
+IR-132,country-year,global,1990,2025,1
+IR-133,event,global,1960,2025,1
+IR-134,country-year,single-country:United States,1946,2026,1
+IR-135,event,global,2011,2026,1
+IR-136,respondent,global,1973,2023,0
+IR-137,event,oceania,2008,2024,0
+IR-138,country,global,1980,2026,1
+IR-139,respondent,multi-country,2004,2024,0
+IR-140,other,europe,2013,2023,0
+IR-141,dyad,global,1945,2025,1
+IR-142,study-or-record,global,1958,2023,1
+IR-143,study-or-record,global,2026,2026,0
+IR-144,dyad,global,1950,2017,0
+IR-145,study-or-record,global,1990,2021,1
+IR-146,document,global,,,1
+IR-147,study-or-record,global,1949,2022,0
+IR-148,study-or-record,single-country:United States,1989,2017,1
+CONF-001,event,global,1946,2025,1
+CONF-002,dyad,global,1946,2025,1
+CONF-003,event,global,1989,2025,1
+CONF-004,event,global,2018,2026,1
+CONF-005,dyad,global,1989,2025,1
+CONF-006,other,global,1989,2025,1
+CONF-007,dyad,global,1989,2025,1
+CONF-008,subnational,global,1946,2025,0
+CONF-009,country-year,global,1989,2025,0
+CONF-010,dyad,global,1946,2023,0
+CONF-011,dyad,global,1975,2017,0
+CONF-012,dyad,sub-saharan-africa,1989,2011,0
+CONF-013,dyad,global,1989,2017,0
+CONF-014,subnational,global,1946,2024,0
+CONF-015,dyad,global,1989,2025,0
+CONF-016,other,global,1989,2013,0
+CONF-017,event,sub-saharan-africa,1989,2009,0
+CONF-018,event,global,1989,2017,0
+CONF-019,country,global,1946,2026,1
+CONF-020,event,global,1900,2008,0
+CONF-021,event,global,1989,2008,0
+CONF-022,event,global,1946,2008,0
+CONF-023,event,global,1946,2004,0
+CONF-024,respondent,global,1789,2019,0
+CONF-025,subnational,global,1816,2014,0
+CONF-026,event,global,1816,2007,0
+CONF-027,event,global,1816,2002,0
+CONF-028,country-year,global,1945,1999,1
+CONF-029,respondent,global,1945,2019,0
+CONF-030,event,global,1944,2025,1
+CONF-031,subnational,global,2014,2025,0
+CONF-032,dyad,global,1997,2026,1
+CONF-033,event,global,1995,2023,1
+CONF-034,event,global,1979,2026,1
+CONF-035,event,global,1945,2019,0
+CONF-036,event,global,2018,2024,1
+CONF-037,event,global,1979,2015,1
+CONF-038,event,global,1945,2009,0
+CONF-039,grid-cell,multi-country,1968,2019,1
+CONF-040,event,south-asia;latin-america;mena;southeast-asia,1988,2013,0
+CONF-041,event,global,2003,2003,1
+CONF-042,event,sub-saharan-africa,1990,2009,0
+CONF-043,grid-cell,global,1990,2022,1
+CONF-044,grid-cell,global,1989,2026,1
+CONF-045,country-year,europe,1991,2026,0
+CONF-046,dyad,global,1946,2024,1
+CONF-047,dyad,global,1946,2011,0
+CONF-048,organisation,global,1998,2018,0
+CONF-049,person-or-actor,global,1980,2011,0
+CONF-050,event,global,1960,2023,1
+CONF-051,person-or-actor,global,1946,2010,0
+CONF-052,organisation,global,1940,2014,0
+CONF-053,person-or-actor,global,1945,2012,0
+CONF-054,dyad,global,1985,2022,0
+CONF-055,dyad,global,1990,2017,1
+CONF-056,dyad,global,,2026,0
+CONF-057,organisation,latin-america,1950,2016,0
+CONF-058,person-or-actor,sub-saharan-africa,1989,2011,0
+CONF-059,dyad,global,1990,2021,0
+CONF-060,election-or-candidate,global,1970,2010,1
+CONF-061,respondent,global,1994,2024,1
+CONF-062,grid-cell,sub-saharan-africa,1999,2018,1
+CONF-063,grid-cell,sub-saharan-africa,1989,2020,1
+CONF-064,event,global,1997,2025,0
+CONF-065,country-year,global,2007,2026,0
+CONF-066,country-year,multi-country,2007,2026,0
+CONF-067,study-or-record,global,2014,2014,1
+CONF-068,event,global,1997,2026,1
+CONF-069,event,global,1970,2020,0
+CONF-070,event,global,1968,2009,0
+CONF-071,event,global,1960,2025,0
+CONF-072,event,global,1974,2019,0
+CONF-073,event,europe,1950,2004,0
+CONF-074,event,europe,1990,2023,0
+CONF-075,event,global,1989,2021,0
+CONF-076,organisation,global,1970,2016,0
+CONF-077,dyad,global,,,0
+CONF-078,respondent,single-country:United States,1948,2022,0
+CONF-079,event,single-country:United States,1990,2018,0
+CONF-080,event,single-country:United States,1970,2018,0
+CONF-081,organisation,north-america;latin-america,1970,2016,1
+CONF-082,document,single-country:United States,1990,2026,0
+CONF-083,country,mena,1985,2013,1
+CONF-084,country-year,global,1950,2026,0
+CONF-085,event,global,1945,2026,0
+CONF-086,person-or-actor,global,1946,2022,0
+CONF-087,country-year,global,1950,2022,1
+CONF-088,event,global,1946,2021,0
+CONF-089,event,south-asia;mena;sub-saharan-africa,2002,2020,0
+CONF-090,event,south-asia;mena;sub-saharan-africa,2001,2020,0
+CONF-091,country-year,global,1981,2014,1
+CONF-092,event,global,1950,2020,1
+CONF-093,event,global,1950,2022,1
+CONF-094,event,multi-country,1965,2005,1
+CONF-095,country-year,multi-country,1960,2010,0
+CONF-096,subnational,mena,1946,2013,1
+CONF-097,event,single-country:India,1960,2004,0
+CONF-098,event,global,1955,2018,0
+CONF-099,event,global,1995,2020,0
+CONF-100,country-year,global,1946,2018,0
+CONF-101,country-year,global,1945,2025,1
+CONF-102,country-year,global,1946,2022,1
+CONF-103,subnational,global,1945,1945,0
+CONF-104,country-year,multi-country,2018,2024,1
+CONF-105,event,europe,1990,2012,0
+CONF-106,event,global,1989,2017,0
+CONF-107,election-or-candidate,multi-country,1995,2013,0
+CONF-108,event,single-country:Turkey,1950,1950,1
+CONF-109,event,global,1875,2004,1
+CONF-110,event,multi-country,1948,1967,0
+CONF-111,person-or-actor,global,1946,2020,0
+CONF-112,person-or-actor,global,1979,2009,1
+CONF-113,dyad,global,1989,2013,0
+CONF-114,country-year,multi-country,2004,2021,1
+CONF-115,country-year,global,1999,2025,0
+CONF-116,event,single-country:Iraq,2003,2026,0
+CONF-117,event,mena;north-america;europe,2014,2026,0
+CONF-118,dyad,global,1975,2021,0
+CONF-119,study-or-record,global,1990,2025,0
+CONF-120,study-or-record,global,1990,2025,0
+CONF-121,study-or-record,global,1990,2025,0
+CONF-122,other,global,1990,2024,0
+CONF-123,study-or-record,multi-country,1990,2024,0
+CONF-124,other,global,1989,2025,0
+CONF-125,dyad,global,1989,2021,0
+CONF-126,event,global,1946,2004,0
+CONF-127,dyad,sub-saharan-africa,1993,2007,0
+CONF-128,dyad,global,1993,2004,0
+CONF-129,event,sub-saharan-africa,1989,2019,0
+CONF-130,dyad,global,1989,2023,1
+CONF-131,dyad,global,1989,2011,1
+CONF-132,study-or-record,global,1975,2021,0
+CONF-133,other,global,1980,2020,1
+CONF-134,event,global,1946,2016,0
+CONF-135,subnational,global,1945,2020,0
+CONF-136,organisation,mena,1980,2004,1
+CONF-137,respondent,global,1946,2021,1
+CONF-138,dyad,global,,,1
+CONF-139,country,global,,,1
+CONF-140,geospatial,global,,,1
+CONF-141,dyad,global,1975,2021,0
+CONF-142,organisation,multi-country,1946,2019,0
+CONF-143,geospatial,global,,,0
+CONF-144,document,global,1946,2021,0
+CONF-145,country,global,1945,2006,0
+CONF-146,country,global,1940,2007,0
+CONF-147,geospatial,global,1946,2003,0
+CONF-148,other,global,1946,2004,0
+CONF-149,other,global,1946,2004,1
+CONF-150,subnational,global,1946,2004,0
+CONF-151,event,global,1946,2006,0
+CONF-152,other,global,1868,2019,1
+CONF-153,study-or-record,global,1948,2021,1
+CONF-154,study-or-record,global,2004,2004,0
+HR-001,country-year,global,1981,2022,0
+HR-002,country-year,global,1981,2011,1
+HR-003,country-year,global,1976,2025,0
+HR-004,country-year,global,2013,2016,0
+HR-005,country-year,global,1946,2021,1
+HR-006,country-year,multi-country,2017,2026,0
+HR-007,country-year,multi-country,2007,2023,0
+HR-008,document,global,1974,2014,1
+HR-009,country-year,global,1995,2005,0
+HR-010,country-year,multi-country,1960,1999,0
+HR-011,country-year,europe;latin-america;sub-saharan-africa;mena;east-asia;central-asia,2025,2026,0
+HR-012,event,global,1989,2023,0
+HR-013,event,global,1989,2016,0
+HR-014,country-year,global,1992,2004,1
+HR-015,country-year,global,1986,2000,1
+HR-016,country-year,global,1977,2001,1
+HR-017,document,global,1965,2026,1
+HR-018,document,global,1948,2014,1
+HR-019,study-or-record,multi-country,1991,2014,0
+HR-020,country-year,global,1999,2026,1
+HR-021,respondent,sub-saharan-africa,1958,1993,1
+HR-022,country-year,global,2000,2025,0
+HR-023,country-year,multi-country,2018,2025,0
+HR-024,event,global,2014,2025,0
+HR-025,event,global,1991,2019,0
+HR-026,event,global,2016,2025,0
+HR-027,country,multi-country,2012,2022,0
+HR-028,event,global,1992,2026,1
+HR-029,country-year,global,,,0
+HR-030,country-year,multi-country,2000,2010,0
+HR-031,country-year,multi-country,2000,2017,1
+HR-032,country,multi-country,2016,2023,0
+HR-033,respondent,global,2002,2024,0
+HR-034,country-year,global,2003,2023,0
+HR-035,country-year,global,,,0
+HR-036,event,multi-country,2009,2024,0
+HR-037,document,single-country:United States,,,1
+HR-038,document,global,1993,2026,1
+HR-039,event,global,2014,2023,1
+HR-040,document,global,2012,2025,0
+HR-041,event,mena,,,0
+HR-042,country-year,unclassified,1950,2018,1
+HR-043,event,global,1970,2026,1
+HR-044,event,multi-country,1946,2016,1
+HR-045,country,global,1970,2018,1
+HR-046,other,global,1974,2010,1
+HR-047,event,global,1970,2007,0
+HR-048,study-or-record,single-country:Colombia,1985,2018,1
+HR-049,country-year,global,1990,2013,1
+HR-050,country,multi-country,,,0
+HR-051,country-year,multi-country,1994,2014,1
+HR-052,study-or-record,global,2020,2022,0
+HR-053,legislator-or-vote,single-country:United States,2017,2026,0
+HR-054,country-year,latin-america,2015,2024,0
+HR-055,event,latin-america;sub-saharan-africa,1990,2017,0
+HR-056,event,global,1990,2020,1
+HR-057,event,global,2003,2022,1
+HR-058,event,global,1960,2014,0
+HR-059,event,global,2017,2026,0
+HR-060,event,single-country:United States,2013,2026,0
+HR-061,person-or-actor,single-country:United States,2000,2021,0
+HR-062,organisation,single-country:United States,2015,2024,1
+HR-063,election-or-candidate,global,1900,2019,1
+HR-064,election-or-candidate,global,1945,2013,1
+HR-065,event,mena;east-asia;europe;south-asia;sub-saharan-africa;latin-america;north-america;central-asia,1990,2012,1
+HR-066,event,sub-saharan-africa,1990,2012,0
+HR-067,event,global,1955,2018,1
+HR-068,event,sub-saharan-africa,1989,2024,1
+HR-069,country,sub-saharan-africa;mena,1990,2015,1
+HR-070,event,latin-america;sub-saharan-africa,1990,2017,1
+HR-071,election-or-candidate,global,1945,2014,1
+HR-072,election-or-candidate,global,1990,2020,1
+HR-073,election-or-candidate,global,,,0
+HR-074,event,global,1900,2014,1
+HR-075,event,global,2000,2025,0
+HR-076,country-year,global,1945,2004,0
+HR-077,event,global,1900,2015,1
+HR-078,event,global,1900,2015,1
+HR-079,event,single-country:United States,1960,1995,0
+HR-080,event,single-country:United Kingdom,1758,1834,0
+HR-081,event,europe,1980,1995,0
+HR-082,event,europe,1975,2015,0
+HR-083,event,single-country:Germany,2000,2020,0
+HR-084,event,single-country:Myanmar,2011,2014,0
+HR-085,event,single-country:Turkey,2013,2016,1
+HR-086,event,north-america;latin-america,2017,2026,1
+HR-087,event,single-country:United States,2017,2021,0
+HR-088,event,latin-america,2000,2012,1
+HR-089,event,single-country:United States,2020,2026,0
+HR-090,event,single-country:United States,1947,2026,1
+HR-091,event,single-country:Chile,1979,2024,1
+HR-092,document,global,1982,2012,0
+HR-093,respondent,europe,2019,2019,1
+HR-094,event,single-country:China,2022,2026,0
+HR-095,event,single-country:Germany,1950,2002,0
+HR-096,subnational,single-country:United States,1960,1961,0
+HR-097,document,global,2011,2011,1
+HR-098,event,single-country:United States,1929,2026,1
+HR-099,event,single-country:United States,1960,2024,0
+HR-100,study-or-record,single-country:United States,2000,2020,1
+HR-101,dyad,latin-america,1966,1998,1
+TEXT-001,study-or-record,europe,2021,2021,0
+TEXT-002,document,multi-country,1992,2023,1
+TEXT-003,document,global,1946,2025,1
+TEXT-004,document,global,2000,2020,1
+TEXT-005,party,single-country:United States,1873,2017,1
+TEXT-006,party,single-country:United States,1995,2008,0
+TEXT-007,document,single-country:United States,,,1
+TEXT-008,document,single-country:Russia,1994,2023,1
+TEXT-009,document,europe,2015,2022,1
+TEXT-010,document,europe,2009,2019,1
+TEXT-011,document,europe,1997,2019,1
+TEXT-012,document,single-country:Canada,1901,2019,1
+TEXT-013,document,europe,1797,2022,1
+TEXT-014,subnational,single-country:Australia,1998,2025,1
+TEXT-015,document,single-country:Norway,1945,2024,1
+TEXT-016,document,single-country:Finland,1907,2018,1
+TEXT-017,legislator-or-vote,single-country:Finland,1907,2025,1
+TEXT-018,document,single-country:Ireland,1919,2013,1
+TEXT-019,document,single-country:Egypt,1866,1952,0
+TEXT-020,legislator-or-vote,europe,1994,2024,1
+TEXT-021,document,europe,1999,2017,1
+TEXT-022,document,single-country:United Kingdom,1803,2005,0
+TEXT-023,document,single-country:United States,2005,2019,1
+TEXT-024,document,single-country:United States,1824,2020,0
+TEXT-025,document,single-country:United States,1789,2026,1
+TEXT-026,document,single-country:United States,1952,1996,1
+TEXT-027,document,single-country:United States,1960,1996,0
+TEXT-028,document,single-country:United States,2019,2021,1
+TEXT-029,other,single-country:Spain,1993,2023,1
+TEXT-030,document,europe,1990,2020,1
+TEXT-031,party,europe,1970,2025,1
+TEXT-032,document,europe,1980,2017,0
+TEXT-033,document,europe,1946,2017,1
+TEXT-034,document,single-country:South Korea,2000,2026,1
+TEXT-035,document,north-america;oceania,1658,2020,1
+TEXT-036,document,single-country:United States,1955,2023,1
+TEXT-037,document,global,1996,2026,1
+TEXT-038,document,global,1986,2023,0
+TEXT-039,study-or-record,single-country:France,,,1
+TEXT-040,study-or-record,single-country:Netherlands,,,0
+TEXT-041,study-or-record,single-country:United States,1980,2016,1
+TEXT-042,study-or-record,unclassified,,,1
+TEXT-043,document,single-country:United States,,,1
+TEXT-044,document,single-country:Germany,,,1
+TEXT-045,document,europe,2014,2020,1
+TEXT-046,subnational,single-country:United States,1960,2016,1
+TEXT-047,other,single-country:United States,2008,2014,0
+TEXT-048,document,single-country:United States,2005,2005,0
+TEXT-049,other,single-country:Germany,2013,2021,1
+TEXT-050,document,europe,1994,2022,1
+TEXT-051,document,single-country:Brazil,,,0
+TEXT-052,event,single-country:Spain,1993,2023,1
+TEXT-053,document,europe,1985,2020,1
+TEXT-054,document,single-country:United States,2005,2007,1
+TEXT-055,dyad,single-country:China,2002,2025,1
+TEXT-056,document,global,1620,2020,1
+TEXT-057,election-or-candidate,single-country:United States,2002,2006,0
+TEXT-058,election-or-candidate,single-country:United States,2018,2022,1
+TEXT-059,document,europe,2020,2021,0
+TEXT-060,document,global,2011,2026,1
+TEXT-061,legislator-or-vote,global,2001,2026,1
+TEXT-062,geospatial,single-country:United States,2010,2026,0
+TEXT-063,country-year,multi-country,2002,2026,1
+TEXT-064,country-year,multi-country,1980,2017,1
+TEXT-065,country-year,global,1948,2014,1
+TEXT-066,country,europe;latin-america;central-asia;southeast-asia;mena;sub-saharan-africa;south-asia;east-asia,2015,2025,0
+TEXT-067,subnational,multi-country,2004,2026,1
+TEXT-068,country-year,europe,2014,2026,0
+TEXT-069,country-year,europe;central-asia,2021,2024,0
+TEXT-070,country-year,europe;sub-saharan-africa;mena,2001,2020,0
+TEXT-071,respondent,multi-country,2012,2025,0
+TEXT-072,study-or-record,single-country:United States,,,0
+TEXT-073,event,global,,,1
+TEXT-074,other,global,,,1
+TEXT-075,other,global,2005,2020,1
+TEXT-076,study-or-record,global,2015,2019,1
+TEXT-077,other,global,2015,2022,1
+TEXT-078,party,single-country:United States,2017,2023,1
+TEXT-079,legislator-or-vote,single-country:United States,2009,2021,1
+TEXT-080,legislator-or-vote,europe,2017,2021,0
+TEXT-081,document,single-country:United States,2009,2026,1
+TEXT-082,event,single-country:United States,1996,2026,0
+TEXT-083,event,single-country:United States,1996,2008,0
+TEXT-084,other,single-country:United States,2022,2022,1
+TEXT-085,country,global,2018,2025,1
+TEXT-086,organisation,europe,2018,2018,1
+TEXT-087,other,global,2018,2020,0
+TEXT-088,study-or-record,single-country:United States,2012,2012,1
+TEXT-089,organisation,single-country:United States,2010,2026,0
+TEXT-090,event,single-country:United States,2014,2026,1
+TEXT-091,study-or-record,global,,,0
+TEXT-092,study-or-record,global,,,1
+TEXT-093,subnational,single-country:United States,2007,2016,0
+TEXT-094,document,multi-country,,,1
+TEXT-095,other,single-country:United States,2023,2023,1
+TEXT-096,other,north-america;europe,2018,2026,1
+TEXT-097,other,single-country:United States,2019,2021,0
+TEXT-098,event,single-country:United States,,,0
+TEXT-099,event,single-country:United States,2020,2020,1
+TEXT-100,document,single-country:United States,2020,2021,0
+TEXT-101,document,single-country:Japan,1947,2026,1
+IDENT-001,country,global,1990,2025,1
+IDENT-002,country,global,1997,2001,1
+IDENT-003,country,global,1961,1985,1
+IDENT-004,country-year,global,1945,2013,1
+IDENT-005,country-year,global,1945,2013,1
+IDENT-006,country,sub-saharan-africa,1960,1990,0
+IDENT-007,country,global,,,1
+IDENT-008,country,global,2005,2005,0
+IDENT-009,country,global,1992,2012,0
+IDENT-010,subnational,sub-saharan-africa,1976,2016,0
+IDENT-011,geospatial,global,1960,2016,0
+IDENT-012,grid-cell,sub-saharan-africa,1986,2014,1
+IDENT-013,geospatial,sub-saharan-africa,1860,1940,1
+IDENT-014,other,global,1800,1950,1
+IDENT-015,dyad,sub-saharan-africa,1959,1959,1
+IDENT-016,country,global,,,0
+IDENT-017,country,global,1995,2006,1
+IDENT-018,organisation,multi-country,2000,2022,0
+IDENT-019,respondent,sub-saharan-africa,1960,2004,0
+IDENT-020,country,europe,,,1
+IDENT-021,country,multi-country,2006,2006,1
+IDENT-022,party,multi-country,1976,1996,0
+IDENT-023,respondent,europe,1990,2015,1
+IDENT-024,legislator-or-vote,europe,2007,2018,1
+IDENT-025,country-year,oceania;europe;north-america;east-asia,1960,2020,0
+IDENT-026,grid-cell,global,1816,2001,0
+IDENT-027,respondent,global,1800,2011,1
+IDENT-028,country-year,latin-america,1979,2025,1
+IDENT-029,document,europe,2014,2014,0
+IDENT-030,country-year,global,2005,2021,0
+IDENT-031,country,sub-saharan-africa,2014,2026,0
+IDENT-032,country,multi-country,1985,2024,1
+IDENT-033,legislator-or-vote,single-country:India,1962,2019,0
+IDENT-034,subnational,europe;south-asia,1931,2000,1
+IDENT-035,respondent,single-country:India,2011,2011,1
+IDENT-036,election-or-candidate,single-country:United States,2012,2022,0
+IDENT-037,subnational,single-country:United States,2005,2019,1
+IDENT-038,country-year,global,1990,2014,1
+IDENT-039,country-year,multi-country,1990,2014,1
+IDENT-040,other,multi-country,2000,2014,0
+IDENT-041,country-year,single-country:Brunei,1990,2022,0
+IDENT-042,country,single-country:United States,1952,2018,1
+IDENT-043,subnational,global,1945,2010,1
+IDENT-044,country-year,global,1800,2015,1
+IDENT-045,country-year,single-country:Cyprus,1946,2018,1
+IDENT-046,subnational,global,1900,2050,0
+IDENT-047,country-year,global,2010,2020,0
+IDENT-048,subnational,multi-country,1900,2050,0
+IDENT-049,dyad,multi-country,1990,2020,0
+IDENT-050,country-year,multi-country,1900,2000,0
+IDENT-051,country,europe,1837,1970,1
+IDENT-052,subnational,single-country:United States,1952,2020,0
+IDENT-053,other,global,1975,2015,0
+IDENT-054,country-year,east-asia;europe,2007,2023,0
+IDENT-055,country,single-country:United States,2001,2008,0
+IDENT-056,country-year,multi-country,1800,2015,0
+IDENT-057,country,single-country:Palestine,2014,2014,0
+IDENT-058,country-year,multi-country,1993,2013,0
+IDENT-059,dyad,global,1975,2015,0
+IDENT-060,event,global,1946,2004,0
+IDENT-061,event,single-country:India,1950,1995,0
+IDENT-062,party,south-asia;mena;sub-saharan-africa;southeast-asia;central-asia,1955,2026,1
+IDENT-063,party,europe;mena,2008,2010,0
+IDENT-064,respondent,single-country:United States,1998,2019,0
+IDENT-065,respondent,global,2006,2023,0
+IDENT-066,respondent,single-country:United States,2005,2025,0
+IDENT-067,country,latin-america;sub-saharan-africa;oceania,1813,1968,0
+IDENT-068,country-year,global,1990,2024,0
+IDENT-069,country-year,global,1980,2013,0
+IDENT-070,dyad,global,1960,2000,1
+IDENT-071,dyad,global,1990,2020,1
+IDENT-072,country-year,europe;latin-america;sub-saharan-africa;oceania,1815,2011,0
+IDENT-073,country,europe;latin-america;sub-saharan-africa;oceania,1946,2011,0
+IDENT-074,country-year,europe,1995,2024,1
+IDENT-075,country,europe,2000,2020,0
+IDENT-076,country-year,europe,1985,2026,1
+IDENT-077,country-year,global,1980,2025,1
+IDENT-078,grid-cell,global,2000,2019,1
+IDENT-079,dyad,global,1951,2025,1
+IDENT-080,event,global,1998,2025,1
+IDENT-081,document,global,1964,2008,0
+IDENT-082,legislator-or-vote,global,1966,2020,0
+IDENT-083,subnational,global,2018,2024,1
+IDENT-084,country-year,europe,1850,2014,0
+IDENT-085,dyad,multi-country,1973,2013,0
+IDENT-086,country-year,global,1980,2018,1
+IDENT-087,country-year,europe;sub-saharan-africa;mena;east-asia,1783,2010,1
+IDENT-088,country-year,global,1783,2010,1
+IDENT-089,subnational,single-country:United States,1975,2018,0
+IDENT-090,subnational,single-country:United States,1975,2026,0
+IDENT-091,country-year,global,1951,2022,0
+IDENT-092,country-year,europe;sub-saharan-africa;mena,2007,2025,0
+IDENT-093,country-year,europe,1997,2020,0
+IDENT-094,document,europe,2012,2019,0
+IDENT-095,country-year,europe;north-america;latin-america;sub-saharan-africa;mena;east-asia;southeast-asia;oceania,1980,2021,0
+IDENT-096,subnational,single-country:United States,2005,2016,1
+IDENT-097,document,europe,2012,2024,1
+IDENT-098,country-year,global,1960,2024,0
+IDENT-099,country-year,global,2010,2020,0
+IDENT-100,country-year,global,1960,2020,1
+IDENT-101,country-year,europe,1980,2019,1
+IDENT-102,country,latin-america,2015,2015,0
+IDENT-103,country,southeast-asia;south-asia;east-asia,2024,2024,0
+IDENT-104,document,global,1945,2020,1
+IDENT-105,dyad,global,1969,2010,0
+IDENT-106,dyad,global,2019,2019,1
+IDENT-107,country,multi-country,2006,2026,0
+IDENT-108,dyad,global,1952,2014,1
+IDENT-109,dyad,global,1800,2014,1
+IDENT-110,dyad,global,2018,2019,0
+IDENT-111,respondent,latin-america;north-america,1950,2019,0
+IDENT-112,respondent,latin-america;europe,1998,2018,0
+IDENT-113,respondent,sub-saharan-africa;europe,2008,2010,1
+IDENT-114,respondent,single-country:United States,1996,2009,0
+IDENT-115,respondent,single-country:United States,1991,2006,1
+IDENT-116,respondent,europe,2010,2025,0
+IDENT-117,organisation,latin-america;north-america,2004,2006,0
+IDENT-118,event,global,2014,2026,1
+IDENT-119,document,single-country:United States,1970,2026,1
+IDENT-120,country,single-country:United States,1991,2026,0
+IDENT-121,subnational,single-country:United States,1820,2024,0
+IDENT-122,country,global,1988,2026,0
+IDENT-123,event,single-country:Germany,2014,2017,1
+IDENT-124,country-year,global,1950,2026,0
+IDENT-125,subnational,single-country:United States,1820,2024,0
+IDENT-126,country,europe,2011,2021,0
+IDENT-127,document,global,,,0
+IDENT-128,dyad,global,1990,2020,1
+IDENT-129,study-or-record,global,1992,2025,1
+IDENT-130,dyad,global,2021,2022,1
+IDENT-131,dyad,global,1946,2021,0
+IDENT-132,country-year,global,1946,2010,0
+IDENT-133,dyad,global,1960,1960,1
+IDENT-134,country-year,global,1990,2023,1
+IDENT-135,country,europe,2020,2020,0
+IDENT-136,country,single-country:Russia,1945,2020,1
+IDENT-137,respondent,sub-saharan-africa,2019,2019,1
+GENDER-001,subnational,global,1945,2026,1
+GENDER-002,country,global,2012,2026,0
+GENDER-003,party,east-asia;europe,2003,2026,0
+GENDER-004,country-year,global,1947,2015,1
+GENDER-005,event,global,1893,2003,0
+GENDER-006,country-year,global,2007,2025,1
+GENDER-007,subnational,europe,2007,2013,0
+GENDER-008,party,multi-country,1965,2013,1
+GENDER-009,event,multi-country,1945,2026,0
+GENDER-010,country,europe,2018,2018,0
+GENDER-011,country-year,multi-country,,,0
+GENDER-012,country-year,europe,2003,2026,0
+GENDER-013,election-or-candidate,single-country:United States,1893,2026,0
+GENDER-014,person-or-actor,single-country:United States,2023,2024,0
+GENDER-015,respondent,single-country:United States,2001,2021,1
+GENDER-016,election-or-candidate,single-country:United States,1980,2012,0
+GENDER-017,subnational,single-country:United States,1996,2015,0
+GENDER-018,country,europe;north-america,1970,2001,0
+GENDER-019,country-year,multi-country,1950,2013,0
+GENDER-020,country-year,global,1975,2015,0
+GENDER-021,country-year,global,1980,2023,1
+GENDER-022,country-year,multi-country,1972,2026,1
+GENDER-023,country,global,2005,2023,0
+GENDER-024,country,global,1960,2026,0
+GENDER-025,country,global,2009,2023,1
+GENDER-026,country,global,2009,2023,1
+GENDER-027,respondent,global,1970,2026,1
+GENDER-028,other,global,2006,2026,0
+GENDER-029,country-year,europe,2010,2025,0
+GENDER-030,country,global,2015,2030,0
+GENDER-031,country,global,2017,2025,0
+GENDER-032,country-year,global,1960,2025,1
+GENDER-033,country-year,global,2000,2024,0
+GENDER-034,country-year,global,,,0
+GENDER-035,country-year,europe;sub-saharan-africa,1966,2025,1
+GENDER-036,country-year,europe,,,0
+GENDER-037,country-year,europe;north-america;central-asia,1980,2026,1
+GENDER-038,country-year,latin-america,2005,2024,1
+GENDER-039,country-year,global,1979,2022,1
+GENDER-040,subnational,europe,2007,2016,0
+GENDER-041,country-year,europe,2007,2019,1
+GENDER-042,country,global,,2026,0
+GENDER-043,event,global,2020,2021,1
+GENDER-044,country,global,,,0
+GENDER-045,country-year,global,1960,2006,0
+GENDER-046,document,global,1973,2020,1
+GENDER-047,subnational,single-country:United States,2009,2026,1
+GENDER-048,country,global,1998,1998,0
+GENDER-049,country-year,global,1995,2021,0
+GENDER-050,country-year,europe,1970,2024,1
+GENDER-051,country,europe;north-america;latin-america,2009,2014,0
+GENDER-052,country,multi-country,2016,2021,1
+GENDER-053,country,europe,2016,2022,1
+GENDER-054,subnational,multi-country,1900,2020,1
+GENDER-055,country-year,europe,1999,2025,1
+GENDER-056,document,global,2005,2024,0
+GENDER-057,country-year,multi-country,,,1
+GENDER-058,country,europe,2014,2026,0
+GENDER-059,study-or-record,single-country:United States,2019,2019,1
+GENDER-060,document,unclassified,1913,2025,1
+GENDER-061,country-year,global,2000,2021,1
+GENDER-062,person-or-actor,global,1976,2024,0
+GENDER-063,party,single-country:United States,2017,2026,0
+GENDER-064,country-year,europe;central-asia,2013,2026,0
+GENDER-065,country-year,multi-country,1981,2020,0
+GENDER-066,country-year,global,2011,2024,0
+GENDER-067,subnational,single-country:United States,2006,2020,0
+GENDER-068,country-year,multi-country,1791,2025,0
+GENDER-069,country-year,multi-country,1970,2013,0
+GENDER-070,subnational,single-country:United States,2010,2024,0
+GENDER-071,country,latin-america;central-asia;oceania;south-asia;southeast-asia,2022,2022,0
+GENDER-072,subnational,single-country:United States,2012,2025,0
+GENDER-073,respondent,north-america;latin-america,2015,2022,0
+GENDER-074,respondent,single-country:United States,2016,2018,0
+GENDER-075,respondent,north-america;latin-america,2010,2010,0
+GENDER-076,election-or-candidate,sub-saharan-africa,1945,2018,0
+ENV-001,document,global,2025,2026,0
+ENV-002,dyad,global,1945,2022,0
+ENV-003,dyad,global,1820,2023,0
+ENV-004,party,europe,1986,2025,0
+ENV-005,study-or-record,multi-country,1995,2026,0
+ENV-006,respondent,global,1991,2025,1
+ENV-007,organisation,global,1993,2024,1
+ENV-008,country,multi-country,2014,2025,1
+ENV-009,country,europe,2015,2026,1
+ENV-010,document,single-country:United Kingdom,2015,2030,1
+ENV-011,country,europe,2016,2023,1
+ENV-012,country-year,europe,1990,2026,0
+ENV-013,subnational,global,2015,2026,0
+ENV-014,subnational,global,2014,2026,0
+ENV-015,country,global,2013,2026,0
+ENV-016,study-or-record,global,2010,2026,1
+ENV-017,document,europe,,,0
+ENV-018,document,global,1986,2026,0
+ENV-019,other,europe,2024,2025,0
+ENV-020,organisation,single-country:United States,2017,2026,0
+ENV-021,study-or-record,single-country:United States,2016,2026,0
+ENV-022,organisation,single-country:United States,2017,2026,1
+ENV-023,country,europe,1894,2026,1
+ENV-024,country-year,europe,1990,2025,1
+ENV-025,country-year,europe;sub-saharan-africa,1990,2020,1
+ENV-026,country,global,,,1
+ENV-027,other,europe,,,0
+ENV-028,country,europe,1960,2022,0
+ENV-029,country,global,1990,2021,1
+ENV-030,other,global,,,0
+ENV-031,other,global,,,0
+ENV-032,country-year,europe,2010,2024,1
+ENV-033,country-year,global,2018,2023,1
+ENV-034,country,europe,2005,2025,1
+ENV-035,event,europe,,,1
+ENV-036,other,global,,,1
+ENV-037,other,multi-country,2000,2025,1
+ENV-038,subnational,global,2003,2026,0
+ENV-039,study-or-record,global,2011,2024,0
+ENV-040,party,europe,2015,2020,0
+ENV-041,study-or-record,global,,,0
+ENV-042,country,global,2020,2021,0
+ENV-043,grid-cell,global,1970,2026,0
+ENV-044,country,single-country:Taiwan,1750,2025,0
+ENV-045,grid-cell,global,1750,2026,1
+ENV-046,country-year,global,1750,2022,0
+ENV-047,subnational,europe,1850,2024,1
+ENV-048,country,europe,1985,2026,0
+ENV-049,subnational,global,2015,2026,1
+ENV-050,study-or-record,global,1854,2024,0
+ENV-051,subnational,global,1997,2026,0
+ENV-052,country-year,global,1980,2026,1
+ENV-053,subnational,global,1751,2050,1
+ENV-054,country-year,global,1965,2025,0
+ENV-055,country-year,multi-country,1950,2024,1
+ENV-056,country-year,global,2000,2025,1
+ENV-057,country-year,multi-country,1960,2025,0
+ENV-058,organisation,global,2000,2026,0
+ENV-059,grid-cell,global,1896,2018,1
+ENV-060,grid-cell,global,2000,2025,1
+ENV-061,subnational,latin-america;sub-saharan-africa,1985,2024,1
+ENV-062,event,global,2000,2026,1
+ENV-063,country,global,2017,2026,1
+ENV-064,subnational,single-country:United States,2000,2011,0
+ENV-065,country-year,global,2010,2024,1
+ENV-066,country-year,global,1750,2026,0
+ENV-067,country,global,1980,2005,1
+ENV-068,country-year,global,1946,2020,1
+ENV-069,country,global,2014,2015,0
+ENV-070,country,global,2005,2023,0
+ENV-071,country-year,global,1958,2036,1
+ENV-072,country-year,global,2004,2024,0
+ENV-073,country-year,global,1995,2026,0
+ENV-074,subnational,global,2016,2026,0
+ENV-075,country-year,global,2000,2026,1
+ENV-076,country,multi-country,1995,2026,0
+ENV-077,subnational,global,2015,2095,1
+ENV-078,grid-cell,sub-saharan-africa,1970,2013,0
+ENV-079,grid-cell,global,1901,2024,1
+ENV-080,subnational,north-america;europe;south-asia,2008,2025,0
+ENV-081,respondent,single-country:United States,2008,2025,1
+ENV-082,respondent,single-country:United States,2008,2017,0
+ENV-083,country-year,single-country:United States,1999,2017,1
+ENV-084,respondent,global,2021,2023,1
+ENV-085,respondent,multi-country,2019,2025,0
+ENV-086,respondent,global,2020,2024,0
+ENV-087,respondent,global,2021,2022,1
+ENV-088,party,europe;latin-america,1990,2022,1
+ENV-089,party,europe,1990,2015,0
+ENV-090,legislator-or-vote,north-america;latin-america,1971,2025,0
+ENV-091,event,global,2022,2026,0
+ENV-092,document,global,,,0
+ENV-093,event,global,2022,2025,0
+ENV-094,event,sub-saharan-africa;mena,1997,2009,1
+ENV-095,event,global,1900,2026,1
+ENV-096,geospatial,global,1960,2018,1
+ENV-097,event,multi-country,1970,2000,1
+ENV-098,event,single-country:United States,1980,2024,1
+ENV-099,event,single-country:United States,1980,2026,0
+ENV-100,event,single-country:United States,1950,2026,1
+ENV-101,subnational,single-country:United States,1953,2026,1
+ENV-102,subnational,north-america;oceania;latin-america,2017,2025,1
+ENV-103,document,single-country:United States,2000,2026,1
+ENV-104,organisation,single-country:United States,1987,2024,1
+ENV-105,organisation,single-country:United States,2010,2024,1
+ENV-106,event,single-country:United States,1993,2026,1
+ENV-107,document,single-country:United States,1981,2024,0
+ENV-108,subnational,mena,2015,2024,1
+ENV-109,geospatial,single-country:United States,2022,2024,0
+ENV-110,other,single-country:United States,2022,2024,0
+ENV-111,document,global,,,1
+ENV-112,organisation,global,1999,2024,1
+ENV-113,organisation,single-country:United States,1991,2019,1
+ENV-114,organisation,global,2002,2026,1
+ENV-115,organisation,global,2002,2021,0
+ENV-116,organisation,global,2005,2026,1
+ENV-117,subnational,global,2002,2023,1
+ENV-118,country,multi-country,,,0
+GEO-001,respondent,europe,2002,2016,1
+GEO-002,geospatial,global,1946,2021,1
+GEO-003,country,global,2022,2022,1
+GEO-004,country,global,2016,2026,1
+GEO-005,country,global,1990,2025,1
+GEO-006,country,global,2000,2026,1
+GEO-007,country,global,,,1
+GEO-008,geospatial,global,,,1
+GEO-009,country,global,,,1
+GEO-010,geospatial,global,,,1
+GEO-011,country,global,1886,2019,1
+GEO-012,geospatial,global,2024,2024,1
+GEO-013,geospatial,europe,1512,1989,1
+GEO-014,geospatial,europe,1871,2003,0
+GEO-015,subnational,europe;mena,2000,2000,0
+GEO-016,subnational,single-country:China,1820,1990,1
+GEO-017,geospatial,single-country:United Kingdom,1801,1974,0
+GEO-018,grid-cell,global,1885,2024,1
+GEO-019,grid-cell,global,2000,2020,1
+GEO-020,grid-cell,global,2000,2030,1
+GEO-021,grid-cell,global,1975,2030,1
+GEO-022,grid-cell,global,1998,2024,0
+GEO-023,grid-cell,multi-country,2015,2020,1
+GEO-024,grid-cell,global,1700,2025,1
+GEO-025,grid-cell,global,1992,2024,1
+GEO-026,grid-cell,global,1992,2024,1
+GEO-027,grid-cell,global,2012,2026,1
+GEO-028,grid-cell,global,2015,2015,1
+GEO-029,grid-cell,global,1900,2000,1
+GEO-030,geospatial,global,1980,2010,1
+GEO-031,grid-cell,global,1992,2015,0
+GEO-032,grid-cell,global,1990,2005,1
+GEO-033,grid-cell,global,1990,2025,1
+GEO-034,subnational,multi-country,1953,2023,1
+GEO-035,subnational,europe,1900,2022,0
+GEO-036,other,global,1979,2021,1
+GEO-037,grid-cell,multi-country,1985,2025,1
+GEO-038,geospatial,global,1788,2019,1
+GEO-039,subnational,single-country:Canada,2003,2026,1
+GEO-040,geospatial,single-country:Australia,2008,2026,0
+GEO-041,subnational,europe,2003,2026,1
+GEO-042,subnational,europe,,,0
+GEO-043,subnational,europe,1980,2025,1
+GEO-044,subnational,latin-america,1977,2022,1
+GEO-045,subnational,single-country:Norway,1972,2022,0
+GEO-046,subnational,single-country:Sweden,1919,2018,1
+GEO-047,geospatial,single-country:United Kingdom,2017,2024,1
+GEO-048,subnational,single-country:India,1990,2021,0
+GEO-049,geospatial,single-country:India,2008,2019,1
+GEO-050,subnational,single-country:Brazil,1872,2025,1
+GEO-051,subnational,single-country:Mexico,2025,2026,1
+GEO-052,geospatial,north-america;latin-america,2000,2026,1
+GEO-053,geospatial,north-america;latin-america,1790,2026,1
+GEO-054,respondent,north-america;latin-america,2005,2025,1
+GEO-055,study-or-record,north-america;latin-america,2000,2026,1
+GEO-056,grid-cell,north-america;latin-america,1970,2025,1
+GEO-057,event,single-country:United States,1600,2000,0
+GEO-058,study-or-record,north-america;latin-america,2000,2024,1
+GEO-059,other,north-america;latin-america,1990,2026,0
+GEO-060,subnational,single-country:United States,1790,2020,0
+GEO-061,study-or-record,single-country:United States,1970,2020,1
+GEO-062,subnational,single-country:United States,2008,2024,1
+GEO-063,election-or-candidate,single-country:United States,2016,2024,1
+GEO-064,subnational,single-country:United States,1951,2024,1
+GEO-065,subnational,single-country:United States,1967,2015,1
+GEO-066,subnational,single-country:United States,1977,2023,0
+GEO-067,respondent,single-country:United States,1974,2018,0
+GEO-068,subnational,single-country:United States,2021,2021,0
+GEO-069,subnational,single-country:United States,1789,2023,1
+GEO-070,subnational,north-america;latin-america,1995,2025,1
+GEO-071,other,single-country:United States,2006,2025,1
+GEO-072,legislator-or-vote,single-country:United States,2020,2026,1
+GEO-073,respondent,single-country:United States,2013,2026,0
+GEO-074,subnational,single-country:United States,2005,2026,0
+GEO-075,subnational,single-country:United States,2022,2022,1
+GEO-076,subnational,single-country:United States,1978,2020,1
+GEO-077,other,north-america;latin-america,2000,2026,1
+GEO-078,subnational,global,1790,2026,0
+GEO-079,geospatial,single-country:United States,2000,2027,1
+GEO-080,study-or-record,north-america,1980,2010,0
+GEO-081,other,single-country:United States,1970,2020,0
+GEO-082,subnational,single-country:United States,,,0
+GEO-083,geospatial,global,1840,2026,0
+GEO-084,subnational,single-country:Canada,1867,2023,1
+GEO-085,subnational,single-country:United Kingdom,1840,2025,0
+GEO-086,subnational,single-country:Norway,1769,2024,1
+GEO-087,subnational,single-country:Norway,1945,2016,1
+GEO-088,subnational,single-country:Indonesia,1980,2024,1
+HIST-001,study-or-record,single-country:United States,2000,2000,0
+HIST-002,study-or-record,single-country:Canada,1867,1977,0
+HIST-003,subnational,single-country:United States,1790,2002,0
+HIST-004,subnational,single-country:United States,1944,2007,0
+HIST-005,subnational,single-country:United States,1790,2000,0
+HIST-006,subnational,single-country:United States,1790,1982,0
+HIST-007,subnational,europe,1951,2015,0
+HIST-008,study-or-record,single-country:Switzerland,1782,1996,0
+HIST-009,country-year,global,1534,2012,0
+HIST-010,country-year,single-country:Sweden,1560,2023,0
+HIST-011,study-or-record,single-country:Norway,1664,2013,1
+HIST-012,subnational,unclassified,1816,1901,0
+HIST-013,country-year,single-country:Germany,1924,1943,0
+HIST-014,country,single-country:Italy,1861,2026,0
+HIST-015,study-or-record,europe,1708,1988,1
+HIST-016,country,single-country:France,1800,1925,1
+HIST-017,country-year,europe;mena,1830,1949,0
+HIST-018,country-year,single-country:Netherlands,1800,1940,1
+HIST-019,country-year,latin-america,1870,2018,0
+HIST-020,subnational,single-country:Japan,1868,1868,0
+HIST-021,party,single-country:Japan,1868,2011,0
+HIST-022,country-year,east-asia;europe,1860,2020,0
+HIST-023,respondent,sub-saharan-africa,1663,2020,0
+HIST-024,subnational,sub-saharan-africa,1850,1960,1
+HIST-025,respondent,single-country:United States,1790,1950,1
+HIST-026,respondent,single-country:United States,1850,1950,1
+HIST-027,respondent,north-america;europe,1703,1911,1
+HIST-028,respondent,single-country:United Kingdom,1851,1921,0
+HIST-029,person-or-actor,single-country:United States,1850,1950,1
+HIST-030,respondent,single-country:Canada,1911,1951,0
+HIST-031,event,single-country:Netherlands,1811,1922,1
+HIST-032,person-or-actor,single-country:Norway,1801,2026,0
+HIST-033,respondent,north-america;europe,1631,1976,0
+HIST-034,country-year,north-america;europe;oceania,1700,2026,0
+HIST-035,document,europe,1500,1815,0
+HIST-036,subnational,europe,1835,1914,1
+HIST-037,subnational,global,1950,2010,0
+HIST-038,subnational,north-america;europe,1785,1994,0
+HIST-039,country-year,multi-country,,,0
+HIST-040,country-year,europe,1890,2024,0
+HIST-041,country-year,single-country:United Kingdom,1694,2016,0
+HIST-042,country-year,multi-country,1500,1950,0
+HIST-043,subnational,single-country:Sweden,1534,2020,0
+HIST-044,country-year,europe,1815,1896,1
+HIST-045,country,europe,1980,2026,1
+HIST-046,subnational,global,1816,2018,0
+HIST-047,country,europe;sub-saharan-africa;mena,,,1
+HIST-048,dyad,global,2000,2017,0
+HIST-049,geospatial,north-america;latin-america,1510,1808,1
+HIST-050,subnational,sub-saharan-africa,1830,1969,0
+HIST-051,other,global,1900,2025,1
+HIST-052,subnational,global,1800,2021,0
+HIST-053,subnational,multi-country,1800,2025,0
+HIST-054,document,europe;south-asia;east-asia,,,0
+HIST-055,grid-cell,europe,1790,1790,1
+HIST-056,study-or-record,europe,2019,2019,0
+HIST-057,organisation,europe;east-asia,1500,1994,1
+HIST-058,document,global,1514,1866,0
+HIST-059,document,north-america;latin-america,1550,2023,0
+HIST-060,study-or-record,latin-america;sub-saharan-africa,1650,1870,1
+HIST-061,country,sub-saharan-africa,1900,1900,1
+HIST-062,country,global,1500,2000,0
+HIST-063,country-year,global,2000,2000,0
+HIST-064,event,global,1500,1816,0
+HIST-065,event,global,1566,1812,1
+HIST-066,dyad,east-asia,1600,1600,1
+HIST-067,country-year,global,1860,2023,1
+HIST-068,dyad,global,1920,1939,0
+HIST-069,event,europe,1900,1900,1
+HIST-070,person-or-actor,single-country:China,,,1
+HIST-071,person-or-actor,global,2018,2018,1
+HIST-072,person-or-actor,global,2013,2025,1
+HIST-073,person-or-actor,europe,1800,1800,0
+HIST-074,subnational,global,1975,2000,0
+HIST-075,subnational,europe,2000,2000,1
+HIST-076,subnational,europe;mena,1800,1800,1
+HIST-077,country-year,europe;north-america;east-asia;oceania,1751,2025,1
+HIST-078,document,single-country:United States,1774,1963,1
+HIST-079,document,global,1878,1977,1
+HIST-080,document,single-country:United States,1875,2020,0
+HIST-081,document,single-country:United Kingdom,1674,1913,1
+HIST-082,study-or-record,global,1650,2020,1
+HIST-083,geospatial,europe,1500,1500,1
+HIST-084,study-or-record,global,1650,1800,1
+AREA-001,subnational,single-country:United States,1935,2011,1
+AREA-002,subnational,north-america;oceania;latin-america,2002,2026,0
+AREA-003,study-or-record,single-country:United States,1997,2023,0
+AREA-004,subnational,single-country:United States,1990,2026,1
+AREA-005,subnational,single-country:United States,1969,2026,1
+AREA-006,study-or-record,single-country:China,1982,2020,0
+AREA-007,subnational,single-country:India,,,0
+AREA-008,subnational,single-country:India,1990,2026,0
+AREA-009,respondent,single-country:India,1975,2022,0
+AREA-010,event,single-country:United States,1975,2026,1
+AREA-011,legislator-or-vote,single-country:United States,1979,2024,0
+AREA-012,document,single-country:United States,1789,2026,0
+AREA-013,respondent,single-country:United States,1964,2026,1
+AREA-014,event,single-country:United States,,,1
+AREA-015,subnational,single-country:United States,1996,2020,0
+AREA-016,subnational,single-country:United States,1977,2016,0
+AREA-017,subnational,single-country:United States,1970,2000,0
+AREA-018,subnational,single-country:United States,1939,2010,1
+AREA-019,study-or-record,single-country:Canada,1993,2026,1
+AREA-020,country,single-country:Australia,1998,2024,1
+AREA-021,document,europe,1951,2021,1
+AREA-022,other,europe,2014,2027,1
+AREA-023,subnational,europe,1986,2027,1
+AREA-024,study-or-record,europe,2012,2021,1
+AREA-025,subnational,single-country:United Kingdom,,,0
+AREA-026,study-or-record,single-country:United Kingdom,1921,2026,1
+AREA-027,country,single-country:United Kingdom,,,1
+AREA-028,respondent,single-country:United Kingdom,1885,2025,0
+AREA-029,legislator-or-vote,single-country:Norway,1814,2026,0
+AREA-030,person-or-actor,europe,2019,2019,1
+AREA-031,grid-cell,single-country:Germany,,,1
+AREA-032,event,single-country:Switzerland,1848,2026,0
+AREA-033,subnational,single-country:Russia,1990,2019,0
+AREA-034,country,central-asia;europe,,,1
+AREA-035,document,europe,1995,2026,0
+AREA-036,country-year,europe,1989,2007,0
+AREA-037,event,europe,1971,1971,0
+AREA-038,country-year,sub-saharan-africa,2013,2023,0
+AREA-039,country-year,sub-saharan-africa,1970,2028,1
+AREA-040,country-year,sub-saharan-africa;mena,1960,2012,1
+AREA-041,document,latin-america,1995,2012,0
+AREA-042,country-year,latin-america,1986,2026,1
+AREA-043,study-or-record,global,1900,2002,0
+AREA-044,study-or-record,single-country:Brazil,,,1
+AREA-045,person-or-actor,single-country:China,1995,2015,0
+AREA-046,respondent,single-country:China,1921,2017,1
+AREA-047,respondent,single-country:China,1949,2026,0
+AREA-048,study-or-record,east-asia;north-america,1921,2026,1
+AREA-049,study-or-record,single-country:China,1949,2026,0
+AREA-050,study-or-record,east-asia,1949,2018,0
+AREA-051,subnational,single-country:India,1950,2025,0
+AREA-052,respondent,single-country:Pakistan,1951,2024,1
+AREA-053,document,single-country:Iran,1979,2026,0
+AREA-054,subnational,global,1990,2026,1
+AREA-055,country-year,mena,,,0
+AREA-056,subnational,europe;north-america;central-asia,1990,2025,1
+AREA-057,country-year,southeast-asia,,,0
+AREA-058,country-year,oceania,1850,2030,1
+AREA-059,respondent,mena,1988,2026,0
+AREA-060,subnational,east-asia,2025,2025,0
+AREA-061,subnational,single-country:Japan,,,1
+AREA-062,subnational,global,,,1
+AREA-063,country,east-asia,,,0
+AREA-064,subnational,single-country:India,1872,2027,1
+AREA-065,subnational,single-country:Australia,,,1
+AREA-066,subnational,single-country:Indonesia,,,1
+AREA-067,grid-cell,single-country:Canada,1851,2021,1
+AREA-068,subnational,single-country:Brazil,1612,2026,1
+AREA-069,subnational,single-country:Mexico,2011,2025,1
+AREA-070,respondent,sub-saharan-africa,1960,2022,0
+AREA-071,respondent,single-country:Turkey,,,0
+AREA-072,grid-cell,europe,1749,2026,1
+AREA-073,organisation,single-country:United States,2009,2009,1
+AREA-074,country,latin-america,,,0
+INFRA-001,person-or-actor,global,1750,2026,1
+INFRA-002,study-or-record,europe,,,1
+INFRA-003,study-or-record,europe,,,1
+INFRA-004,respondent,single-country:United Kingdom,,,1
+INFRA-005,study-or-record,global,,,1
+INFRA-006,respondent,north-america;europe,1948,2025,0
+INFRA-007,study-or-record,single-country:France,,,1
+INFRA-008,country-year,global,,,1
+INFRA-009,respondent,europe,1945,2018,0
+INFRA-010,respondent,single-country:United States,,,1
+INFRA-011,respondent,single-country:Canada,1970,2025,1
+INFRA-012,respondent,single-country:Spain,1963,2026,1
+INFRA-013,respondent,single-country:Ireland,1970,2025,0
+INFRA-014,respondent,single-country:Ireland,,,1
+INFRA-015,respondent,single-country:Israel,,,0
+INFRA-016,respondent,east-asia,,,1
+INFRA-017,respondent,single-country:Hungary,1985,2026,0
+INFRA-018,respondent,south-asia,1952,2026,0
+INFRA-019,country-year,multi-country,1500,2022,1
+INFRA-020,study-or-record,global,,,0
+INFRA-021,country-year,global,1816,2026,1
+INFRA-022,country,global,,,1
+INFRA-023,country-year,global,1800,2025,1
+INFRA-024,respondent,global,1816,2026,1
+INFRA-025,dyad,global,1816,2016,0
+INFRA-026,document,global,2007,2026,1
+INFRA-027,document,north-america;europe;east-asia,1790,2026,1
+INFRA-028,document,single-country:United States,1790,2022,1
+INFRA-029,document,single-country:Germany,1949,2025,1
+INFRA-030,document,single-country:South Korea,2000,2026,1
+INFRA-031,subnational,global,,,1
+INFRA-032,geospatial,single-country:United States,1990,2025,1
+INFRA-033,respondent,north-america;latin-america,2000,2020,1
+INFRA-034,document,europe,1950,2026,1
+INFRA-035,study-or-record,single-country:Czechia,1946,2026,1
+INFRA-036,study-or-record,single-country:Slovenia,1962,2025,1
+INFRA-037,study-or-record,global,1947,2026,1
+INFRA-038,respondent,single-country:Japan,1970,2026,0
+INFRA-039,country,global,,2026,0
+INFRA-040,country,global,,,0
+INFRA-041,subnational,global,1975,1999,0
+INFRA-042,subnational,global,1987,2027,1
+INFRA-043,subnational,global,,,1
+INFRA-044,subnational,north-america;latin-america,2010,2025,1
+INFRA-045,subnational,single-country:United States,1620,1983,1
+INFRA-046,subnational,single-country:United States,2003,2026,0
+INFRA-047,document,single-country:United States,1990,2012,0
+INFRA-048,other,single-country:United States,1989,2017,1
+INFRA-049,other,global,2008,2008,0
+INFRA-050,other,global,1950,2026,0
+INFRA-051,country,global,2007,2007,1
+INFRA-052,country,global,,,1
+INFRA-053,study-or-record,global,,,1
+INFRA-054,study-or-record,global,,,1
+INFRA-055,organisation,global,,,1
+INFRA-056,other,global,1950,2022,1
+INFRA-057,respondent,europe;mena,,,1
+INFRA-058,study-or-record,global,2018,2018,1
+INFRA-059,study-or-record,global,2019,2019,0
+INFRA-060,study-or-record,global,,,1
+INFRA-061,country-year,global,,,1
+INFRA-062,country,global,,,1
+INFRA-063,country-year,global,,,1
+INFRA-064,country-year,global,1960,2026,1
+INFRA-065,subnational,global,,,1
+INFRA-066,legislator-or-vote,single-country:United States,,,1
+INFRA-067,study-or-record,global,2006,2026,1
+INFRA-068,study-or-record,unclassified,,,1
+INFRA-069,study-or-record,global,2013,2026,1
+INFRA-070,study-or-record,global,2013,2026,1
+INFRA-071,study-or-record,global,2011,2026,1
+INFRA-072,study-or-record,global,2007,2026,1
+INFRA-073,study-or-record,global,2015,2026,1
+INFRA-074,other,global,2017,2026,1
+INFRA-075,study-or-record,single-country:Netherlands,2008,2026,1
+INFRA-076,study-or-record,global,2021,2026,1
+INFRA-077,study-or-record,single-country:Switzerland,2008,2025,0
+INFRA-078,study-or-record,europe,2016,2026,1
+INFRA-079,study-or-record,single-country:Belgium,1991,2026,1
+INFRA-080,study-or-record,single-country:Italy,2026,2026,1
+INFRA-081,study-or-record,single-country:Poland,2003,2026,1
+INFRA-082,study-or-record,single-country:Romania,1990,2026,0
+INFRA-083,respondent,europe,1720,2026,1
+INFRA-084,respondent,single-country:Sweden,1865,2026,1
+INFRA-085,respondent,single-country:Finland,1962,2026,1
+INFRA-086,respondent,single-country:Denmark,1600,2019,0
+INFRA-087,respondent,single-country:Lithuania,1806,2026,1
+INFRA-088,organisation,single-country:Canada,2011,2026,1
+INFRA-089,respondent,east-asia,1833,2026,1
+INFRA-090,respondent,sub-saharan-africa,1991,2026,1
+INFRA-091,document,global,2007,2026,1
+INFRA-092,document,global,1984,2026,0
+INFRA-093,document,global,2015,2026,1
+INFRA-094,study-or-record,north-america;oceania;europe;sub-saharan-africa,1950,2020,1
+INFRA-095,document,global,1702,2026,1
+INFRA-096,study-or-record,single-country:United States,2017,2026,1
+INFRA-097,study-or-record,single-country:United States,2025,2025,0
+INFRA-098,study-or-record,single-country:United States,2024,2025,1
+INFRA-099,study-or-record,single-country:United States,,,0
+INFRA-100,study-or-record,single-country:United States,2025,2025,1
+INFRA-101,study-or-record,single-country:United States,,2026,1
+INFRA-102,study-or-record,global,2018,2018,0
+INFRA-103,study-or-record,global,2012,2023,1
+INFRA-104,person-or-actor,global,,,1
+INFRA-105,study-or-record,global,2016,2020,1
+INFRA-106,study-or-record,global,1963,2000,0
+INFRA-107,study-or-record,global,1900,2026,1
+INFRA-108,study-or-record,global,2010,2010,1
+INFRA-109,study-or-record,global,,,1

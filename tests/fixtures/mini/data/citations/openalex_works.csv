@@ -1,0 +1,7 @@
+id,name,primary_domain,doi_used,doi_kind,openalex_id,match_method,match_score,work_title,work_year,work_type,cited_by_count,counts_by_year,checked_on,status,note
+REG-001,Varieties of Democracy (V-Dem) Country-Year Dataset,REG,10.1000/x0,article,W2000000000,doi,1.0,Title 0,2015,article,350,"[{""year"":2025,""count"":120},{""year"":2024,""count"":200},{""year"":2021,""count"":30}]",2026-11-11,ok,
+REG-002,Historical Varieties of Democracy (Historical V-Dem),REG,10.1000/x1,article,W2000000001,doi,1.0,Title 1,2016,article,14,"[{""year"":2026,""count"":5},{""year"":2023,""count"":9}]",2026-11-11,ok,
+REG-003,Regimes of the World (RoW),REG,10.1000/x2,article,W2000000002,doi,1.0,Title 2,2017,article,0,[],2026-11-11,ok,
+REG-009,Freedom in the World,REG,10.1000/x3,article,W2000000003,doi,1.0,Title 3,2018,article,106,"[{""year"":2024,""count"":7},{""year"":2012,""count"":99}]",2026-11-11,ok,
+REG-014,Boix-Miller-Rosato Dichotomous Coding of Democracy,REG,10.1000/x4,article,W2000000004,doi,1.0,Title 4,2019,article,1,"[{""year"":2022,""count"":1}]",2026-11-11,ok,
+REG-007,Polity5: Political Regime Characteristics and Transitions,REG,10.1000/x5,article,W2000000005,doi,1.0,Title 5,2020,article,5,"[{""year"":2025,""count"":2},{""year"":2024,""count"":3}]",2026-11-11,ok,

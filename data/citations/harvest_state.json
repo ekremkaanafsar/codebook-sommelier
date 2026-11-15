@@ -1,0 +1,10557 @@
+{
+ "W104799458": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-016"
+  ],
+  "n": 179,
+  "truncated": false
+ },
+ "W1230834471": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-026"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W1481186935": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "GEO-019"
+  ],
+  "n": 489,
+  "truncated": false
+ },
+ "W1488416994": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "CONST-030"
+  ],
+  "n": 117,
+  "truncated": false
+ },
+ "W1492995868": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-002"
+  ],
+  "n": 282,
+  "truncated": false
+ },
+ "W1517794032": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-015"
+  ],
+  "n": 682,
+  "truncated": false
+ },
+ "W1527301653": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-022"
+  ],
+  "n": 33,
+  "truncated": false
+ },
+ "W1527961413": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-012"
+  ],
+  "n": 182,
+  "truncated": false
+ },
+ "W1528857264": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-080"
+  ],
+  "n": 4986,
+  "truncated": false
+ },
+ "W1537646239": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-001"
+  ],
+  "n": 1856,
+  "truncated": false
+ },
+ "W1545034027": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-051"
+  ],
+  "n": 155,
+  "truncated": false
+ },
+ "W1547177775": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-031"
+  ],
+  "n": 293,
+  "truncated": false
+ },
+ "W1547721553": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-008"
+  ],
+  "n": 377,
+  "truncated": false
+ },
+ "W1560636626": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-052"
+  ],
+  "n": 12,
+  "truncated": false
+ },
+ "W1563091572": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-032"
+  ],
+  "n": 1795,
+  "truncated": false
+ },
+ "W1567581535": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-038"
+  ],
+  "n": 9,
+  "truncated": false
+ },
+ "W1568520485": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-029"
+  ],
+  "n": 87,
+  "truncated": false
+ },
+ "W1574019540": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-066"
+  ],
+  "n": 11,
+  "truncated": false
+ },
+ "W1575307928": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-101"
+  ],
+  "n": 137,
+  "truncated": false
+ },
+ "W1576064197": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-154"
+  ],
+  "n": 278,
+  "truncated": false
+ },
+ "W1578796163": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "ELEC-134"
+  ],
+  "n": 162,
+  "truncated": false
+ },
+ "W1586408939": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-044"
+  ],
+  "n": 87,
+  "truncated": false
+ },
+ "W1601527364": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "IR-055"
+  ],
+  "n": 86,
+  "truncated": false
+ },
+ "W1621097012": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-071"
+  ],
+  "n": 183,
+  "truncated": false
+ },
+ "W1654896026": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-017"
+  ],
+  "n": 171,
+  "truncated": false
+ },
+ "W1681545227": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-126"
+  ],
+  "n": 916,
+  "truncated": false
+ },
+ "W1768369570": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-063"
+  ],
+  "n": 164,
+  "truncated": false
+ },
+ "W1768452460": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-124"
+  ],
+  "n": 140,
+  "truncated": false
+ },
+ "W1770116696": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "CONF-138",
+   "CONF-139",
+   "CONF-144",
+   "GEO-002"
+  ],
+  "n": 645,
+  "truncated": false
+ },
+ "W1777695347": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-024"
+  ],
+  "n": 35,
+  "truncated": false
+ },
+ "W1868231082": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-014"
+  ],
+  "n": 566,
+  "truncated": false
+ },
+ "W1892751358": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-082"
+  ],
+  "n": 188,
+  "truncated": false
+ },
+ "W1906213920": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-011"
+  ],
+  "n": 274,
+  "truncated": false
+ },
+ "W1915163609": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-047"
+  ],
+  "n": 192,
+  "truncated": false
+ },
+ "W1932678689": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-005"
+  ],
+  "n": 88,
+  "truncated": false
+ },
+ "W1938827952": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-031"
+  ],
+  "n": 131,
+  "truncated": false
+ },
+ "W1947328911": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-108"
+  ],
+  "n": 125,
+  "truncated": false
+ },
+ "W1953629216": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-009"
+  ],
+  "n": 26,
+  "truncated": false
+ },
+ "W1962964587": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-071"
+  ],
+  "n": 525,
+  "truncated": false
+ },
+ "W1963655034": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-105"
+  ],
+  "n": 290,
+  "truncated": false
+ },
+ "W1963753277": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-094"
+  ],
+  "n": 50,
+  "truncated": false
+ },
+ "W1964025352": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-027"
+  ],
+  "n": 102,
+  "truncated": false
+ },
+ "W1964037444": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-068"
+  ],
+  "n": 116,
+  "truncated": false
+ },
+ "W1964224704": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "PARTY-027"
+  ],
+  "n": 1129,
+  "truncated": false
+ },
+ "W1964759636": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "POLICY-021"
+  ],
+  "n": 65,
+  "truncated": false
+ },
+ "W1966232749": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-086"
+  ],
+  "n": 38,
+  "truncated": false
+ },
+ "W1966690268": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-020"
+  ],
+  "n": 780,
+  "truncated": false
+ },
+ "W1967204085": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-058"
+  ],
+  "n": 170,
+  "truncated": false
+ },
+ "W1967448438": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-067"
+  ],
+  "n": 124,
+  "truncated": false
+ },
+ "W1967552699": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-049"
+  ],
+  "n": 456,
+  "truncated": false
+ },
+ "W1967807490": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-048"
+  ],
+  "n": 487,
+  "truncated": false
+ },
+ "W1968452906": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-060"
+  ],
+  "n": 1636,
+  "truncated": false
+ },
+ "W1968984560": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-073"
+  ],
+  "n": 95,
+  "truncated": false
+ },
+ "W1969574542": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-131"
+  ],
+  "n": 90,
+  "truncated": false
+ },
+ "W1970434980": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-107"
+  ],
+  "n": 94,
+  "truncated": false
+ },
+ "W1971303891": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-111"
+  ],
+  "n": 305,
+  "truncated": false
+ },
+ "W1971966319": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-080"
+  ],
+  "n": 776,
+  "truncated": false
+ },
+ "W1973399956": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-081"
+  ],
+  "n": 1181,
+  "truncated": false
+ },
+ "W1973785911": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-056"
+  ],
+  "n": 55,
+  "truncated": false
+ },
+ "W1973976604": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "IR-065"
+  ],
+  "n": 194,
+  "truncated": false
+ },
+ "W1974772851": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-058"
+  ],
+  "n": 112,
+  "truncated": false
+ },
+ "W1976998163": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-042"
+  ],
+  "n": 302,
+  "truncated": false
+ },
+ "W1977082364": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "BUR-022"
+  ],
+  "n": 291,
+  "truncated": false
+ },
+ "W1978456111": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-037"
+  ],
+  "n": 196,
+  "truncated": false
+ },
+ "W1978749690": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-017"
+  ],
+  "n": 100,
+  "truncated": false
+ },
+ "W1979033903": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-069"
+  ],
+  "n": 708,
+  "truncated": false
+ },
+ "W1979254431": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-042"
+  ],
+  "n": 39,
+  "truncated": false
+ },
+ "W1979427225": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-042"
+  ],
+  "n": 867,
+  "truncated": false
+ },
+ "W1980228452": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-066"
+  ],
+  "n": 133,
+  "truncated": false
+ },
+ "W1981213426": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-060"
+  ],
+  "n": 12274,
+  "truncated": false
+ },
+ "W1981671671": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-011"
+  ],
+  "n": 445,
+  "truncated": false
+ },
+ "W1981932895": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-001"
+  ],
+  "n": 545,
+  "truncated": false
+ },
+ "W1985949226": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-001"
+  ],
+  "n": 1002,
+  "truncated": false
+ },
+ "W1987894199": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-047"
+  ],
+  "n": 121,
+  "truncated": false
+ },
+ "W1989785158": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-050"
+  ],
+  "n": 885,
+  "truncated": false
+ },
+ "W1989798165": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-062"
+  ],
+  "n": 75,
+  "truncated": false
+ },
+ "W1990567769": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-093"
+  ],
+  "n": 57,
+  "truncated": false
+ },
+ "W1991669095": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-016"
+  ],
+  "n": 307,
+  "truncated": false
+ },
+ "W1992075943": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-090"
+  ],
+  "n": 855,
+  "truncated": false
+ },
+ "W1995386013": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-002"
+  ],
+  "n": 45,
+  "truncated": false
+ },
+ "W1995964689": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-002"
+  ],
+  "n": 1118,
+  "truncated": false
+ },
+ "W1997821369": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-048"
+  ],
+  "n": 24,
+  "truncated": false
+ },
+ "W1999094940": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-061"
+  ],
+  "n": 490,
+  "truncated": false
+ },
+ "W1999647828": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "ENV-098"
+  ],
+  "n": 699,
+  "truncated": false
+ },
+ "W1999911850": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-099"
+  ],
+  "n": 93,
+  "truncated": false
+ },
+ "W2000017811": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-043"
+  ],
+  "n": 281,
+  "truncated": false
+ },
+ "W2001119786": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-007"
+  ],
+  "n": 126,
+  "truncated": false
+ },
+ "W2001299520": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-011"
+  ],
+  "n": 149,
+  "truncated": false
+ },
+ "W2001399967": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-148"
+  ],
+  "n": 191,
+  "truncated": false
+ },
+ "W2002603534": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-062"
+  ],
+  "n": 120,
+  "truncated": false
+ },
+ "W2004148513": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-039"
+  ],
+  "n": 45,
+  "truncated": false
+ },
+ "W2004200592": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-005"
+  ],
+  "n": 119,
+  "truncated": false
+ },
+ "W2004381293": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-128"
+  ],
+  "n": 66,
+  "truncated": false
+ },
+ "W2005783730": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-054"
+  ],
+  "n": 142,
+  "truncated": false
+ },
+ "W2006616785": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-002"
+  ],
+  "n": 623,
+  "truncated": false
+ },
+ "W2007352806": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-001",
+   "CONF-014"
+  ],
+  "n": 3851,
+  "truncated": false
+ },
+ "W2009094796": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-066"
+  ],
+  "n": 67,
+  "truncated": false
+ },
+ "W2009595209": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "CONF-137"
+  ],
+  "n": 1362,
+  "truncated": false
+ },
+ "W2009665648": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "ENV-078"
+  ],
+  "n": 97,
+  "truncated": false
+ },
+ "W2010235856": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-075"
+  ],
+  "n": 5140,
+  "truncated": false
+ },
+ "W2014724358": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-026"
+  ],
+  "n": 269,
+  "truncated": false
+ },
+ "W2016465283": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-093"
+  ],
+  "n": 441,
+  "truncated": false
+ },
+ "W2016862978": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "TEXT-045"
+  ],
+  "n": 546,
+  "truncated": false
+ },
+ "W2019618593": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "IR-017"
+  ],
+  "n": 322,
+  "truncated": false
+ },
+ "W2022860832": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-022"
+  ],
+  "n": 369,
+  "truncated": false
+ },
+ "W2023649955": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-030"
+  ],
+  "n": 18,
+  "truncated": false
+ },
+ "W2024035729": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "LEG-074"
+  ],
+  "n": 191,
+  "truncated": false
+ },
+ "W2024564153": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-008"
+  ],
+  "n": 493,
+  "truncated": false
+ },
+ "W2025617563": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-117"
+  ],
+  "n": 423,
+  "truncated": false
+ },
+ "W2026715125": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-002"
+  ],
+  "n": 328,
+  "truncated": false
+ },
+ "W2027947704": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-069"
+  ],
+  "n": 95,
+  "truncated": false
+ },
+ "W2030019874": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-038"
+  ],
+  "n": 223,
+  "truncated": false
+ },
+ "W2030053994": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-048"
+  ],
+  "n": 91,
+  "truncated": false
+ },
+ "W2031959378": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-020"
+  ],
+  "n": 32,
+  "truncated": false
+ },
+ "W2032348705": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-017"
+  ],
+  "n": 84,
+  "truncated": false
+ },
+ "W2032411766": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "PE-077"
+  ],
+  "n": 221,
+  "truncated": false
+ },
+ "W2033209654": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-114"
+  ],
+  "n": 164,
+  "truncated": false
+ },
+ "W2035221586": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "IR-078"
+  ],
+  "n": 61,
+  "truncated": false
+ },
+ "W2036085599": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-079"
+  ],
+  "n": 165,
+  "truncated": false
+ },
+ "W2037072769": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-062"
+  ],
+  "n": 264,
+  "truncated": false
+ },
+ "W2041508688": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-003"
+  ],
+  "n": 401,
+  "truncated": false
+ },
+ "W2041724919": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-080"
+  ],
+  "n": 555,
+  "truncated": false
+ },
+ "W2041924916": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-033"
+  ],
+  "n": 216,
+  "truncated": false
+ },
+ "W2043124776": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-003"
+  ],
+  "n": 970,
+  "truncated": false
+ },
+ "W2043309695": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-009"
+  ],
+  "n": 105,
+  "truncated": false
+ },
+ "W2044426638": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-050"
+  ],
+  "n": 189,
+  "truncated": false
+ },
+ "W2046431625": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-107"
+  ],
+  "n": 26,
+  "truncated": false
+ },
+ "W2046683799": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-011"
+  ],
+  "n": 195,
+  "truncated": false
+ },
+ "W2046739102": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-029"
+  ],
+  "n": 124,
+  "truncated": false
+ },
+ "W2046903821": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-016"
+  ],
+  "n": 291,
+  "truncated": false
+ },
+ "W2047911421": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-027"
+  ],
+  "n": 153,
+  "truncated": false
+ },
+ "W2048136616": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-025"
+  ],
+  "n": 157,
+  "truncated": false
+ },
+ "W2048306071": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-011"
+  ],
+  "n": 269,
+  "truncated": false
+ },
+ "W2048569019": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "HR-079"
+  ],
+  "n": 1097,
+  "truncated": false
+ },
+ "W2049569714": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-016"
+  ],
+  "n": 144,
+  "truncated": false
+ },
+ "W2051365082": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-038"
+  ],
+  "n": 79,
+  "truncated": false
+ },
+ "W2051416251": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-012"
+  ],
+  "n": 737,
+  "truncated": false
+ },
+ "W2052352086": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-022"
+  ],
+  "n": 176,
+  "truncated": false
+ },
+ "W2053284315": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-117"
+  ],
+  "n": 167,
+  "truncated": false
+ },
+ "W2053886665": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-096"
+  ],
+  "n": 439,
+  "truncated": false
+ },
+ "W2054520988": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-026"
+  ],
+  "n": 293,
+  "truncated": false
+ },
+ "W2056395261": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-087"
+  ],
+  "n": 148,
+  "truncated": false
+ },
+ "W2056512576": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "HR-064"
+  ],
+  "n": 254,
+  "truncated": false
+ },
+ "W2057711563": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-042"
+  ],
+  "n": 283,
+  "truncated": false
+ },
+ "W2058887530": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-006"
+  ],
+  "n": 570,
+  "truncated": false
+ },
+ "W2061732429": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-016"
+  ],
+  "n": 132,
+  "truncated": false
+ },
+ "W2062427127": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-057"
+  ],
+  "n": 17,
+  "truncated": false
+ },
+ "W2067923395": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-024"
+  ],
+  "n": 79,
+  "truncated": false
+ },
+ "W2069744833": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-005"
+  ],
+  "n": 337,
+  "truncated": false
+ },
+ "W2069910571": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "IR-004"
+  ],
+  "n": 450,
+  "truncated": false
+ },
+ "W2070041406": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "PARTY-044"
+  ],
+  "n": 121,
+  "truncated": false
+ },
+ "W2070042550": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-045"
+  ],
+  "n": 130,
+  "truncated": false
+ },
+ "W2071094910": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-035"
+  ],
+  "n": 314,
+  "truncated": false
+ },
+ "W2072447383": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-094"
+  ],
+  "n": 1720,
+  "truncated": false
+ },
+ "W2072514260": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-039"
+  ],
+  "n": 643,
+  "truncated": false
+ },
+ "W2073099922": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-001"
+  ],
+  "n": 971,
+  "truncated": false
+ },
+ "W2073493950": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-016"
+  ],
+  "n": 2472,
+  "truncated": false
+ },
+ "W2074202277": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-147"
+  ],
+  "n": 309,
+  "truncated": false
+ },
+ "W2074589553": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-008"
+  ],
+  "n": 1597,
+  "truncated": false
+ },
+ "W2075708635": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-018"
+  ],
+  "n": 441,
+  "truncated": false
+ },
+ "W2076045920": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-025"
+  ],
+  "n": 202,
+  "truncated": false
+ },
+ "W2076197481": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-067"
+  ],
+  "n": 612,
+  "truncated": false
+ },
+ "W2076313235": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-031"
+  ],
+  "n": 669,
+  "truncated": false
+ },
+ "W2077968790": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-079"
+  ],
+  "n": 9816,
+  "truncated": false
+ },
+ "W2080133951": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-043"
+  ],
+  "n": 3658,
+  "truncated": false
+ },
+ "W2081610610": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-062"
+  ],
+  "n": 127,
+  "truncated": false
+ },
+ "W2084395278": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-032"
+  ],
+  "n": 363,
+  "truncated": false
+ },
+ "W2086545029": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-032"
+  ],
+  "n": 67,
+  "truncated": false
+ },
+ "W2086658156": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-150"
+  ],
+  "n": 282,
+  "truncated": false
+ },
+ "W2090395802": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-020"
+  ],
+  "n": 121,
+  "truncated": false
+ },
+ "W2094042936": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-030"
+  ],
+  "n": 1163,
+  "truncated": false
+ },
+ "W2094186174": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-058"
+  ],
+  "n": 680,
+  "truncated": false
+ },
+ "W2095915894": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-008"
+  ],
+  "n": 48,
+  "truncated": false
+ },
+ "W2098665033": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-008"
+  ],
+  "n": 368,
+  "truncated": false
+ },
+ "W2099257718": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-031"
+  ],
+  "n": 215,
+  "truncated": false
+ },
+ "W2100247013": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-005"
+  ],
+  "n": 304,
+  "truncated": false
+ },
+ "W2100952793": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-087"
+  ],
+  "n": 525,
+  "truncated": false
+ },
+ "W2101149343": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-039"
+  ],
+  "n": 59,
+  "truncated": false
+ },
+ "W2101177046": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-019"
+  ],
+  "n": 259,
+  "truncated": false
+ },
+ "W2101715652": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-003"
+  ],
+  "n": 132,
+  "truncated": false
+ },
+ "W2102724637": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-032"
+  ],
+  "n": 145,
+  "truncated": false
+ },
+ "W2103336588": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-058"
+  ],
+  "n": 83,
+  "truncated": false
+ },
+ "W2104157069": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-096"
+  ],
+  "n": 272,
+  "truncated": false
+ },
+ "W2104231901": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-080"
+  ],
+  "n": 40,
+  "truncated": false
+ },
+ "W2106483804": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "CONF-003",
+   "CONF-009"
+  ],
+  "n": 1280,
+  "truncated": false
+ },
+ "W2106628377": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-030"
+  ],
+  "n": 111,
+  "truncated": false
+ },
+ "W2106698616": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-057"
+  ],
+  "n": 1138,
+  "truncated": false
+ },
+ "W2106699255": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-003"
+  ],
+  "n": 59,
+  "truncated": false
+ },
+ "W2106721232": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-026",
+   "INFRA-067",
+   "INFRA-091"
+  ],
+  "n": 283,
+  "truncated": false
+ },
+ "W2107890772": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-018"
+  ],
+  "n": 16,
+  "truncated": false
+ },
+ "W2107986666": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-002"
+  ],
+  "n": 1669,
+  "truncated": false
+ },
+ "W2108167139": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-002"
+  ],
+  "n": 50,
+  "truncated": false
+ },
+ "W2109485356": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-047"
+  ],
+  "n": 59,
+  "truncated": false
+ },
+ "W2110183167": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-109"
+  ],
+  "n": 131,
+  "truncated": false
+ },
+ "W2110537446": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-059"
+  ],
+  "n": 2775,
+  "truncated": false
+ },
+ "W2111015552": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-042"
+  ],
+  "n": 8,
+  "truncated": false
+ },
+ "W2111644679": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-052"
+  ],
+  "n": 50,
+  "truncated": false
+ },
+ "W2112044344": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-015"
+  ],
+  "n": 1555,
+  "truncated": false
+ },
+ "W2112485965": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-040"
+  ],
+  "n": 244,
+  "truncated": false
+ },
+ "W2113371706": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-042"
+  ],
+  "n": 44,
+  "truncated": false
+ },
+ "W2113751812": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-057"
+  ],
+  "n": 78,
+  "truncated": false
+ },
+ "W2114260857": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-142"
+  ],
+  "n": 1134,
+  "truncated": false
+ },
+ "W2114442842": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-044"
+  ],
+  "n": 157,
+  "truncated": false
+ },
+ "W2114497661": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-132"
+  ],
+  "n": 46,
+  "truncated": false
+ },
+ "W2114671875": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "AREA-059"
+  ],
+  "n": 115,
+  "truncated": false
+ },
+ "W2114778130": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-021"
+  ],
+  "n": 89,
+  "truncated": false
+ },
+ "W2115788769": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "CONF-091"
+  ],
+  "n": 217,
+  "truncated": false
+ },
+ "W2116110915": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-032"
+  ],
+  "n": 6,
+  "truncated": false
+ },
+ "W2117449446": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-050"
+  ],
+  "n": 357,
+  "truncated": false
+ },
+ "W2118050340": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-006"
+  ],
+  "n": 117,
+  "truncated": false
+ },
+ "W2118052350": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "HIST-027"
+  ],
+  "n": 71,
+  "truncated": false
+ },
+ "W2118347087": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-045"
+  ],
+  "n": 773,
+  "truncated": false
+ },
+ "W2119432837": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-042"
+  ],
+  "n": 4826,
+  "truncated": false
+ },
+ "W2119550795": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-055"
+  ],
+  "n": 435,
+  "truncated": false
+ },
+ "W2121796584": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-045"
+  ],
+  "n": 191,
+  "truncated": false
+ },
+ "W2123006785": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-046"
+  ],
+  "n": 391,
+  "truncated": false
+ },
+ "W2123252635": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-047"
+  ],
+  "n": 403,
+  "truncated": false
+ },
+ "W2123644332": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-115"
+  ],
+  "n": 344,
+  "truncated": false
+ },
+ "W2124080792": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-057"
+  ],
+  "n": 239,
+  "truncated": false
+ },
+ "W2125328317": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-094"
+  ],
+  "n": 478,
+  "truncated": false
+ },
+ "W2125688819": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-018"
+  ],
+  "n": 214,
+  "truncated": false
+ },
+ "W2125711184": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-030"
+  ],
+  "n": 856,
+  "truncated": false
+ },
+ "W2127212138": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-037"
+  ],
+  "n": 721,
+  "truncated": false
+ },
+ "W2127255010": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-088"
+  ],
+  "n": 68,
+  "truncated": false
+ },
+ "W2127770117": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-070"
+  ],
+  "n": 510,
+  "truncated": false
+ },
+ "W2127999605": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-056"
+  ],
+  "n": 5909,
+  "truncated": false
+ },
+ "W2128014874": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-134"
+  ],
+  "n": 108,
+  "truncated": false
+ },
+ "W2129260435": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-014"
+  ],
+  "n": 1074,
+  "truncated": false
+ },
+ "W2129366450": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-076"
+  ],
+  "n": 329,
+  "truncated": false
+ },
+ "W2130844815": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-126"
+  ],
+  "n": 182,
+  "truncated": false
+ },
+ "W2131377494": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-069"
+  ],
+  "n": 375,
+  "truncated": false
+ },
+ "W2131529155": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-079"
+  ],
+  "n": 104,
+  "truncated": false
+ },
+ "W2131601547": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-066"
+  ],
+  "n": 221,
+  "truncated": false
+ },
+ "W2132102799": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-015"
+  ],
+  "n": 6,
+  "truncated": false
+ },
+ "W2132222729": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-030"
+  ],
+  "n": 460,
+  "truncated": false
+ },
+ "W2133738535": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-025"
+  ],
+  "n": 115,
+  "truncated": false
+ },
+ "W2133941798": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-149"
+  ],
+  "n": 222,
+  "truncated": false
+ },
+ "W2134186981": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-048"
+  ],
+  "n": 389,
+  "truncated": false
+ },
+ "W2134280847": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-059"
+  ],
+  "n": 168,
+  "truncated": false
+ },
+ "W2134309822": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "IR-032"
+  ],
+  "n": 85,
+  "truncated": false
+ },
+ "W2136072582": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-020"
+  ],
+  "n": 4453,
+  "truncated": false
+ },
+ "W2136239019": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-039"
+  ],
+  "n": 394,
+  "truncated": false
+ },
+ "W2138522037": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-079"
+  ],
+  "n": 677,
+  "truncated": false
+ },
+ "W2138935037": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-009"
+  ],
+  "n": 122,
+  "truncated": false
+ },
+ "W2139632420": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-108"
+  ],
+  "n": 80,
+  "truncated": false
+ },
+ "W2141407461": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "INFRA-103"
+  ],
+  "n": 226,
+  "truncated": false
+ },
+ "W2142063774": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-007"
+  ],
+  "n": 183,
+  "truncated": false
+ },
+ "W2142438898": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-015"
+  ],
+  "n": 464,
+  "truncated": false
+ },
+ "W2142896684": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-014"
+  ],
+  "n": 138,
+  "truncated": false
+ },
+ "W2143449742": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-015"
+  ],
+  "n": 335,
+  "truncated": false
+ },
+ "W2143801717": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-010"
+  ],
+  "n": 684,
+  "truncated": false
+ },
+ "W2144913057": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-115"
+  ],
+  "n": 83,
+  "truncated": false
+ },
+ "W2144960654": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-005"
+  ],
+  "n": 709,
+  "truncated": false
+ },
+ "W2145238740": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "LEG-028"
+  ],
+  "n": 644,
+  "truncated": false
+ },
+ "W2145869153": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "ELEC-005"
+  ],
+  "n": 762,
+  "truncated": false
+ },
+ "W2146117451": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "OPIN-116"
+  ],
+  "n": 129,
+  "truncated": false
+ },
+ "W2146240021": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-007"
+  ],
+  "n": 1301,
+  "truncated": false
+ },
+ "W2146525316": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-010"
+  ],
+  "n": 186,
+  "truncated": false
+ },
+ "W2146585403": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "GEO-032"
+  ],
+  "n": 1211,
+  "truncated": false
+ },
+ "W2146660684": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-126"
+  ],
+  "n": 577,
+  "truncated": false
+ },
+ "W2147154374": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-036"
+  ],
+  "n": 288,
+  "truncated": false
+ },
+ "W2147424448": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-010"
+  ],
+  "n": 98,
+  "truncated": false
+ },
+ "W2147488199": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-076"
+  ],
+  "n": 757,
+  "truncated": false
+ },
+ "W2147533464": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-118"
+  ],
+  "n": 416,
+  "truncated": false
+ },
+ "W2147566884": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-025"
+  ],
+  "n": 286,
+  "truncated": false
+ },
+ "W2148342897": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-048"
+  ],
+  "n": 503,
+  "truncated": false
+ },
+ "W2148948369": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-006"
+  ],
+  "n": 864,
+  "truncated": false
+ },
+ "W2149635640": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-021"
+  ],
+  "n": 63,
+  "truncated": false
+ },
+ "W2150859245": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-101"
+  ],
+  "n": 23,
+  "truncated": false
+ },
+ "W2151098467": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-151"
+  ],
+  "n": 136,
+  "truncated": false
+ },
+ "W2151182173": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-096"
+  ],
+  "n": 762,
+  "truncated": false
+ },
+ "W2151780178": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-028"
+  ],
+  "n": 7408,
+  "truncated": false
+ },
+ "W2151808187": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "CONF-029"
+  ],
+  "n": 811,
+  "truncated": false
+ },
+ "W2153140039": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-036"
+  ],
+  "n": 1133,
+  "truncated": false
+ },
+ "W2153383412": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-054"
+  ],
+  "n": 564,
+  "truncated": false
+ },
+ "W2154979475": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "IR-026"
+  ],
+  "n": 339,
+  "truncated": false
+ },
+ "W2156505694": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-023"
+  ],
+  "n": 131,
+  "truncated": false
+ },
+ "W2157789578": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-095"
+  ],
+  "n": 186,
+  "truncated": false
+ },
+ "W2158479441": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-012"
+  ],
+  "n": 298,
+  "truncated": false
+ },
+ "W2159137790": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-091"
+  ],
+  "n": 259,
+  "truncated": false
+ },
+ "W2160009468": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-084"
+  ],
+  "n": 839,
+  "truncated": false
+ },
+ "W2160182682": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-041"
+  ],
+  "n": 73,
+  "truncated": false
+ },
+ "W2160888843": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-057"
+  ],
+  "n": 190,
+  "truncated": false
+ },
+ "W2161041152": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-003"
+  ],
+  "n": 5066,
+  "truncated": false
+ },
+ "W2161683262": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-064"
+  ],
+  "n": 29,
+  "truncated": false
+ },
+ "W2162471597": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-045"
+  ],
+  "n": 48,
+  "truncated": false
+ },
+ "W2164366152": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-025"
+  ],
+  "n": 136,
+  "truncated": false
+ },
+ "W2164582966": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-129"
+  ],
+  "n": 282,
+  "truncated": false
+ },
+ "W2165199895": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-031"
+  ],
+  "n": 526,
+  "truncated": false
+ },
+ "W2165757691": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "IR-001"
+  ],
+  "n": 1013,
+  "truncated": false
+ },
+ "W2166113127": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-099"
+  ],
+  "n": 181,
+  "truncated": false
+ },
+ "W2167452666": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-009"
+  ],
+  "n": 80,
+  "truncated": false
+ },
+ "W2167872858": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "CONF-098"
+  ],
+  "n": 882,
+  "truncated": false
+ },
+ "W2168166297": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "ENV-025"
+  ],
+  "n": 335,
+  "truncated": false
+ },
+ "W2172015461": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-138"
+  ],
+  "n": 137,
+  "truncated": false
+ },
+ "W2184922511": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-063"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W2187088482": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-060"
+  ],
+  "n": 8,
+  "truncated": false
+ },
+ "W2196552246": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-062"
+  ],
+  "n": 627,
+  "truncated": false
+ },
+ "W2204957789": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-061"
+  ],
+  "n": 78,
+  "truncated": false
+ },
+ "W22145852": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "POLICY-046"
+  ],
+  "n": 193,
+  "truncated": false
+ },
+ "W2218415617": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-077"
+  ],
+  "n": 165,
+  "truncated": false
+ },
+ "W2222094873": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-042"
+  ],
+  "n": 449,
+  "truncated": false
+ },
+ "W2231019856": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-037"
+  ],
+  "n": 132,
+  "truncated": false
+ },
+ "W2231666394": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-072"
+  ],
+  "n": 102,
+  "truncated": false
+ },
+ "W2238113724": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-049"
+  ],
+  "n": 223,
+  "truncated": false
+ },
+ "W2247233429": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-055"
+  ],
+  "n": 162,
+  "truncated": false
+ },
+ "W2251738400": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-047"
+  ],
+  "n": 296,
+  "truncated": false
+ },
+ "W2254580187": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-092"
+  ],
+  "n": 26,
+  "truncated": false
+ },
+ "W2255102440": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-076"
+  ],
+  "n": 311,
+  "truncated": false
+ },
+ "W2271157874": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-075"
+  ],
+  "n": 211,
+  "truncated": false
+ },
+ "W2274628231": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-076"
+  ],
+  "n": 14,
+  "truncated": false
+ },
+ "W2278061481": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-092"
+  ],
+  "n": 6,
+  "truncated": false
+ },
+ "W2283422873": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-065"
+  ],
+  "n": 85,
+  "truncated": false
+ },
+ "W2292302730": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "PARTY-051"
+  ],
+  "n": 64,
+  "truncated": false
+ },
+ "W2292693504": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-155"
+  ],
+  "n": 382,
+  "truncated": false
+ },
+ "W2294235653": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-047"
+  ],
+  "n": 47,
+  "truncated": false
+ },
+ "W2296288041": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-064"
+  ],
+  "n": 115,
+  "truncated": false
+ },
+ "W2297898630": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "IR-106"
+  ],
+  "n": 105,
+  "truncated": false
+ },
+ "W2301863509": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "OPIN-037"
+  ],
+  "n": 28,
+  "truncated": false
+ },
+ "W2305889046": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-141"
+  ],
+  "n": 64,
+  "truncated": false
+ },
+ "W2312317425": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "AREA-001"
+  ],
+  "n": 176,
+  "truncated": false
+ },
+ "W2312694270": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-021"
+  ],
+  "n": 60,
+  "truncated": false
+ },
+ "W2317505831": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-013"
+  ],
+  "n": 74,
+  "truncated": false
+ },
+ "W2319484893": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-006"
+  ],
+  "n": 70,
+  "truncated": false
+ },
+ "W2321963431": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-086"
+  ],
+  "n": 168,
+  "truncated": false
+ },
+ "W2322306777": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-022"
+  ],
+  "n": 454,
+  "truncated": false
+ },
+ "W2322961357": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-064"
+  ],
+  "n": 262,
+  "truncated": false
+ },
+ "W2324475815": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-170"
+  ],
+  "n": 78,
+  "truncated": false
+ },
+ "W2325677953": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-109"
+  ],
+  "n": 507,
+  "truncated": false
+ },
+ "W2329969077": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-092"
+  ],
+  "n": 27,
+  "truncated": false
+ },
+ "W2330659357": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "AREA-011"
+  ],
+  "n": 701,
+  "truncated": false
+ },
+ "W2332372269": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "AREA-016",
+   "AREA-017"
+  ],
+  "n": 46,
+  "truncated": false
+ },
+ "W2332576617": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-074"
+  ],
+  "n": 125,
+  "truncated": false
+ },
+ "W2334675978": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-145"
+  ],
+  "n": 1568,
+  "truncated": false
+ },
+ "W2339765891": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "IDENT-057"
+  ],
+  "n": 53,
+  "truncated": false
+ },
+ "W2339906293": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-023"
+  ],
+  "n": 351,
+  "truncated": false
+ },
+ "W2340250325": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-067"
+  ],
+  "n": 69,
+  "truncated": false
+ },
+ "W2340465904": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-082"
+  ],
+  "n": 118,
+  "truncated": false
+ },
+ "W2342283848": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-140"
+  ],
+  "n": 185,
+  "truncated": false
+ },
+ "W2342775100": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-071"
+  ],
+  "n": 82,
+  "truncated": false
+ },
+ "W2345139956": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-028"
+  ],
+  "n": 555,
+  "truncated": false
+ },
+ "W2403890490": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "PE-092"
+  ],
+  "n": 431,
+  "truncated": false
+ },
+ "W2404270056": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-021"
+  ],
+  "n": 57,
+  "truncated": false
+ },
+ "W2411841442": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-044"
+  ],
+  "n": 336,
+  "truncated": false
+ },
+ "W2413486517": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-083"
+  ],
+  "n": 158,
+  "truncated": false
+ },
+ "W2416708489": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-074"
+  ],
+  "n": 128,
+  "truncated": false
+ },
+ "W2463564434": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "AREA-046"
+  ],
+  "n": 33,
+  "truncated": false
+ },
+ "W2464925067": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-074"
+  ],
+  "n": 56,
+  "truncated": false
+ },
+ "W2465901964": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-072",
+   "IDENT-073"
+  ],
+  "n": 16,
+  "truncated": false
+ },
+ "W2477354808": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-084"
+  ],
+  "n": 356,
+  "truncated": false
+ },
+ "W2481503594": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-046"
+  ],
+  "n": 5,
+  "truncated": false
+ },
+ "W2484934209": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "CONF-025",
+   "CONF-026",
+   "IR-007"
+  ],
+  "n": 588,
+  "truncated": false
+ },
+ "W2491834868": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-063"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W2493660221": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "PARTY-010"
+  ],
+  "n": 265,
+  "truncated": false
+ },
+ "W2495549826": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-026"
+  ],
+  "n": 52,
+  "truncated": false
+ },
+ "W2509352935": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-080"
+  ],
+  "n": 70,
+  "truncated": false
+ },
+ "W25121393": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-033"
+  ],
+  "n": 96,
+  "truncated": false
+ },
+ "W2512938266": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-021"
+  ],
+  "n": 342,
+  "truncated": false
+ },
+ "W2515877232": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-048"
+  ],
+  "n": 18,
+  "truncated": false
+ },
+ "W2529610403": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-042"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W2538560285": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-087"
+  ],
+  "n": 323,
+  "truncated": false
+ },
+ "W2553630080": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-060"
+  ],
+  "n": 29,
+  "truncated": false
+ },
+ "W2555088195": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-024"
+  ],
+  "n": 64,
+  "truncated": false
+ },
+ "W2555663759": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-004"
+  ],
+  "n": 19,
+  "truncated": false
+ },
+ "W2559983639": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-027"
+  ],
+  "n": 47,
+  "truncated": false
+ },
+ "W2560200117": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-024"
+  ],
+  "n": 1300,
+  "truncated": false
+ },
+ "W2560426265": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-123"
+  ],
+  "n": 171,
+  "truncated": false
+ },
+ "W2565761133": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-012"
+  ],
+  "n": 61,
+  "truncated": false
+ },
+ "W2567345271": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-010"
+  ],
+  "n": 59,
+  "truncated": false
+ },
+ "W2573485314": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-019"
+  ],
+  "n": 107,
+  "truncated": false
+ },
+ "W2578588058": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-012"
+  ],
+  "n": 64,
+  "truncated": false
+ },
+ "W2579452031": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-076"
+  ],
+  "n": 28,
+  "truncated": false
+ },
+ "W2580065382": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-112"
+  ],
+  "n": 185,
+  "truncated": false
+ },
+ "W2580095392": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-020"
+  ],
+  "n": 398,
+  "truncated": false
+ },
+ "W2581366306": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-024"
+  ],
+  "n": 394,
+  "truncated": false
+ },
+ "W2582236243": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-144"
+  ],
+  "n": 134,
+  "truncated": false
+ },
+ "W2586827609": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-064"
+  ],
+  "n": 24,
+  "truncated": false
+ },
+ "W2589977288": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-056"
+  ],
+  "n": 12,
+  "truncated": false
+ },
+ "W2592290488": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-006"
+  ],
+  "n": 429,
+  "truncated": false
+ },
+ "W2593238595": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-063"
+  ],
+  "n": 43,
+  "truncated": false
+ },
+ "W2593953945": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-047"
+  ],
+  "n": 74,
+  "truncated": false
+ },
+ "W2600937354": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-136"
+  ],
+  "n": 35,
+  "truncated": false
+ },
+ "W2602188743": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-089"
+  ],
+  "n": 96,
+  "truncated": false
+ },
+ "W2604448873": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-070"
+  ],
+  "n": 760,
+  "truncated": false
+ },
+ "W2604625169": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-014"
+  ],
+  "n": 70,
+  "truncated": false
+ },
+ "W2607546933": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-007"
+  ],
+  "n": 7,
+  "truncated": false
+ },
+ "W2610629138": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-064"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W2611921107": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-093"
+  ],
+  "n": 2002,
+  "truncated": false
+ },
+ "W2614166271": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-030"
+  ],
+  "n": 19,
+  "truncated": false
+ },
+ "W2625146263": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-073"
+  ],
+  "n": 58,
+  "truncated": false
+ },
+ "W2626098552": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-096"
+  ],
+  "n": 56,
+  "truncated": false
+ },
+ "W2633471412": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "TEXT-003"
+  ],
+  "n": 198,
+  "truncated": false
+ },
+ "W2705765409": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-100"
+  ],
+  "n": 589,
+  "truncated": false
+ },
+ "W2725438742": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "AREA-045"
+  ],
+  "n": 414,
+  "truncated": false
+ },
+ "W2726817028": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-011"
+  ],
+  "n": 38,
+  "truncated": false
+ },
+ "W2733120118": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-074"
+  ],
+  "n": 12,
+  "truncated": false
+ },
+ "W2734867172": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "PE-054"
+  ],
+  "n": 646,
+  "truncated": false
+ },
+ "W2740447918": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-102"
+  ],
+  "n": 68,
+  "truncated": false
+ },
+ "W2743001907": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-146"
+  ],
+  "n": 37,
+  "truncated": false
+ },
+ "W2744249012": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-051"
+  ],
+  "n": 20,
+  "truncated": false
+ },
+ "W2744914490": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-072"
+  ],
+  "n": 17,
+  "truncated": false
+ },
+ "W2749447601": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "ENV-043"
+  ],
+  "n": 892,
+  "truncated": false
+ },
+ "W2749727837": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-046"
+  ],
+  "n": 5,
+  "truncated": false
+ },
+ "W2749732610": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-145"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W2758515404": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-107"
+  ],
+  "n": 72,
+  "truncated": false
+ },
+ "W2763859728": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-017"
+  ],
+  "n": 31,
+  "truncated": false
+ },
+ "W2764299244": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-044"
+  ],
+  "n": 69,
+  "truncated": false
+ },
+ "W2766065830": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-056"
+  ],
+  "n": 197,
+  "truncated": false
+ },
+ "W2766121447": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-059"
+  ],
+  "n": 95,
+  "truncated": false
+ },
+ "W2767017002": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-135"
+  ],
+  "n": 93,
+  "truncated": false
+ },
+ "W2767194654": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-010"
+  ],
+  "n": 131,
+  "truncated": false
+ },
+ "W2768583990": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "ENV-046"
+  ],
+  "n": 362,
+  "truncated": false
+ },
+ "W2768706048": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-119"
+  ],
+  "n": 348,
+  "truncated": false
+ },
+ "W2770206078": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-051"
+  ],
+  "n": 1468,
+  "truncated": false
+ },
+ "W2770445610": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-113"
+  ],
+  "n": 31,
+  "truncated": false
+ },
+ "W2772802389": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-092"
+  ],
+  "n": 626,
+  "truncated": false
+ },
+ "W2777200935": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "EXEC-029",
+   "GEO-001"
+  ],
+  "n": 95,
+  "truncated": false
+ },
+ "W2779182147": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-010"
+  ],
+  "n": 157,
+  "truncated": false
+ },
+ "W2782512199": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-127"
+  ],
+  "n": 106,
+  "truncated": false
+ },
+ "W2783065878": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-028"
+  ],
+  "n": 1202,
+  "truncated": false
+ },
+ "W2783598492": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-002"
+  ],
+  "n": 186,
+  "truncated": false
+ },
+ "W2784122359": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-055"
+  ],
+  "n": 72,
+  "truncated": false
+ },
+ "W2785400778": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-113"
+  ],
+  "n": 2233,
+  "truncated": false
+ },
+ "W2789245956": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-027"
+  ],
+  "n": 635,
+  "truncated": false
+ },
+ "W2789330452": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-034"
+  ],
+  "n": 45,
+  "truncated": false
+ },
+ "W2789727500": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-040"
+  ],
+  "n": 85,
+  "truncated": false
+ },
+ "W2790174980": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-023"
+  ],
+  "n": 93,
+  "truncated": false
+ },
+ "W2790537821": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "GEO-033"
+  ],
+  "n": 744,
+  "truncated": false
+ },
+ "W2790689876": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-034"
+  ],
+  "n": 37,
+  "truncated": false
+ },
+ "W2791520968": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-106"
+  ],
+  "n": 43,
+  "truncated": false
+ },
+ "W2792336927": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-003"
+  ],
+  "n": 641,
+  "truncated": false
+ },
+ "W2792726824": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-019"
+  ],
+  "n": 68,
+  "truncated": false
+ },
+ "W2793509760": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-097"
+  ],
+  "n": 27,
+  "truncated": false
+ },
+ "W2793829154": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-084"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W2794067958": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-083"
+  ],
+  "n": 69,
+  "truncated": false
+ },
+ "W2794205519": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-037"
+  ],
+  "n": 16,
+  "truncated": false
+ },
+ "W2795078647": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-072"
+  ],
+  "n": 79,
+  "truncated": false
+ },
+ "W2795414896": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-019"
+  ],
+  "n": 38,
+  "truncated": false
+ },
+ "W2795621450": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-014"
+  ],
+  "n": 946,
+  "truncated": false
+ },
+ "W2797378669": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-002"
+  ],
+  "n": 80,
+  "truncated": false
+ },
+ "W2800568024": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-065"
+  ],
+  "n": 63,
+  "truncated": false
+ },
+ "W2800618189": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-012"
+  ],
+  "n": 19,
+  "truncated": false
+ },
+ "W2802190050": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-134"
+  ],
+  "n": 1279,
+  "truncated": false
+ },
+ "W2804839475": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-012"
+  ],
+  "n": 277,
+  "truncated": false
+ },
+ "W2805997964": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-142"
+  ],
+  "n": 143,
+  "truncated": false
+ },
+ "W2806295175": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-029"
+  ],
+  "n": 20,
+  "truncated": false
+ },
+ "W2806722499": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-021"
+  ],
+  "n": 101,
+  "truncated": false
+ },
+ "W2807426284": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-065"
+  ],
+  "n": 29,
+  "truncated": false
+ },
+ "W2809922482": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-141"
+  ],
+  "n": 745,
+  "truncated": false
+ },
+ "W2848303245": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-044"
+  ],
+  "n": 108,
+  "truncated": false
+ },
+ "W2854707596": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-012"
+  ],
+  "n": 38,
+  "truncated": false
+ },
+ "W2884915264": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "AREA-026"
+  ],
+  "n": 8,
+  "truncated": false
+ },
+ "W2885172039": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-145"
+  ],
+  "n": 57,
+  "truncated": false
+ },
+ "W2885785138": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-058"
+  ],
+  "n": 1029,
+  "truncated": false
+ },
+ "W2887314500": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-146"
+  ],
+  "n": 36,
+  "truncated": false
+ },
+ "W2887823499": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-022"
+  ],
+  "n": 184,
+  "truncated": false
+ },
+ "W2888812681": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-113"
+  ],
+  "n": 41,
+  "truncated": false
+ },
+ "W2889827801": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-029"
+  ],
+  "n": 1198,
+  "truncated": false
+ },
+ "W2890364977": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-044"
+  ],
+  "n": 38,
+  "truncated": false
+ },
+ "W2890473629": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-109"
+  ],
+  "n": 240,
+  "truncated": false
+ },
+ "W2891068822": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "PE-097"
+  ],
+  "n": 203,
+  "truncated": false
+ },
+ "W2891621836": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-009"
+  ],
+  "n": 86,
+  "truncated": false
+ },
+ "W2891649320": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-006"
+  ],
+  "n": 1612,
+  "truncated": false
+ },
+ "W2895553377": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-027"
+  ],
+  "n": 1462,
+  "truncated": false
+ },
+ "W2896936987": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "GEO-076"
+  ],
+  "n": 556,
+  "truncated": false
+ },
+ "W2898167544": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-056"
+  ],
+  "n": 150,
+  "truncated": false
+ },
+ "W2899042780": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-042"
+  ],
+  "n": 13,
+  "truncated": false
+ },
+ "W2899104089": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-031"
+  ],
+  "n": 108,
+  "truncated": false
+ },
+ "W2899931074": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-085"
+  ],
+  "n": 130,
+  "truncated": false
+ },
+ "W2900158626": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-019"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W2900510850": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-017"
+  ],
+  "n": 123,
+  "truncated": false
+ },
+ "W2903014010": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-007"
+  ],
+  "n": 36,
+  "truncated": false
+ },
+ "W2903680044": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-099"
+  ],
+  "n": 126,
+  "truncated": false
+ },
+ "W2904105121": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-063"
+  ],
+  "n": 45,
+  "truncated": false
+ },
+ "W2904760755": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-051"
+  ],
+  "n": 18,
+  "truncated": false
+ },
+ "W2904906576": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-084"
+  ],
+  "n": 199,
+  "truncated": false
+ },
+ "W2906103707": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-028"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W2907798246": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-085"
+  ],
+  "n": 825,
+  "truncated": false
+ },
+ "W2910924033": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-009"
+  ],
+  "n": 122,
+  "truncated": false
+ },
+ "W2912111837": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-083"
+  ],
+  "n": 170,
+  "truncated": false
+ },
+ "W2912757786": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-066"
+  ],
+  "n": 29,
+  "truncated": false
+ },
+ "W2913151716": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-050"
+  ],
+  "n": 69,
+  "truncated": false
+ },
+ "W2913178823": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-050"
+  ],
+  "n": 6,
+  "truncated": false
+ },
+ "W2913323380": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-066"
+  ],
+  "n": 13,
+  "truncated": false
+ },
+ "W2913577918": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-017"
+  ],
+  "n": 312,
+  "truncated": false
+ },
+ "W2914509225": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-043"
+  ],
+  "n": 189,
+  "truncated": false
+ },
+ "W2918568314": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-119"
+  ],
+  "n": 122,
+  "truncated": false
+ },
+ "W2922116617": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-102"
+  ],
+  "n": 14,
+  "truncated": false
+ },
+ "W2922243726": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-022"
+  ],
+  "n": 92,
+  "truncated": false
+ },
+ "W2922289719": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-049"
+  ],
+  "n": 300,
+  "truncated": false
+ },
+ "W2923620162": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-002"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W2923639306": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-105"
+  ],
+  "n": 128,
+  "truncated": false
+ },
+ "W2927206541": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-068"
+  ],
+  "n": 213,
+  "truncated": false
+ },
+ "W2927606987": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-020"
+  ],
+  "n": 1722,
+  "truncated": false
+ },
+ "W2931571983": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-030"
+  ],
+  "n": 52,
+  "truncated": false
+ },
+ "W2935828409": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-043"
+  ],
+  "n": 31,
+  "truncated": false
+ },
+ "W2937360527": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-001"
+  ],
+  "n": 215,
+  "truncated": false
+ },
+ "W2937707008": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-035"
+  ],
+  "n": 549,
+  "truncated": false
+ },
+ "W2938136194": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-063"
+  ],
+  "n": 129,
+  "truncated": false
+ },
+ "W2939120435": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-081"
+  ],
+  "n": 373,
+  "truncated": false
+ },
+ "W2939312098": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-033"
+  ],
+  "n": 14,
+  "truncated": false
+ },
+ "W2941809560": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-085"
+  ],
+  "n": 230,
+  "truncated": false
+ },
+ "W2945069529": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-056"
+  ],
+  "n": 75,
+  "truncated": false
+ },
+ "W2945189410": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-010"
+  ],
+  "n": 112,
+  "truncated": false
+ },
+ "W2945215373": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-100"
+  ],
+  "n": 35,
+  "truncated": false
+ },
+ "W2945441234": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-029"
+  ],
+  "n": 234,
+  "truncated": false
+ },
+ "W2946606506": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-016"
+  ],
+  "n": 27,
+  "truncated": false
+ },
+ "W2946729534": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-100"
+  ],
+  "n": 92,
+  "truncated": false
+ },
+ "W2947689341": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-039"
+  ],
+  "n": 39,
+  "truncated": false
+ },
+ "W2948144566": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-052"
+  ],
+  "n": 23,
+  "truncated": false
+ },
+ "W2948381227": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "CONF-044"
+  ],
+  "n": 56,
+  "truncated": false
+ },
+ "W2948468622": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-008"
+  ],
+  "n": 1161,
+  "truncated": false
+ },
+ "W2948799449": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-118"
+  ],
+  "n": 451,
+  "truncated": false
+ },
+ "W2949257365": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-076"
+  ],
+  "n": 88,
+  "truncated": false
+ },
+ "W2951293227": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "IDENT-071"
+  ],
+  "n": 146,
+  "truncated": false
+ },
+ "W2951762241": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-001"
+  ],
+  "n": 133,
+  "truncated": false
+ },
+ "W2953631363": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-083"
+  ],
+  "n": 286,
+  "truncated": false
+ },
+ "W2953668706": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-002"
+  ],
+  "n": 16,
+  "truncated": false
+ },
+ "W2953975348": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-096"
+  ],
+  "n": 14,
+  "truncated": false
+ },
+ "W2954270497": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-030"
+  ],
+  "n": 55,
+  "truncated": false
+ },
+ "W2954595229": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "EXEC-041"
+  ],
+  "n": 63,
+  "truncated": false
+ },
+ "W2955991011": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-014"
+  ],
+  "n": 110,
+  "truncated": false
+ },
+ "W2956082152": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-044"
+  ],
+  "n": 51,
+  "truncated": false
+ },
+ "W2957176787": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-046"
+  ],
+  "n": 9,
+  "truncated": false
+ },
+ "W2959925638": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-088"
+  ],
+  "n": 22,
+  "truncated": false
+ },
+ "W2963116212": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-039"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W2963778491": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-060"
+  ],
+  "n": 15,
+  "truncated": false
+ },
+ "W2968701402": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-067"
+  ],
+  "n": 7,
+  "truncated": false
+ },
+ "W2968795457": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-086"
+  ],
+  "n": 31,
+  "truncated": false
+ },
+ "W296931085": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-025"
+  ],
+  "n": 2611,
+  "truncated": false
+ },
+ "W2970168192": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-093"
+  ],
+  "n": 9,
+  "truncated": false
+ },
+ "W2970921632": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-139"
+  ],
+  "n": 52,
+  "truncated": false
+ },
+ "W2972476693": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-059"
+  ],
+  "n": 28,
+  "truncated": false
+ },
+ "W2972998089": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-095"
+  ],
+  "n": 72,
+  "truncated": false
+ },
+ "W2973551893": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-057"
+  ],
+  "n": 160,
+  "truncated": false
+ },
+ "W2973565564": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-149"
+  ],
+  "n": 14,
+  "truncated": false
+ },
+ "W2981352976": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-061"
+  ],
+  "n": 91,
+  "truncated": false
+ },
+ "W2984501502": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-047"
+  ],
+  "n": 151,
+  "truncated": false
+ },
+ "W2984916588": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-074"
+  ],
+  "n": 72,
+  "truncated": false
+ },
+ "W2986543194": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-069"
+  ],
+  "n": 55,
+  "truncated": false
+ },
+ "W2990263613": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-040"
+  ],
+  "n": 11,
+  "truncated": false
+ },
+ "W2990804161": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-014"
+  ],
+  "n": 13,
+  "truncated": false
+ },
+ "W2994298102": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-009"
+  ],
+  "n": 299,
+  "truncated": false
+ },
+ "W2994728233": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-051"
+  ],
+  "n": 82,
+  "truncated": false
+ },
+ "W2995748759": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-020"
+  ],
+  "n": 18,
+  "truncated": false
+ },
+ "W2995850461": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-012"
+  ],
+  "n": 13,
+  "truncated": false
+ },
+ "W2998764176": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-004"
+  ],
+  "n": 11,
+  "truncated": false
+ },
+ "W2999546865": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-001"
+  ],
+  "n": 144,
+  "truncated": false
+ },
+ "W2999762063": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-011"
+  ],
+  "n": 1115,
+  "truncated": false
+ },
+ "W2999951592": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-102"
+  ],
+  "n": 79,
+  "truncated": false
+ },
+ "W3002330681": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-075"
+  ],
+  "n": 929,
+  "truncated": false
+ },
+ "W3003044879": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-076"
+  ],
+  "n": 78,
+  "truncated": false
+ },
+ "W3005470674": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-048"
+  ],
+  "n": 32,
+  "truncated": false
+ },
+ "W3007577725": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-040"
+  ],
+  "n": 24,
+  "truncated": false
+ },
+ "W3008985185": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-057"
+  ],
+  "n": 24,
+  "truncated": false
+ },
+ "W3009104609": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-061"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W3011106948": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-044"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W3011738341": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-045"
+  ],
+  "n": 38,
+  "truncated": false
+ },
+ "W3011873881": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-032"
+  ],
+  "n": 98,
+  "truncated": false
+ },
+ "W3012030684": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-062"
+  ],
+  "n": 20,
+  "truncated": false
+ },
+ "W3012807263": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-109"
+  ],
+  "n": 46,
+  "truncated": false
+ },
+ "W3015064874": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-048"
+  ],
+  "n": 158,
+  "truncated": false
+ },
+ "W3016585893": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-053"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W3017831080": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-065"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W3018139790": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-004"
+  ],
+  "n": 402,
+  "truncated": false
+ },
+ "W3019693536": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-071"
+  ],
+  "n": 29,
+  "truncated": false
+ },
+ "W3020373968": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-068"
+  ],
+  "n": 455,
+  "truncated": false
+ },
+ "W3022452335": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-076"
+  ],
+  "n": 187,
+  "truncated": false
+ },
+ "W3022516804": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-005"
+  ],
+  "n": 411,
+  "truncated": false
+ },
+ "W3022790766": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-056"
+  ],
+  "n": 2196,
+  "truncated": false
+ },
+ "W3023239493": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-046"
+  ],
+  "n": 52,
+  "truncated": false
+ },
+ "W3023407022": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-049"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W3023677053": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-094"
+  ],
+  "n": 52,
+  "truncated": false
+ },
+ "W3023850526": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-148"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W3024966671": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-122"
+  ],
+  "n": 90,
+  "truncated": false
+ },
+ "W3025133066": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-097"
+  ],
+  "n": 6,
+  "truncated": false
+ },
+ "W3027241007": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-027"
+  ],
+  "n": 166,
+  "truncated": false
+ },
+ "W3031781733": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-094"
+  ],
+  "n": 1570,
+  "truncated": false
+ },
+ "W3033497228": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-040"
+  ],
+  "n": 38,
+  "truncated": false
+ },
+ "W3033973892": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-025"
+  ],
+  "n": 673,
+  "truncated": false
+ },
+ "W3035012258": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-025"
+  ],
+  "n": 29,
+  "truncated": false
+ },
+ "W3035486184": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-102"
+  ],
+  "n": 79,
+  "truncated": false
+ },
+ "W3035868156": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-024"
+  ],
+  "n": 147,
+  "truncated": false
+ },
+ "W3036188798": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-065"
+  ],
+  "n": 462,
+  "truncated": false
+ },
+ "W3038444066": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-080"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W3038637062": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-103"
+  ],
+  "n": 5,
+  "truncated": false
+ },
+ "W3039099765": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-035"
+  ],
+  "n": 13,
+  "truncated": false
+ },
+ "W3039682517": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-077"
+  ],
+  "n": 29,
+  "truncated": false
+ },
+ "W3040000893": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-056"
+  ],
+  "n": 16,
+  "truncated": false
+ },
+ "W3042401844": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-043"
+  ],
+  "n": 227,
+  "truncated": false
+ },
+ "W3042563269": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-028"
+  ],
+  "n": 36,
+  "truncated": false
+ },
+ "W3043583291": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-023"
+  ],
+  "n": 57,
+  "truncated": false
+ },
+ "W3043968754": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-017"
+  ],
+  "n": 17,
+  "truncated": false
+ },
+ "W3043986345": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-004"
+  ],
+  "n": 5,
+  "truncated": false
+ },
+ "W3044303077": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-004"
+  ],
+  "n": 186,
+  "truncated": false
+ },
+ "W3045276821": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-024"
+  ],
+  "n": 26,
+  "truncated": false
+ },
+ "W3045446672": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-016"
+  ],
+  "n": 31,
+  "truncated": false
+ },
+ "W3046509504": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "AREA-050"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W3049361211": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-139"
+  ],
+  "n": 60,
+  "truncated": false
+ },
+ "W3080319602": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-061"
+  ],
+  "n": 2021,
+  "truncated": false
+ },
+ "W3080864197": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-066"
+  ],
+  "n": 95,
+  "truncated": false
+ },
+ "W3081615627": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-071"
+  ],
+  "n": 113,
+  "truncated": false
+ },
+ "W3082010910": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-035"
+  ],
+  "n": 42,
+  "truncated": false
+ },
+ "W3083733533": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-077"
+  ],
+  "n": 153,
+  "truncated": false
+ },
+ "W3086429013": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-004"
+  ],
+  "n": 220,
+  "truncated": false
+ },
+ "W3087460050": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-080"
+  ],
+  "n": 101,
+  "truncated": false
+ },
+ "W3087849658": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-068"
+  ],
+  "n": 19,
+  "truncated": false
+ },
+ "W3088368896": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-004"
+  ],
+  "n": 28,
+  "truncated": false
+ },
+ "W3090346341": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-082"
+  ],
+  "n": 109,
+  "truncated": false
+ },
+ "W3090372178": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-114"
+  ],
+  "n": 19,
+  "truncated": false
+ },
+ "W3092020873": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-068"
+  ],
+  "n": 191,
+  "truncated": false
+ },
+ "W3092071805": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-009"
+  ],
+  "n": 27,
+  "truncated": false
+ },
+ "W3093095646": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-040"
+  ],
+  "n": 13,
+  "truncated": false
+ },
+ "W3093382429": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-038"
+  ],
+  "n": 14,
+  "truncated": false
+ },
+ "W3093938929": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-080"
+  ],
+  "n": 70,
+  "truncated": false
+ },
+ "W3095578618": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-006"
+  ],
+  "n": 20,
+  "truncated": false
+ },
+ "W3096475645": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-093"
+  ],
+  "n": 390,
+  "truncated": false
+ },
+ "W3096585169": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-068"
+  ],
+  "n": 18,
+  "truncated": false
+ },
+ "W3102411176": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-063"
+  ],
+  "n": 646,
+  "truncated": false
+ },
+ "W3111598499": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-018"
+  ],
+  "n": 35,
+  "truncated": false
+ },
+ "W3111679938": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-006"
+  ],
+  "n": 86,
+  "truncated": false
+ },
+ "W3114094217": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-041"
+  ],
+  "n": 69,
+  "truncated": false
+ },
+ "W3118862330": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-034"
+  ],
+  "n": 50,
+  "truncated": false
+ },
+ "W3120195718": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-082"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W3120428730": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-082"
+  ],
+  "n": 81,
+  "truncated": false
+ },
+ "W3121145802": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-006"
+  ],
+  "n": 646,
+  "truncated": false
+ },
+ "W3121235470": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-118"
+  ],
+  "n": 4058,
+  "truncated": false
+ },
+ "W3121431334": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-149"
+  ],
+  "n": 278,
+  "truncated": false
+ },
+ "W3121453994": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-004"
+  ],
+  "n": 792,
+  "truncated": false
+ },
+ "W3121503368": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-008"
+  ],
+  "n": 39,
+  "truncated": false
+ },
+ "W3121532354": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-061"
+  ],
+  "n": 1185,
+  "truncated": false
+ },
+ "W3121738400": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "IDENT-104"
+  ],
+  "n": 47,
+  "truncated": false
+ },
+ "W3121756672": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-083"
+  ],
+  "n": 21,
+  "truncated": false
+ },
+ "W3122194983": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-075"
+  ],
+  "n": 14,
+  "truncated": false
+ },
+ "W3122296963": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-024"
+  ],
+  "n": 44,
+  "truncated": false
+ },
+ "W3122298797": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-010"
+  ],
+  "n": 1356,
+  "truncated": false
+ },
+ "W3122318414": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-070"
+  ],
+  "n": 116,
+  "truncated": false
+ },
+ "W3122407190": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-077"
+  ],
+  "n": 190,
+  "truncated": false
+ },
+ "W3122606839": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-017"
+  ],
+  "n": 62,
+  "truncated": false
+ },
+ "W3122840968": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-019"
+  ],
+  "n": 1658,
+  "truncated": false
+ },
+ "W3122857503": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-095"
+  ],
+  "n": 147,
+  "truncated": false
+ },
+ "W3122880587": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-008"
+  ],
+  "n": 31,
+  "truncated": false
+ },
+ "W3122883522": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-034"
+  ],
+  "n": 25,
+  "truncated": false
+ },
+ "W3122920299": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-039"
+  ],
+  "n": 341,
+  "truncated": false
+ },
+ "W3123023377": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-089"
+  ],
+  "n": 1209,
+  "truncated": false
+ },
+ "W3123084840": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-093"
+  ],
+  "n": 246,
+  "truncated": false
+ },
+ "W3123267936": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-048"
+  ],
+  "n": 1091,
+  "truncated": false
+ },
+ "W3123381758": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-018"
+  ],
+  "n": 513,
+  "truncated": false
+ },
+ "W3123516947": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-019"
+  ],
+  "n": 74,
+  "truncated": false
+ },
+ "W3123538439": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-014"
+  ],
+  "n": 114,
+  "truncated": false
+ },
+ "W3123683947": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-084"
+  ],
+  "n": 2684,
+  "truncated": false
+ },
+ "W3123903052": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-068"
+  ],
+  "n": 146,
+  "truncated": false
+ },
+ "W3123919661": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-044"
+  ],
+  "n": 228,
+  "truncated": false
+ },
+ "W3124083237": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-012"
+  ],
+  "n": 73,
+  "truncated": false
+ },
+ "W3124167356": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-073"
+  ],
+  "n": 208,
+  "truncated": false
+ },
+ "W3124369433": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-086"
+  ],
+  "n": 554,
+  "truncated": false
+ },
+ "W3124373098": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-065"
+  ],
+  "n": 180,
+  "truncated": false
+ },
+ "W3124529175": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-015"
+  ],
+  "n": 105,
+  "truncated": false
+ },
+ "W3124594404": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-025"
+  ],
+  "n": 667,
+  "truncated": false
+ },
+ "W3124766864": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-038"
+  ],
+  "n": 29,
+  "truncated": false
+ },
+ "W3124820828": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-016"
+  ],
+  "n": 216,
+  "truncated": false
+ },
+ "W3125444440": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-150"
+  ],
+  "n": 51,
+  "truncated": false
+ },
+ "W3125496725": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "REG-085"
+  ],
+  "n": 545,
+  "truncated": false
+ },
+ "W3125547825": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-079"
+  ],
+  "n": 47,
+  "truncated": false
+ },
+ "W3125678898": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-092"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W3125975242": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-019"
+  ],
+  "n": 47,
+  "truncated": false
+ },
+ "W3126081245": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-073"
+  ],
+  "n": 12789,
+  "truncated": false
+ },
+ "W3126892912": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-089"
+  ],
+  "n": 12,
+  "truncated": false
+ },
+ "W3127116344": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-031"
+  ],
+  "n": 28,
+  "truncated": false
+ },
+ "W3127530083": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-087"
+  ],
+  "n": 10,
+  "truncated": false
+ },
+ "W3129113905": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-092"
+  ],
+  "n": 107,
+  "truncated": false
+ },
+ "W3129375133": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-019"
+  ],
+  "n": 54,
+  "truncated": false
+ },
+ "W3130938933": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-032"
+  ],
+  "n": 60,
+  "truncated": false
+ },
+ "W3132586804": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-035"
+  ],
+  "n": 53,
+  "truncated": false
+ },
+ "W3133108932": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-096"
+  ],
+  "n": 142,
+  "truncated": false
+ },
+ "W3134507108": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-091"
+  ],
+  "n": 39,
+  "truncated": false
+ },
+ "W3134745309": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-141"
+  ],
+  "n": 22,
+  "truncated": false
+ },
+ "W3134845905": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-106"
+  ],
+  "n": 47,
+  "truncated": false
+ },
+ "W3134872197": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-071"
+  ],
+  "n": 51,
+  "truncated": false
+ },
+ "W3134907677": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "CONF-142"
+  ],
+  "n": 89,
+  "truncated": false
+ },
+ "W3135054660": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-026"
+  ],
+  "n": 698,
+  "truncated": false
+ },
+ "W3135257712": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-064"
+  ],
+  "n": 4669,
+  "truncated": false
+ },
+ "W3135902915": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-146"
+  ],
+  "n": 336,
+  "truncated": false
+ },
+ "W3136163968": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-040"
+  ],
+  "n": 15,
+  "truncated": false
+ },
+ "W3136550791": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-023"
+  ],
+  "n": 35,
+  "truncated": false
+ },
+ "W3139510498": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-048"
+  ],
+  "n": 184,
+  "truncated": false
+ },
+ "W3145955786": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-008"
+  ],
+  "n": 30,
+  "truncated": false
+ },
+ "W3148755498": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-058"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W3152510518": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-028"
+  ],
+  "n": 77,
+  "truncated": false
+ },
+ "W3154284395": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-057"
+  ],
+  "n": 259,
+  "truncated": false
+ },
+ "W3157368120": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-072"
+  ],
+  "n": 8,
+  "truncated": false
+ },
+ "W3158432148": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-053"
+  ],
+  "n": 31,
+  "truncated": false
+ },
+ "W3159132863": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-011"
+  ],
+  "n": 87,
+  "truncated": false
+ },
+ "W3159376000": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-082"
+  ],
+  "n": 558,
+  "truncated": false
+ },
+ "W3161899344": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "IR-127"
+  ],
+  "n": 569,
+  "truncated": false
+ },
+ "W3162267710": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-032"
+  ],
+  "n": 46,
+  "truncated": false
+ },
+ "W3163460216": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-007"
+  ],
+  "n": 13,
+  "truncated": false
+ },
+ "W3163915241": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-025"
+  ],
+  "n": 151,
+  "truncated": false
+ },
+ "W3165183515": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-074"
+  ],
+  "n": 119,
+  "truncated": false
+ },
+ "W3166425394": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-087"
+  ],
+  "n": 192,
+  "truncated": false
+ },
+ "W3167312943": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-062"
+  ],
+  "n": 43,
+  "truncated": false
+ },
+ "W3168115543": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-025"
+  ],
+  "n": 32,
+  "truncated": false
+ },
+ "W3171069874": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-058"
+  ],
+  "n": 75,
+  "truncated": false
+ },
+ "W3171289488": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-106"
+  ],
+  "n": 31,
+  "truncated": false
+ },
+ "W3171979604": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-101"
+  ],
+  "n": 31,
+  "truncated": false
+ },
+ "W3172180044": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-074"
+  ],
+  "n": 258,
+  "truncated": false
+ },
+ "W3173795390": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-082"
+  ],
+  "n": 74,
+  "truncated": false
+ },
+ "W3175061405": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-041"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W3176970141": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-083"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W3181343279": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-086"
+  ],
+  "n": 120,
+  "truncated": false
+ },
+ "W3181842485": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-020"
+  ],
+  "n": 983,
+  "truncated": false
+ },
+ "W3183305994": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-005"
+  ],
+  "n": 121,
+  "truncated": false
+ },
+ "W3183340590": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-026"
+  ],
+  "n": 19,
+  "truncated": false
+ },
+ "W3185457212": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-054"
+  ],
+  "n": 62,
+  "truncated": false
+ },
+ "W3186178071": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-057"
+  ],
+  "n": 18,
+  "truncated": false
+ },
+ "W3186612547": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-050"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W3189368797": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-036"
+  ],
+  "n": 280,
+  "truncated": false
+ },
+ "W3192250139": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-013"
+  ],
+  "n": 26,
+  "truncated": false
+ },
+ "W3193288093": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-045"
+  ],
+  "n": 20,
+  "truncated": false
+ },
+ "W3194323609": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-036"
+  ],
+  "n": 40,
+  "truncated": false
+ },
+ "W3196149370": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "CONF-018"
+  ],
+  "n": 34,
+  "truncated": false
+ },
+ "W3196752907": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-091"
+  ],
+  "n": 97,
+  "truncated": false
+ },
+ "W3197805789": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-092"
+  ],
+  "n": 95,
+  "truncated": false
+ },
+ "W3199320309": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-075"
+  ],
+  "n": 59,
+  "truncated": false
+ },
+ "W3199466069": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-126"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W3200309139": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-036"
+  ],
+  "n": 110,
+  "truncated": false
+ },
+ "W3201434490": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-069"
+  ],
+  "n": 12,
+  "truncated": false
+ },
+ "W3201436847": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-104"
+  ],
+  "n": 65,
+  "truncated": false
+ },
+ "W3202825726": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-031"
+  ],
+  "n": 6,
+  "truncated": false
+ },
+ "W3203131841": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-019"
+  ],
+  "n": 11,
+  "truncated": false
+ },
+ "W3203510569": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-013"
+  ],
+  "n": 15,
+  "truncated": false
+ },
+ "W3204962599": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-055"
+  ],
+  "n": 23,
+  "truncated": false
+ },
+ "W3205457432": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-054"
+  ],
+  "n": 16,
+  "truncated": false
+ },
+ "W3206286367": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-087"
+  ],
+  "n": 45,
+  "truncated": false
+ },
+ "W3208357754": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-061"
+  ],
+  "n": 58,
+  "truncated": false
+ },
+ "W3209525410": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-023"
+  ],
+  "n": 119,
+  "truncated": false
+ },
+ "W3209596768": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-015"
+  ],
+  "n": 47,
+  "truncated": false
+ },
+ "W3209975853": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-057"
+  ],
+  "n": 67,
+  "truncated": false
+ },
+ "W3211789723": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-026"
+  ],
+  "n": 86,
+  "truncated": false
+ },
+ "W3212063454": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-088"
+  ],
+  "n": 17,
+  "truncated": false
+ },
+ "W3213716858": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-008"
+  ],
+  "n": 70,
+  "truncated": false
+ },
+ "W3215612100": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-048"
+  ],
+  "n": 37,
+  "truncated": false
+ },
+ "W3216300295": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-015"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W3217466940": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-072"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W356532735": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "IR-025"
+  ],
+  "n": 157,
+  "truncated": false
+ },
+ "W4200025877": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-075"
+  ],
+  "n": 129,
+  "truncated": false
+ },
+ "W4200187066": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-013"
+  ],
+  "n": 224,
+  "truncated": false
+ },
+ "W4200211468": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-010"
+  ],
+  "n": 46,
+  "truncated": false
+ },
+ "W4200377434": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-016"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4205584843": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-046"
+  ],
+  "n": 38,
+  "truncated": false
+ },
+ "W4206288795": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-043"
+  ],
+  "n": 81,
+  "truncated": false
+ },
+ "W4206598898": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-071"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W4206682341": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-020"
+  ],
+  "n": 39,
+  "truncated": false
+ },
+ "W4206732327": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-069"
+  ],
+  "n": 25,
+  "truncated": false
+ },
+ "W4206821577": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-052"
+  ],
+  "n": 37,
+  "truncated": false
+ },
+ "W4206911748": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-093"
+  ],
+  "n": 30,
+  "truncated": false
+ },
+ "W4206916424": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-027"
+  ],
+  "n": 45,
+  "truncated": false
+ },
+ "W4210287801": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-049"
+  ],
+  "n": 160,
+  "truncated": false
+ },
+ "W4210698538": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-070"
+  ],
+  "n": 8,
+  "truncated": false
+ },
+ "W4210699050": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-065"
+  ],
+  "n": 16,
+  "truncated": false
+ },
+ "W4211096816": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-004"
+  ],
+  "n": 14,
+  "truncated": false
+ },
+ "W4211139287": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-107"
+  ],
+  "n": 19,
+  "truncated": false
+ },
+ "W4212767065": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "PE-082"
+  ],
+  "n": 142,
+  "truncated": false
+ },
+ "W4212790105": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-074"
+  ],
+  "n": 1150,
+  "truncated": false
+ },
+ "W4212975579": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-014"
+  ],
+  "n": 29,
+  "truncated": false
+ },
+ "W4212995185": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-101"
+  ],
+  "n": 23,
+  "truncated": false
+ },
+ "W4213253313": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-084"
+  ],
+  "n": 84,
+  "truncated": false
+ },
+ "W4214488352": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-015"
+  ],
+  "n": 13,
+  "truncated": false
+ },
+ "W4214930359": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-063"
+  ],
+  "n": 121,
+  "truncated": false
+ },
+ "W4220663671": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-021"
+  ],
+  "n": 26,
+  "truncated": false
+ },
+ "W4221054236": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-100"
+  ],
+  "n": 77,
+  "truncated": false
+ },
+ "W4221073158": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-063"
+  ],
+  "n": 23,
+  "truncated": false
+ },
+ "W4221074504": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-086"
+  ],
+  "n": 15,
+  "truncated": false
+ },
+ "W4221155795": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-100"
+  ],
+  "n": 14,
+  "truncated": false
+ },
+ "W4223636754": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-074"
+  ],
+  "n": 69,
+  "truncated": false
+ },
+ "W4223898881": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-104"
+  ],
+  "n": 17,
+  "truncated": false
+ },
+ "W4224129618": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-043"
+  ],
+  "n": 38,
+  "truncated": false
+ },
+ "W4224297566": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-123"
+  ],
+  "n": 47,
+  "truncated": false
+ },
+ "W4224439994": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-013"
+  ],
+  "n": 9,
+  "truncated": false
+ },
+ "W4225579746": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-053"
+  ],
+  "n": 85,
+  "truncated": false
+ },
+ "W4226024806": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-043"
+  ],
+  "n": 35,
+  "truncated": false
+ },
+ "W4226455608": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-080"
+  ],
+  "n": 138,
+  "truncated": false
+ },
+ "W4229795649": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "REG-043"
+  ],
+  "n": 526,
+  "truncated": false
+ },
+ "W4230622711": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-004"
+  ],
+  "n": 195,
+  "truncated": false
+ },
+ "W4232101499": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "GENDER-023"
+  ],
+  "n": 38,
+  "truncated": false
+ },
+ "W4232313964": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-072"
+  ],
+  "n": 131,
+  "truncated": false
+ },
+ "W4232508652": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-002"
+  ],
+  "n": 3503,
+  "truncated": false
+ },
+ "W4232724651": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-022"
+  ],
+  "n": 85,
+  "truncated": false
+ },
+ "W4233953196": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-046"
+  ],
+  "n": 71,
+  "truncated": false
+ },
+ "W4234351829": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-075"
+  ],
+  "n": 143,
+  "truncated": false
+ },
+ "W4234582996": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "CONST-023"
+  ],
+  "n": 37,
+  "truncated": false
+ },
+ "W4234843515": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-041"
+  ],
+  "n": 100,
+  "truncated": false
+ },
+ "W4235236083": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-046"
+  ],
+  "n": 188,
+  "truncated": false
+ },
+ "W4235821389": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-028"
+  ],
+  "n": 119,
+  "truncated": false
+ },
+ "W4236024042": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-021"
+  ],
+  "n": 219,
+  "truncated": false
+ },
+ "W4236075362": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-070"
+  ],
+  "n": 62,
+  "truncated": false
+ },
+ "W4236129583": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-015"
+  ],
+  "n": 548,
+  "truncated": false
+ },
+ "W4236620979": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-032"
+  ],
+  "n": 37,
+  "truncated": false
+ },
+ "W4236636785": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-019"
+  ],
+  "n": 975,
+  "truncated": false
+ },
+ "W4237528462": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-009"
+  ],
+  "n": 481,
+  "truncated": false
+ },
+ "W4237847873": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-001"
+  ],
+  "n": 126,
+  "truncated": false
+ },
+ "W4240195964": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-117"
+  ],
+  "n": 362,
+  "truncated": false
+ },
+ "W4240204240": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-066"
+  ],
+  "n": 282,
+  "truncated": false
+ },
+ "W4240444476": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-116"
+  ],
+  "n": 64,
+  "truncated": false
+ },
+ "W4240612418": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-150"
+  ],
+  "n": 145,
+  "truncated": false
+ },
+ "W4241249701": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-155"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W4241364357": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "IR-091"
+  ],
+  "n": 713,
+  "truncated": false
+ },
+ "W4241569401": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-003"
+  ],
+  "n": 5,
+  "truncated": false
+ },
+ "W4242113923": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-043"
+  ],
+  "n": 22,
+  "truncated": false
+ },
+ "W4242222945": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-003"
+  ],
+  "n": 302,
+  "truncated": false
+ },
+ "W4242327383": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-044"
+  ],
+  "n": 218,
+  "truncated": false
+ },
+ "W4242637397": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-093"
+  ],
+  "n": 23,
+  "truncated": false
+ },
+ "W4244092825": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-071"
+  ],
+  "n": 437,
+  "truncated": false
+ },
+ "W4244348887": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-052"
+  ],
+  "n": 463,
+  "truncated": false
+ },
+ "W4244607718": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-045"
+  ],
+  "n": 205,
+  "truncated": false
+ },
+ "W4245431187": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "AREA-040"
+  ],
+  "n": 339,
+  "truncated": false
+ },
+ "W4247306001": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-071"
+  ],
+  "n": 16,
+  "truncated": false
+ },
+ "W4247468729": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-097"
+  ],
+  "n": 247,
+  "truncated": false
+ },
+ "W4247503459": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-072"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W4247563835": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-013"
+  ],
+  "n": 448,
+  "truncated": false
+ },
+ "W4248075631": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-047"
+  ],
+  "n": 1941,
+  "truncated": false
+ },
+ "W4248550060": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-078"
+  ],
+  "n": 184,
+  "truncated": false
+ },
+ "W4248897806": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-046"
+  ],
+  "n": 118,
+  "truncated": false
+ },
+ "W4249189279": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-033"
+  ],
+  "n": 12,
+  "truncated": false
+ },
+ "W4249302992": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-012"
+  ],
+  "n": 23,
+  "truncated": false
+ },
+ "W4249711382": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-038"
+  ],
+  "n": 394,
+  "truncated": false
+ },
+ "W4250188586": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-076"
+  ],
+  "n": 74,
+  "truncated": false
+ },
+ "W4250189019": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-086"
+  ],
+  "n": 287,
+  "truncated": false
+ },
+ "W4250795325": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-061"
+  ],
+  "n": 227,
+  "truncated": false
+ },
+ "W4250796105": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-027"
+  ],
+  "n": 51,
+  "truncated": false
+ },
+ "W4251568317": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-078"
+  ],
+  "n": 232,
+  "truncated": false
+ },
+ "W4252016870": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-056"
+  ],
+  "n": 42,
+  "truncated": false
+ },
+ "W4253447693": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-084"
+  ],
+  "n": 94,
+  "truncated": false
+ },
+ "W4254553025": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-013"
+  ],
+  "n": 488,
+  "truncated": false
+ },
+ "W4254649434": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-045"
+  ],
+  "n": 16,
+  "truncated": false
+ },
+ "W4254792514": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-111"
+  ],
+  "n": 660,
+  "truncated": false
+ },
+ "W4256028900": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-023"
+  ],
+  "n": 10,
+  "truncated": false
+ },
+ "W4280519483": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-129"
+  ],
+  "n": 19,
+  "truncated": false
+ },
+ "W4280561870": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-073"
+  ],
+  "n": 11,
+  "truncated": false
+ },
+ "W4280606249": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-118"
+  ],
+  "n": 5,
+  "truncated": false
+ },
+ "W4280617842": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-028"
+  ],
+  "n": 18,
+  "truncated": false
+ },
+ "W4281669210": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-138"
+  ],
+  "n": 54,
+  "truncated": false
+ },
+ "W4281763150": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-004"
+  ],
+  "n": 46,
+  "truncated": false
+ },
+ "W4283018683": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-069"
+  ],
+  "n": 26,
+  "truncated": false
+ },
+ "W4283314845": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-060"
+  ],
+  "n": 11,
+  "truncated": false
+ },
+ "W4283524819": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-041"
+  ],
+  "n": 9,
+  "truncated": false
+ },
+ "W4283661162": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-015"
+  ],
+  "n": 20,
+  "truncated": false
+ },
+ "W4283829922": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-010"
+  ],
+  "n": 72,
+  "truncated": false
+ },
+ "W4284703071": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-015"
+  ],
+  "n": 64,
+  "truncated": false
+ },
+ "W4284882968": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "OPIN-034"
+  ],
+  "n": 782,
+  "truncated": false
+ },
+ "W4285263454": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-028"
+  ],
+  "n": 37,
+  "truncated": false
+ },
+ "W4285800867": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-023"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W4286216352": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-044"
+  ],
+  "n": 10,
+  "truncated": false
+ },
+ "W4288040145": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-077"
+  ],
+  "n": 9,
+  "truncated": false
+ },
+ "W4288489194": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-102"
+  ],
+  "n": 124,
+  "truncated": false
+ },
+ "W4289222991": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-075"
+  ],
+  "n": 744,
+  "truncated": false
+ },
+ "W4290044839": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-095"
+  ],
+  "n": 15,
+  "truncated": false
+ },
+ "W4290420414": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-033"
+  ],
+  "n": 85,
+  "truncated": false
+ },
+ "W4290729365": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-057"
+  ],
+  "n": 69,
+  "truncated": false
+ },
+ "W4291801164": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-041"
+  ],
+  "n": 35,
+  "truncated": false
+ },
+ "W4292023303": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-048"
+  ],
+  "n": 223,
+  "truncated": false
+ },
+ "W4292200211": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-011"
+  ],
+  "n": 100,
+  "truncated": false
+ },
+ "W4292878345": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-049"
+  ],
+  "n": 30,
+  "truncated": false
+ },
+ "W4293383069": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-085"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W4293536493": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-058"
+  ],
+  "n": 14,
+  "truncated": false
+ },
+ "W4293671699": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-073"
+  ],
+  "n": 38,
+  "truncated": false
+ },
+ "W4296185583": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-029"
+  ],
+  "n": 62,
+  "truncated": false
+ },
+ "W4297201832": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-023"
+  ],
+  "n": 72,
+  "truncated": false
+ },
+ "W4297848442": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-001"
+  ],
+  "n": 815,
+  "truncated": false
+ },
+ "W4298012966": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "PE-161"
+  ],
+  "n": 50,
+  "truncated": false
+ },
+ "W4300892007": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-010"
+  ],
+  "n": 341,
+  "truncated": false
+ },
+ "W4301130393": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-064"
+  ],
+  "n": 115,
+  "truncated": false
+ },
+ "W4302007938": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-073"
+  ],
+  "n": 23,
+  "truncated": false
+ },
+ "W4303191855": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-038"
+  ],
+  "n": 31,
+  "truncated": false
+ },
+ "W4304690505": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-125"
+  ],
+  "n": 21,
+  "truncated": false
+ },
+ "W4304889552": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-022"
+  ],
+  "n": 37,
+  "truncated": false
+ },
+ "W4306168687": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-067"
+  ],
+  "n": 27,
+  "truncated": false
+ },
+ "W4307641523": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-036"
+  ],
+  "n": 36,
+  "truncated": false
+ },
+ "W4308482792": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-089"
+  ],
+  "n": 32,
+  "truncated": false
+ },
+ "W4308633558": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "ENV-024"
+  ],
+  "n": 56,
+  "truncated": false
+ },
+ "W4308899252": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-083"
+  ],
+  "n": 36,
+  "truncated": false
+ },
+ "W4308918631": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-115"
+  ],
+  "n": 35,
+  "truncated": false
+ },
+ "W4309562997": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-086"
+  ],
+  "n": 13,
+  "truncated": false
+ },
+ "W4309563200": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-055"
+  ],
+  "n": 13,
+  "truncated": false
+ },
+ "W4309714128": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-054"
+  ],
+  "n": 15,
+  "truncated": false
+ },
+ "W4311053785": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-092"
+  ],
+  "n": 146,
+  "truncated": false
+ },
+ "W4311640683": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-003"
+  ],
+  "n": 10,
+  "truncated": false
+ },
+ "W4311702283": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-024"
+  ],
+  "n": 75,
+  "truncated": false
+ },
+ "W4312124511": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-066"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4312153436": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-129"
+  ],
+  "n": 17,
+  "truncated": false
+ },
+ "W4312442212": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-047"
+  ],
+  "n": 24,
+  "truncated": false
+ },
+ "W4313254627": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-081"
+  ],
+  "n": 10,
+  "truncated": false
+ },
+ "W4313302912": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-051"
+  ],
+  "n": 49,
+  "truncated": false
+ },
+ "W4313402905": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-078"
+  ],
+  "n": 50,
+  "truncated": false
+ },
+ "W4313656942": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-130"
+  ],
+  "n": 26,
+  "truncated": false
+ },
+ "W4315697399": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "PE-089"
+  ],
+  "n": 20,
+  "truncated": false
+ },
+ "W4316039827": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-044"
+  ],
+  "n": 20,
+  "truncated": false
+ },
+ "W4318067201": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-046"
+  ],
+  "n": 12,
+  "truncated": false
+ },
+ "W4318464219": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-093"
+  ],
+  "n": 34,
+  "truncated": false
+ },
+ "W4318692636": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-117"
+  ],
+  "n": 9,
+  "truncated": false
+ },
+ "W4318716133": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-105"
+  ],
+  "n": 8,
+  "truncated": false
+ },
+ "W4319790639": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-009"
+  ],
+  "n": 24,
+  "truncated": false
+ },
+ "W4319990371": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-023"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W4320018779": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-097"
+  ],
+  "n": 35,
+  "truncated": false
+ },
+ "W4320482117": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-093"
+  ],
+  "n": 76,
+  "truncated": false
+ },
+ "W4321240451": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-111"
+  ],
+  "n": 38,
+  "truncated": false
+ },
+ "W4321383236": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-033"
+  ],
+  "n": 5,
+  "truncated": false
+ },
+ "W4322768047": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-044"
+  ],
+  "n": 17,
+  "truncated": false
+ },
+ "W4324380316": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-071"
+  ],
+  "n": 27,
+  "truncated": false
+ },
+ "W4327715308": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-078"
+  ],
+  "n": 38,
+  "truncated": false
+ },
+ "W4327973207": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-086"
+  ],
+  "n": 41,
+  "truncated": false
+ },
+ "W4360618164": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-038"
+  ],
+  "n": 11,
+  "truncated": false
+ },
+ "W4360620951": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-137"
+  ],
+  "n": 8,
+  "truncated": false
+ },
+ "W4362561470": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-036"
+  ],
+  "n": 42,
+  "truncated": false
+ },
+ "W4362606437": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-031"
+  ],
+  "n": 8,
+  "truncated": false
+ },
+ "W4367291373": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-129"
+  ],
+  "n": 21,
+  "truncated": false
+ },
+ "W4367300360": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-053"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W4372271525": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-018"
+  ],
+  "n": 6,
+  "truncated": false
+ },
+ "W4377240841": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-084"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W4378190221": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-006"
+  ],
+  "n": 40,
+  "truncated": false
+ },
+ "W4379031138": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-072"
+  ],
+  "n": 132,
+  "truncated": false
+ },
+ "W4379228932": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-037"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W4379390925": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-053"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W4380634125": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-126"
+  ],
+  "n": 133,
+  "truncated": false
+ },
+ "W4381572775": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-064"
+  ],
+  "n": 12,
+  "truncated": false
+ },
+ "W4381851911": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-098"
+  ],
+  "n": 90,
+  "truncated": false
+ },
+ "W4382404039": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-054"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4382931183": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-034"
+  ],
+  "n": 40,
+  "truncated": false
+ },
+ "W4383314636": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-076"
+  ],
+  "n": 6,
+  "truncated": false
+ },
+ "W4383747020": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-042"
+  ],
+  "n": 10,
+  "truncated": false
+ },
+ "W4384024232": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-015"
+  ],
+  "n": 6,
+  "truncated": false
+ },
+ "W4384025738": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-092"
+  ],
+  "n": 14,
+  "truncated": false
+ },
+ "W4384299259": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-004"
+  ],
+  "n": 86,
+  "truncated": false
+ },
+ "W4384697606": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-053"
+  ],
+  "n": 557,
+  "truncated": false
+ },
+ "W4385298751": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-120"
+  ],
+  "n": 476,
+  "truncated": false
+ },
+ "W4385636141": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-029"
+  ],
+  "n": 12,
+  "truncated": false
+ },
+ "W4385803939": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-077"
+  ],
+  "n": 138,
+  "truncated": false
+ },
+ "W4386082739": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-069"
+  ],
+  "n": 16,
+  "truncated": false
+ },
+ "W4386103461": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-103"
+  ],
+  "n": 9,
+  "truncated": false
+ },
+ "W4386195873": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-014"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W4386296421": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-054"
+  ],
+  "n": 9,
+  "truncated": false
+ },
+ "W4386308208": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-113"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W4386387636": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-095"
+  ],
+  "n": 95,
+  "truncated": false
+ },
+ "W4386402567": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-095"
+  ],
+  "n": 7,
+  "truncated": false
+ },
+ "W4386478041": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-094"
+  ],
+  "n": 26,
+  "truncated": false
+ },
+ "W4386498947": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-078"
+  ],
+  "n": 98,
+  "truncated": false
+ },
+ "W4386697685": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-047"
+  ],
+  "n": 53,
+  "truncated": false
+ },
+ "W4386731247": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-070"
+  ],
+  "n": 9,
+  "truncated": false
+ },
+ "W4386749329": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-005"
+  ],
+  "n": 25,
+  "truncated": false
+ },
+ "W4386892534": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-017"
+  ],
+  "n": 327,
+  "truncated": false
+ },
+ "W4387074683": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-065"
+  ],
+  "n": 11,
+  "truncated": false
+ },
+ "W4387081856": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-031"
+  ],
+  "n": 17,
+  "truncated": false
+ },
+ "W4387092707": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-037"
+  ],
+  "n": 8,
+  "truncated": false
+ },
+ "W4387704720": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-061"
+  ],
+  "n": 42,
+  "truncated": false
+ },
+ "W4388112970": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-055"
+  ],
+  "n": 6,
+  "truncated": false
+ },
+ "W4388113121": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-007"
+  ],
+  "n": 17,
+  "truncated": false
+ },
+ "W4388557432": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-116"
+  ],
+  "n": 14,
+  "truncated": false
+ },
+ "W4388618021": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-073"
+  ],
+  "n": 36,
+  "truncated": false
+ },
+ "W4388819142": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-052"
+  ],
+  "n": 22,
+  "truncated": false
+ },
+ "W4389057064": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-013"
+  ],
+  "n": 14,
+  "truncated": false
+ },
+ "W4389124869": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "HR-001"
+  ],
+  "n": 19,
+  "truncated": false
+ },
+ "W4389359739": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-026"
+  ],
+  "n": 25,
+  "truncated": false
+ },
+ "W4389950162": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-110"
+  ],
+  "n": 73,
+  "truncated": false
+ },
+ "W4390972013": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-068"
+  ],
+  "n": 7,
+  "truncated": false
+ },
+ "W4391504178": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-039"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W4391680818": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-087"
+  ],
+  "n": 423,
+  "truncated": false
+ },
+ "W4391724405": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-044"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4391841367": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-057"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4391932450": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-035"
+  ],
+  "n": 11,
+  "truncated": false
+ },
+ "W4392457729": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-013",
+   "IR-136"
+  ],
+  "n": 19,
+  "truncated": false
+ },
+ "W4392772593": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-020"
+  ],
+  "n": 12,
+  "truncated": false
+ },
+ "W4393085215": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-028"
+  ],
+  "n": 82,
+  "truncated": false
+ },
+ "W4393946461": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-004"
+  ],
+  "n": 500,
+  "truncated": false
+ },
+ "W4394824498": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-079"
+  ],
+  "n": 32,
+  "truncated": false
+ },
+ "W4394925233": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-053"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4395701440": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-018"
+  ],
+  "n": 5,
+  "truncated": false
+ },
+ "W4396546297": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-047"
+  ],
+  "n": 9,
+  "truncated": false
+ },
+ "W4396601273": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-090"
+  ],
+  "n": 5,
+  "truncated": false
+ },
+ "W4396660378": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-056"
+  ],
+  "n": 8,
+  "truncated": false
+ },
+ "W4396893594": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-090"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W4396905442": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-061"
+  ],
+  "n": 26,
+  "truncated": false
+ },
+ "W4397011501": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "AREA-003"
+  ],
+  "n": 6,
+  "truncated": false
+ },
+ "W4398138420": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-088"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4398782640": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-014"
+  ],
+  "n": 7,
+  "truncated": false
+ },
+ "W4399322352": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-027"
+  ],
+  "n": 22,
+  "truncated": false
+ },
+ "W4399331485": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-022"
+  ],
+  "n": 20,
+  "truncated": false
+ },
+ "W4399550362": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-031"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W4400002810": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-072"
+  ],
+  "n": 37,
+  "truncated": false
+ },
+ "W4400121682": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-171"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W4400300581": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-133"
+  ],
+  "n": 133,
+  "truncated": false
+ },
+ "W4400404618": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-088"
+  ],
+  "n": 5,
+  "truncated": false
+ },
+ "W4400677456": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-060"
+  ],
+  "n": 16,
+  "truncated": false
+ },
+ "W4401420586": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-036"
+  ],
+  "n": 10,
+  "truncated": false
+ },
+ "W4401680976": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-027"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W4401973905": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-104"
+  ],
+  "n": 15,
+  "truncated": false
+ },
+ "W4402066757": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-021"
+  ],
+  "n": 392,
+  "truncated": false
+ },
+ "W4402232788": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-067"
+  ],
+  "n": 6,
+  "truncated": false
+ },
+ "W4402559131": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-041"
+  ],
+  "n": 91,
+  "truncated": false
+ },
+ "W4402578228": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-034"
+  ],
+  "n": 45,
+  "truncated": false
+ },
+ "W4402599350": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-014"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W4403039756": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-049"
+  ],
+  "n": 14,
+  "truncated": false
+ },
+ "W4403096650": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-046"
+  ],
+  "n": 8,
+  "truncated": false
+ },
+ "W4403195632": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-018"
+  ],
+  "n": 7,
+  "truncated": false
+ },
+ "W4403317817": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "PE-110"
+  ],
+  "n": 10,
+  "truncated": false
+ },
+ "W4403475028": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-006"
+  ],
+  "n": 6,
+  "truncated": false
+ },
+ "W4403540200": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-065"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W4403606858": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-001"
+  ],
+  "n": 8,
+  "truncated": false
+ },
+ "W4403690412": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-052"
+  ],
+  "n": 93,
+  "truncated": false
+ },
+ "W4403743380": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-108"
+  ],
+  "n": 54,
+  "truncated": false
+ },
+ "W4403867297": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-017"
+  ],
+  "n": 16,
+  "truncated": false
+ },
+ "W4403872534": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-091"
+  ],
+  "n": 5,
+  "truncated": false
+ },
+ "W4403990964": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-131"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W4403991413": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-101"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W4404328485": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-031"
+  ],
+  "n": 17,
+  "truncated": false
+ },
+ "W4404376891": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-039"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4404562197": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-136"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W4404816305": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-108"
+  ],
+  "n": 10,
+  "truncated": false
+ },
+ "W4405003198": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-006"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W4405080782": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-077"
+  ],
+  "n": 8,
+  "truncated": false
+ },
+ "W4405081419": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-043"
+  ],
+  "n": 58,
+  "truncated": false
+ },
+ "W4405224105": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-093"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W4405228930": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-118"
+  ],
+  "n": 15,
+  "truncated": false
+ },
+ "W4405513951": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-085"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4405675635": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-040"
+  ],
+  "n": 6,
+  "truncated": false
+ },
+ "W4405843222": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-009"
+  ],
+  "n": 33,
+  "truncated": false
+ },
+ "W4405956026": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-036"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4406016272": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-015"
+  ],
+  "n": 6,
+  "truncated": false
+ },
+ "W4406118174": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-090"
+  ],
+  "n": 15,
+  "truncated": false
+ },
+ "W4406348387": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-131"
+  ],
+  "n": 14,
+  "truncated": false
+ },
+ "W4406597093": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-133"
+  ],
+  "n": 11,
+  "truncated": false
+ },
+ "W4406629767": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-058"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4406679926": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-124"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W4407002908": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-132"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W4407137626": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-008"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W4407414158": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-012"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4407615411": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-033"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W4407742163": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-062"
+  ],
+  "n": 6,
+  "truncated": false
+ },
+ "W4408237627": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-035"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4408240018": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-068"
+  ],
+  "n": 15,
+  "truncated": false
+ },
+ "W4408349261": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-099"
+  ],
+  "n": 9,
+  "truncated": false
+ },
+ "W4408415331": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-013"
+  ],
+  "n": 10,
+  "truncated": false
+ },
+ "W4408510372": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-121"
+  ],
+  "n": 12,
+  "truncated": false
+ },
+ "W4408658263": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-005"
+  ],
+  "n": 38,
+  "truncated": false
+ },
+ "W4408746275": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-046"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W4408782403": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-022"
+  ],
+  "n": 141,
+  "truncated": false
+ },
+ "W4409149710": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-077"
+  ],
+  "n": 13,
+  "truncated": false
+ },
+ "W4409237530": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-073"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W4409436000": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-059"
+  ],
+  "n": 14,
+  "truncated": false
+ },
+ "W4409457352": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-049"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4409592007": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-028"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4409633608": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-019"
+  ],
+  "n": 34,
+  "truncated": false
+ },
+ "W4409643015": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-039"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W4409712026": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-022"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W4409724531": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-095"
+  ],
+  "n": 473,
+  "truncated": false
+ },
+ "W4409901660": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-039"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W4410414719": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GEO-063"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W4410432285": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-012"
+  ],
+  "n": 210,
+  "truncated": false
+ },
+ "W4410602492": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-052"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W4411014774": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-076"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W4411120726": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-007"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W4411138134": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-084"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W4411164777": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "ENV-065"
+  ],
+  "n": 12,
+  "truncated": false
+ },
+ "W4411394446": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-030",
+   "TEXT-034"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W4411545642": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-016"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W4411795820": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-117"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W4411880898": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-081"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W4412040465": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-028"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4412155648": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-018"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W4412392132": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-029"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W4412428377": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-058"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4412466376": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-096"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W4412494844": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-038"
+  ],
+  "n": 31,
+  "truncated": false
+ },
+ "W4412640960": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-134"
+  ],
+  "n": 17,
+  "truncated": false
+ },
+ "W4412670584": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-030"
+  ],
+  "n": 6,
+  "truncated": false
+ },
+ "W4412688774": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-075"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W4412799131": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "HIST-025"
+  ],
+  "n": 5,
+  "truncated": false
+ },
+ "W4412824886": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-089"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W4412889969": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-099"
+  ],
+  "n": 15,
+  "truncated": false
+ },
+ "W4413203522": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-003"
+  ],
+  "n": 65,
+  "truncated": false
+ },
+ "W4413378950": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-059"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W4413623024": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-059"
+  ],
+  "n": 5,
+  "truncated": false
+ },
+ "W4413798031": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-024"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4414286490": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-089"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W4414593689": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-026"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W4414594029": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-029"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W4414995764": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "IDENT-135"
+  ],
+  "n": 5,
+  "truncated": false
+ },
+ "W4415285623": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-033"
+  ],
+  "n": 21,
+  "truncated": false
+ },
+ "W4415363101": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-019"
+  ],
+  "n": 10,
+  "truncated": false
+ },
+ "W4415461911": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-088"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4415492933": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-043"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W4415535333": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-071"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W4415587870": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-060"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4415962711": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-043"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W4416129473": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-034"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W4416201122": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-062"
+  ],
+  "n": 30,
+  "truncated": false
+ },
+ "W4416530940": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-088"
+  ],
+  "n": 7,
+  "truncated": false
+ },
+ "W4416582240": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-059"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W4416691028": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-050"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W4416713730": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-143"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W4416938750": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-083"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W4417043953": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-119"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W4417050291": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-020"
+  ],
+  "n": 11,
+  "truncated": false
+ },
+ "W4417168811": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-037"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W4417239423": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-143"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W566105766": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-013"
+  ],
+  "n": 93,
+  "truncated": false
+ },
+ "W633889262": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-048"
+  ],
+  "n": 349,
+  "truncated": false
+ },
+ "W649056258": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-011",
+   "ELEC-012"
+  ],
+  "n": 225,
+  "truncated": false
+ },
+ "W6888915053": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-069"
+  ],
+  "n": 5,
+  "truncated": false
+ },
+ "W6889791050": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-062"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W6902617581": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-033"
+  ],
+  "n": 67,
+  "truncated": false
+ },
+ "W6903300936": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-110"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W6911366933": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-068"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W6925346952": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-056"
+  ],
+  "n": 6,
+  "truncated": false
+ },
+ "W6941565282": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-052"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W6945393950": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-069"
+  ],
+  "n": 255,
+  "truncated": false
+ },
+ "W6959095836": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-015"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7103758886": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-079"
+  ],
+  "n": 8,
+  "truncated": false
+ },
+ "W7106674588": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-049"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W7112519705": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-127"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7116858877": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-139"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W7118183677": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-132"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7124757314": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONST-042"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W7125395651": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-044"
+  ],
+  "n": 5,
+  "truncated": false
+ },
+ "W7125648921": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "EXEC-058"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7125783270": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-064"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7125812165": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-039"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W7126084011": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-137"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7127176166": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PARTY-055"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W7128375451": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-007"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W7128624240": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "BUR-035"
+  ],
+  "n": 14,
+  "truncated": false
+ },
+ "W7131615747": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-133"
+  ],
+  "n": 5,
+  "truncated": false
+ },
+ "W7131891326": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-050"
+  ],
+  "n": 15,
+  "truncated": false
+ },
+ "W7133194265": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-078"
+  ],
+  "n": 18,
+  "truncated": false
+ },
+ "W7134847284": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-114"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W7142410374": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-088"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7143317463": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-063"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7144310824": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-103"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7147475493": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-085"
+  ],
+  "n": 5,
+  "truncated": false
+ },
+ "W7149254542": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-059"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7151300351": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HIST-032"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7153622281": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-029"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7155522886": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-050"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7160046460": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-075"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W7160076085": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-070"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W7160836997": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-021"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7161002510": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-045"
+  ],
+  "n": 235,
+  "truncated": false
+ },
+ "W7161626707": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ENV-030"
+  ],
+  "n": 12,
+  "truncated": false
+ },
+ "W7161686250": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-083"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7162285951": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-060"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W7162500925": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "GENDER-050"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W7162530575": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "HR-067"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W7162643298": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-116"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W7163188227": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-089"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W7164048736": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "CONF-007",
+   "CONF-008"
+  ],
+  "n": 18,
+  "truncated": false
+ },
+ "W7164491178": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "REG-049"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W7164989997": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-040"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7165164380": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IR-147"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W7166522924": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "POLICY-005"
+  ],
+  "n": 2,
+  "truncated": false
+ },
+ "W7168276625": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-035"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W7168818711": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "PE-067"
+  ],
+  "n": 4,
+  "truncated": false
+ },
+ "W7170065879": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-172"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W7172015601": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-045"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7203674810": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-097"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7204098950": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "ELEC-087"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7204543857": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "INFRA-097"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7211873163": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "IDENT-128"
+  ],
+  "n": 3,
+  "truncated": false
+ },
+ "W7213661641": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "TEXT-020"
+  ],
+  "n": 1,
+  "truncated": false
+ },
+ "W7221457502": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "LEG-062"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7222500721": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "CONF-130"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W7222998427": {
+  "checked_on": "2026-11-12",
+  "done": true,
+  "ids": [
+   "IR-117"
+  ],
+  "n": 0,
+  "truncated": false
+ },
+ "W74820659": {
+  "checked_on": "2026-11-11",
+  "done": true,
+  "ids": [
+   "OPIN-115"
+  ],
+  "n": 141,
+  "truncated": false
+ }
+}

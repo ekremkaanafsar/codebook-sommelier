@@ -1,0 +1,23 @@
+{
+  "landscape": [
+    "Data on executives fall into three layers. The first layer is leader lists: who governed, when, and how they came to and left power. They include Archigos (to 2015) and REIGN (to 2021). The second layer describes leaders themselves: experience in LEAD and PolEx, ideology in Herre's Global Leader Ideology and Brambor-Lindvall, party affiliation in Leaders Global, and psychological and health characteristics in newer niche datasets. The third layer covers governments below the leader: cabinets, ministers, coalitions and their duration.",
+    "Minister-level data have expanded quickly. WhoGov now covers cabinet members worldwide from 1966 to 2025, and newer datasets add social backgrounds (Paths to Power), age (WARC), foreign ministers and historical cabinets (H-DATA), and single-country cabinet records for Japan, Chile and Equatorial Guinea. For parliamentary democracies, coalition research relies on ParlGov (catalogued under ELEC), the REPDEM archive, the Political Data Yearbook and the Party Systems and Governments Observatory.",
+    "Many of the 53 EXEC rows are frozen (26), including widely used leader lists. Archigos has not been updated since 2016 and REIGN since 2021. For recent years, researchers must combine WhoGov, the Political Data Yearbook and the reference websites WorldStatesmen and Zárate's Political Collections."
+  ],
+  "core": [
+    {"id": "EXEC-002", "text": "Archigos lists the effective leader of every independent state from 1875 to 2015, with dates of entry and exit, the manner of entry and exit (regular, irregular, foreign imposition) and post-tenure fate. It underlies much research on leader survival and leader-level international relations, and its leader identifiers are reused by LEAD, CHISOLS and others. The dataset has been frozen at version 4.1 since 2016."},
+    {"id": "EXEC-003", "text": "REIGN extends leader and regime data to monthly resolution, from 1950 to August 2021. It adds irregular events, elections and regime-type codes useful for forecasting. It has not been updated since 2021 and has no peer-reviewed reference article, so documentation rests on the project codebook."},
+    {"id": "EXEC-004", "text": "WhoGov records every cabinet member, with gender, party and portfolio, for nearly all countries from 1966 to 2025 (version 4.0). It is often used in cross-national studies of cabinet composition, minister turnover and representation in government. Earlier versions are redistributed by QoG, so cite the version you use."},
+    {"id": "EXEC-006", "text": "CHISOLS codes changes in the societal groups that support a leader, distinguishing leader turnover from changes in the underlying ruling coalition, from 1919 to 2018. It is widely used in research on foreign-policy change and alliance reliability. Choose it over plain turnover measures when the theory is about whose interests a government represents."},
+    {"id": "EXEC-010", "text": "Herre's Global Leader Ideology dataset codes the economic left-right ideology of heads of government in about 180 countries from 1945 (or independence) to 2020, using a documented coding protocol. Together with Brambor and Lindvall's longer series for 33 countries, it measures leader ideology cross-nationally outside parliamentary party data."}
+  ],
+  "choosing": [
+    "Leader datasets differ in who counts as the effective leader, especially in semi-presidential systems, monarchies and military juntas, and in how they date transitions (day, month or year). Before combining them, check these rules and merge on shared identifiers (Archigos leader IDs, COW or Gleditsch-Ward codes) rather than names.",
+    "For cabinets and coalitions, the main choice is between global minister-level coverage (WhoGov), cabinet-level data for parliamentary democracies (ParlGov, REPDEM, Seki-Williams) and detailed national datasets. Coding rules for when a new government begins (elections, changes of prime minister, party composition) differ across sources and change duration estimates substantially."
+  ],
+  "gaps": [
+    "No maintained, global leader-spell dataset covers the years after 2021; Archigos stops in 2015 and REIGN in 2021.",
+    "Cross-national data on executive decrees and unilateral powers in practice are almost absent outside the United States; no downloadable Latin American decree series or presidential-power scores beyond Doyle-Elgie and Borges were found.",
+    "Subnational executives are covered for U.S. governors, Indian chief ministers and some European mayors, but not systematically elsewhere."
+  ]
+}

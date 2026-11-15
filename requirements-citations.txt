@@ -1,0 +1,9 @@
+requests
+pandas
+scipy
+networkx>=3.0
+matplotlib
+openpyxl
+reportlab
+pytest
+pypdf

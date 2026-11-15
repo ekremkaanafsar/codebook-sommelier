@@ -1,0 +1,35 @@
+# Allowlist for the public export (scripts/export_public.py). One glob per line, relative to the repository root.
+# data/unsafe_domains.txt is deliberately absent: only its hashes are published.
+README.md
+LICENSE
+LICENSE-DATA
+CITATION.cff
+.gitignore
+.gitattributes
+.gitleaks.toml
+PROTOCOL.md
+public_manifest.txt
+requirements-citations.txt
+requirements-site.txt
+pytest.ini
+scripts/**
+templates/**
+site_assets/**
+tests/**
+.github/**
+data/catalog.csv
+data/literature_databases.csv
+data/primary_archives.csv
+data/comparison_groups.csv
+data/guide_sweep.csv
+data/unsafe_domains.sha256
+data/author.json
+data/progress.json
+data/link_overrides.csv
+data/site_config.json
+data/narratives/**
+data/derived/**
+data/citations/**
+# The only outputs/ files: the site's network page draws these two figures (spec section 5).
+outputs/figures/cousage_network.svg
+outputs/figures/cousage_domains.svg

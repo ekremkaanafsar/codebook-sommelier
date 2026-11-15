@@ -1,0 +1,42 @@
+{
+ "landscape": [
+  "Identity data in political science fall into three families. Ethnicity data include static country-level fractionalization indices (Fearon; Alesina et al.; Roeder), annual series (HIEF, CREG) and measures that keep only politically relevant groups (Posner; the EPR family catalogued under CONF). Maps of group settlement come from GREG, GeoEPR, SIDE, the Murdock map and the Ethnographic Atlas. Newer work codes the representation of minorities in legislatures and cabinets, minority and Indigenous rights, and the ethnic categories that censuses use.",
+  "Religion data combine demography with state-religion relations. Open demographic series come from the COW World Religion Project, the Religious Characteristics of States project and Pew, while the World Religion and World Christian databases are licensed. Religion and State (RAS) and Pew's Global Restrictions on Religion measure state regulation, support and discrimination; ARDA hosts many of these files and the national surveys used in the sociology of religion.",
+  "Migration data are the largest group. Official producers supply stocks (UN DESA), refugee and displacement statistics (UNHCR, IDMC) and flows for OECD and EU members. Academic projects estimate global bilateral flows (Abel and Cohen) and code immigration, refugee, integration, citizenship and emigration policies (IMPIC, DEMIG, HIP, DWRAP, MIPEX, GLOBALCIT, MACIMIDE, EMIX). Border walls, visa regimes and border crossings form a growing subfield. Many academic datasets in this domain are frozen after a single release, and several official portals block automated access."
+ ],
+ "core": [
+  {
+   "id": "IDENT-002",
+   "text": "Alesina et al.'s fractionalization data give ethnic, linguistic and religious fractionalization for up to 215 countries around 2000, and Fearon's companion data (IDENT-001) give ethnic and cultural diversity for 160 countries in the early 1990s. They remain widely used controls for diversity in cross-national work. Both are static snapshots that treat all groups as equally relevant, a limitation addressed by HIEF (annual series), Posner's PREG and EPR."
+  },
+  {
+   "id": "IDENT-038",
+   "text": "The Religion and State project codes official religion, government support, regulation of religion and discrimination against religious minorities for 183 states from 1990 to 2014 in its public Round 3, with minority and societal modules. It offers detailed cross-national coding of state-religion relations. A fourth round to 2023 is used in publications but not yet posted, so the public series ends in 2014."
+  },
+  {
+   "id": "IDENT-068",
+   "text": "UN DESA's International Migrant Stock gives the number of international migrants by destination, origin and sex for 233 countries and areas from 1990 to 2024. It is a widely used global stock series and the input for many bilateral flow estimates. Definitions mix foreign-born and foreign-citizen counts, and most intercensal values are modelled, so short-run changes reflect estimation rather than new data."
+  },
+  {
+   "id": "IDENT-079",
+   "text": "UNHCR's Refugee Data Finder provides annual statistics on refugees, asylum-seekers, returnees, stateless people and others of concern from 1951, with an API and an R package. It is the official statistical series on forced displacement across borders. Counts depend on registration and recognition practices, categories change over time, and conflict-related internal displacement figures are imported from IDMC."
+  },
+  {
+   "id": "IDENT-086",
+   "text": "Immigration Policies in Comparison (IMPIC) measures the restrictiveness of immigration policy across labour migration, family reunification, asylum and co-ethnic migration, plus control mechanisms, for 33 OECD countries from 1980 to 2018. It is widely used to compare policy levels. It covers only OECD states and may have breaks where new experts coded the 2011-2018 update; DEMIG POLICY complements it with the timing of policy changes."
+  }
+ ],
+ "choosing": [
+  "For ethnic diversity, report results with more than one measure: a static index (Fearon or Alesina), an annual series (HIEF or CREG) and, where political relevance matters, PREG or EPR.",
+  "For religion, use RAS for detailed state-religion coding to 2014 and Pew's indices for annual restrictions since 2007; use RCS-Dem or COW World Religion for open demographic series and Pew 2010/2020 for recent benchmarks.",
+  "For migration volumes, use UN DESA stocks for global coverage, Abel-Cohen for bilateral flows, and OECD or Eurostat flows only for their member states; for refugees use UNHCR and for internal displacement IDMC.",
+  "For migration policy, use IMPIC or MIPEX for levels, DEMIG or POLMIG for reform timing, HIP for history before 1980, DWRAP for refugee law worldwide and GLOBALCIT for citizenship law."
+ ],
+ "gaps": [
+  "Most ethnic diversity measures are static or end around 2013; annual group-size data after that come mainly from EPR and survey-based estimates.",
+  "Cross-national data on nationalism and nation-building policy are only beginning to appear: the Nation-Building Policies project (IDENT-136) has released a preview, not its full 163-country file. National identity is otherwise measured only through survey modules (ISSP), and there is almost nothing on the political representation of Indigenous peoples.",
+  "Public religion-and-state data end in 2014 (RAS3) and Pew's data start only in 2007; harmonized religious attendance series and data on clergy or religious leaders are missing.",
+  "Migration policy datasets concentrate on OECD countries and end between 2013 and 2019; policy data for the Global South, emigration controls and enforcement (detention, deportation) are thin outside the United States.",
+  "Several survey projects are now hard to access (LAMP files not downloadable, Princeton hosts retired), and official portals such as IOM, OECD and UNHCR block automated checks."
+ ]
+}

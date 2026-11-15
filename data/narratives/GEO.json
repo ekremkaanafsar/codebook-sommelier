@@ -1,0 +1,44 @@
+{
+ "landscape": [
+  "Subnational and geospatial political data rest on three layers. Boundary data define the units. They include current administrative boundaries (GADM GEO-003, geoBoundaries GEO-004, FAO GAUL GEO-005, UN SALB GEO-006, OCHA COD-AB GEO-007, World Bank and U.S. State Department boundaries GEO-008/009) and historical state borders and political entities (CShapes 2.0 GEO-011, Cliopatria GEO-012, HistoGIS GEO-013, CHGIS GEO-016, Great Britain Historical GIS GEO-017). National statistical geographies form a third set (Eurostat GISCO GEO-041, IBGE GEO-050, INEGI GEO-051, U.S. TIGER/Line GEO-052, NHGIS GEO-053).",
+  "Gridded and spatial covariates attach measures to locations. They include the PRIO-GRID cell structure (GEO-018), population and settlement grids (GPW GEO-019, WorldPop GEO-020, GHSL GEO-021, LandScan GEO-022), night lights (GEO-025 to 027), travel time and terrain (GEO-028/029), and gridded or subnational economic estimates (G-Econ, gridded GDP, DOSE, Roses-Wolf, GLocal: GEO-032 to 036). Ethnic geography (GeoEPR GEO-002 and the IDENT rows) and geocoded events (UCDP GED, ACLED, xSub under CONF) use these units.",
+  "Subnational political data measure elections, governments and institutions below the national level. Sources include electoral boundaries (Canada, Australia, the UK: GEO-039/040/047), subnational democracy (ISED GEO-044) and European regional and local data (QoG EU Regional GEO-042, OECD regional statistics GEO-043, Norwegian and Swedish local government data GEO-045/046, LocGov GEO-001). Country collections cover India (SHRUG GEO-048), Brazil and Mexico. Subnational election results sit mostly in ELEC (e.g. ELEC-138 to ELEC-143).",
+  "U.S. state and local data are the densest. They include census products and crosswalks (ACS GEO-054, relationship files GEO-058, Geocorr GEO-059, the 1790-2020 county and district crosswalks GEO-060, LTDB GEO-061), redistricting data (Dave's Redistricting GEO-062, All About Redistricting ELEC-144, precinct-to-census reallocations GEO-063) and local government structure and finance (Census finance surveys GEO-064, Government Finance Database GEO-065, FiSC GEO-066, ICMA GEO-067). Other sources cover local politics and media (LocalView GEO-071, CivicPulse GEO-073, Medill news deserts GEO-074) and state politics (AREA-001 to AREA-005). Commercial platforms (Social Explorer, PolicyMap, SimplyAnalytics: GEO-078 to 080) are heavily listed by libraries but repackage public data."
+ ],
+ "core": [
+  {
+   "id": "GEO-018",
+   "text": "PRIO-GRID is a global grid of about 0.5 by 0.5 degree cells (64,818 land cells in v2.0) that links conflict, population, economic, climate and ethnic data in one spatial structure. Version 2.0 (1946-2014) is the one most cited. Version 3.0.2, released by PRIO in 2026 and still labelled beta, extends coverage to 1885-2024 and is distributed as an R package. Cells are not political units, so results depend on cell size and spatial dependence must be modelled."
+  },
+  {
+   "id": "GEO-011",
+   "text": "CShapes 2.0 (ETH Zurich) maps the borders of independent states and of colonies and dependencies from 1886 to 2019, coded to the Gleditsch-Ward and COW state lists. It is widely used for time-varying country polygons, capitals and distances. It does not code border changes below 10,000 square km or unrecognised transfers, and its codebook and R package description give different end years, so users should check the version they load."
+  },
+  {
+   "id": "GEO-003",
+   "text": "GADM provides boundaries for all countries down to the lowest administrative level available (400,276 units in version 4.1), and is the most widely listed boundary source in library guides. It is a snapshot rather than a time series, version 5 is announced for January 2027, and its non-commercial licence forbids redistribution. geoBoundaries (GEO-004) offers openly licensed boundaries with year tags as an alternative."
+  },
+  {
+   "id": "GEO-002",
+   "text": "GeoEPR geo-references the politically relevant ethnic groups of the Ethnic Power Relations dataset from 1946 to 2021, so that ethnic exclusion can be linked to grid cells, districts and events. Many polygons rely on mid-20th-century ethnographic maps, and dispersed, urban and migrant groups have no polygon."
+  },
+  {
+   "id": "GEO-053",
+   "text": "IPUMS NHGIS provides U.S. census tables and boundary files from 1790 to the present for states, counties, tracts and smaller units, with time series that standardise some geographies across censuses. It is widely used for historical U.S. small-area data. Access requires free registration, and boundaries before 1990 are reconstructions of varying accuracy. TIGER/Line (GEO-052) supplies the current official geography."
+  }
+ ],
+ "choosing": [
+  "For current subnational boundaries, use geoBoundaries (GEO-004) when open licensing and year tags matter and GADM (GEO-003) for the deepest administrative levels. Humanitarian work usually uses OCHA COD-AB (GEO-007). Always record the version used.",
+  "For country borders over time, use CShapes 2.0 (GEO-011) from 1886; for pre-modern or non-state polities use Cliopatria (GEO-012). For historical subnational units, use HistoGIS (Europe), CHGIS (China) or NHGIS and the Newberry atlas (United States).",
+  "For cell-level analysis, PRIO-GRID (GEO-018) gives a ready-made grid with many covariates. Add population from GHSL or WorldPop, night lights from the harmonized DMSP-VIIRS series (GEO-025) rather than mixing the raw DMSP and VIIRS products, and travel time from GEO-028.",
+  "For subnational economic output, DOSE (GEO-034) and gridded GDP (GEO-033) cover the world from 1990 or earlier; Roses-Wolf (GEO-035) gives long European regional series; check that the units match the boundary set used.",
+  "For U.S. work, use TIGER/Line or NHGIS for boundaries and the Census relationship files and Geocorr for crosswalks. Use the Ferrara-Testa-Zhou crosswalks (GEO-060) for 1790-2020 county and district harmonisation, and the Census finance surveys or FiSC for local public finance."
+ ],
+ "gaps": [
+  "Openly licensed, time-varying subnational boundaries are scarce: most global sets are snapshots, and historical subnational boundaries exist mainly for Europe, China and the United States.",
+  "Subnational election and government data outside Europe, the Americas and India are fragmented; SUNGEO, an archive that links them, was offline on 2026-11-06.",
+  "PRIO-GRID version 3 is still in beta, and much published work rests on version 2, which ends in 2014.",
+  "Local government structure and finance data are rich for the United States and Scandinavia and thin elsewhere; comparative local government datasets are mostly survey-based (LocGov) or one-off.",
+  "Several heavily listed U.S. resources are commercial repackagings of public data (Social Explorer, PolicyMap, SimplyAnalytics), so replication files should cite the underlying census products."
+ ]
+}

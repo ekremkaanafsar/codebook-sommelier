@@ -1,0 +1,15 @@
+{
+  "id": "https://openalex.org/W3000000958",
+  "doi": "https://doi.org/10.1177/00220027211068897",
+  "display_name": "A Reference Article About Conflict Data",
+  "publication_year": 2022,
+  "type": "article",
+  "cited_by_count": 958,
+  "counts_by_year": [
+    {"year": 2025, "cited_by_count": 40},
+    {"year": 2024, "cited_by_count": 120}
+  ],
+  "authorships": [
+    {"author": {"display_name": "Anna Example"}}
+  ]
+}

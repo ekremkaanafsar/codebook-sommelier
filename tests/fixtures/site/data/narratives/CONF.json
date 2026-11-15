@@ -1,0 +1,26 @@
+{
+ "landscape": [
+  "Fixture landscape paragraph one for CONF.",
+  "Fixture landscape paragraph two for CONF."
+ ],
+ "core": [
+  {
+   "id": "CONF-001",
+   "text": "Fixture core paragraph for CONF-001."
+  },
+  {
+   "id": "CONF-002",
+   "text": "Fixture core paragraph for CONF-002."
+  },
+  {
+   "id": "CONF-003",
+   "text": "Fixture core paragraph for CONF-003."
+  }
+ ],
+ "choosing": [
+  "Fixture advice on choosing among CONF datasets."
+ ],
+ "gaps": [
+  "Fixture gaps paragraph for CONF."
+ ]
+}

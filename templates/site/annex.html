@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}{{ title }} | {{ site_title }}{% endblock %}
+{% block description %}{{ intro }}{% endblock %}
+{% block canonical %}{{ u('annex', slug) }}{% endblock %}
+{% block body_class %}annex{% endblock %}
+{% block main %}
+<nav class="crumbs" aria-label="Breadcrumb"><a href="{{ home_url }}">Home</a></nav>
+<header class="page-head">
+  <h1>{{ title }}</h1>
+  <p>{{ intro }} {{ rows | length }} entries. See also <a href="{{ u('annex', 'archives' if slug == 'literature' else 'literature') }}">{{ 'primary-source archives' if slug == 'literature' else 'literature databases' }}</a>.</p>
+</header>
+<div class="table-wrap">
+<table class="data annex-table">
+  <thead><tr><th scope="col">Name</th><th scope="col">Provider</th><th scope="col">Address</th><th scope="col">Description</th><th scope="col">Access</th><th scope="col">Subfields</th><th scope="col">Institutional access</th></tr></thead>
+  <tbody>
+    {% for r in rows %}
+    <tr>
+      <th scope="row">{{ r.name | t }}</th>
+      <td>{{ r.provider | clip(160) | t }}</td>
+      <td class="url">{{ r.url | lk }}</td>
+      <td>{{ r.description | t }}</td>
+      <td>{{ r.access_level | t }}</td>
+      <td>{% for c in r.domains %}<a href="{{ u('domain', c) }}">{{ c }}</a>{{ ' ' if not loop.last }}{% endfor %}</td>
+      <td>{{ r.institutional_access_note | clip(300) | t }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+</div>
+{% endblock %}

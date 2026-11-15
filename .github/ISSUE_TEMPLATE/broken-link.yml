@@ -1,0 +1,26 @@
+name: Broken link
+description: Report a link in the catalog that does not work.
+title: "Broken link: "
+labels: ["broken link"]
+body:
+  - type: input
+    id: dataset_id
+    attributes:
+      label: Dataset id
+      description: The id shown on the dataset page, for example REG-001.
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: The link that fails.
+    validations:
+      required: true
+  - type: textarea
+    id: what_happens
+    attributes:
+      label: What happens
+      description: For example an error code, a redirect to another site, or a page with different content. Add a replacement link if you know one.
+    validations:
+      required: true

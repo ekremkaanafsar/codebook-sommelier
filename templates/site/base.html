@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ site_title }}{% endblock %}</title>
+<meta name="description" content="{% block description %}{{ author.get('subtitle', '') }}{% endblock %}">
+<link rel="canonical" href="{% block canonical %}{{ home_url }}{% endblock %}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ site_title }}">
+<meta property="og:title" content="{{ self.title() }}">
+<meta property="og:description" content="{{ self.description() }}">
+<meta property="og:url" content="{{ self.canonical() }}">
+<meta name="color-scheme" content="light dark">
+<link rel="stylesheet" href="{{ asset('site.css') }}">
+{% block head %}{% endblock %}
+</head>
+<body class="{% block body_class %}{% endblock %}">
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="brand" href="{{ home_url }}">{{ site_title }}</a>
+    <nav aria-label="Main">
+      <ul class="nav">
+        {% if u('explore') %}<li><a href="{{ u('explore') }}">Explore</a></li>{% endif %}
+        <li><a href="{{ home_url }}#subfields">Subfields</a></li>
+        {% if u('compare') %}<li><a href="{{ u('compare') }}">Compare</a></li>{% endif %}
+        {% if u('network') %}<li><a href="{{ u('network') }}">Network</a></li>{% endif %}
+        {% if u('methods') %}<li><a href="{{ u('methods') }}">Methods</a></li>{% endif %}
+      </ul>
+    </nav>
+    {% if u('explore') %}
+    <form class="search" role="search" aria-label="Search the catalog" action="{{ u('explore') }}" method="get">
+      <label class="vh" for="q-head">Search the catalog</label>
+      <input id="q-head" name="q" type="search" placeholder="Search datasets" autocomplete="off">
+    </form>
+    {% endif %}
+  </div>
+</header>
+<main id="main" class="wrap">
+{% block main %}{% endblock %}
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <p>{{ site_title }}{% if author.get('version') %}, version {{ author['version'] }}{% endif %}. Compiled by {{ author.get('name', '') }}{% if author.get('orcid') %} (ORCID <a href="https://orcid.org/{{ author['orcid'] }}">{{ author['orcid'] }}</a>){% endif %}.{% if author.get('doi') %} DOI <a href="https://doi.org/{{ author['doi'] }}">{{ author['doi'] }}</a>.{% endif %}</p>
+    <p class="foot-nav">{% if u('methods') %}<a href="{{ u('methods') }}">Methods</a>{% endif %}{% if u('annex') %} &middot; <a href="{{ u('annex', 'literature') }}">Literature databases</a> &middot; <a href="{{ u('annex', 'archives') }}">Primary-source archives</a>{% endif %}</p>
+    <p>Catalog data: <a href="{{ licence[1] }}" rel="license">{{ licence[0] }}</a>. Code: {{ code_licence }}. Built {{ build_date }}.{% if repo_url %} <a href="{{ repo_url }}">Source repository</a> &middot; <a href="{{ repo_url }}/issues/new">Report a problem</a>.{% endif %}</p>
+  </div>
+</footer>
+{% block scripts %}{% endblock %}
+</body>
+</html>

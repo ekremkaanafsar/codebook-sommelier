@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this catalog, please cite it as below."
+title: "Political Science Data Catalog"
+abstract: "A verified, citable guide to datasets across political science, with one row per dataset, a quality rubric, a citation record and a co-usage network."
+type: dataset
+authors:
+  - family-names: "Afşar"
+    given-names: "Ekrem Kaan"
+    orcid: "https://orcid.org/0009-0007-6936-6392"
+version: "1.1"
+date-released: 2026-11-11
+doi: 10.5281/zenodo.24137498
+license: CC-BY-4.0
+keywords:
+  - political science
+  - data catalog
+  - datasets
+  - research data
+comment: "The DOI is the Zenodo concept (all-versions) DOI and resolves to the latest version. The data are licensed CC BY 4.0 (LICENSE-DATA); the code is licensed MIT (LICENSE)."

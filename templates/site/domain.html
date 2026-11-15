@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+{% block title %}{{ d.name }} | {{ site_title }}{% endblock %}
+{% block description %}{% if core %}{{ d.count }} political science datasets on {{ d.name | lower }}: the core canon, how to choose among competing measures, and known gaps.{% else %}{{ d.count }} political science dataset{{ '' if d.count == 1 else 's' }} on {{ d.name | lower }}.{% endif %}{% endblock %}
+{% block canonical %}{{ u('domain', d.code) }}{% endblock %}
+{% block body_class %}domain dom-{{ d.code }}{% endblock %}
+{% block main %}
+<nav class="crumbs" aria-label="Breadcrumb"><a href="{{ home_url }}">Home</a> <span aria-hidden="true">/</span> <a href="{{ home_url }}#subfields">Subfields</a></nav>
+<header class="page-head">
+  <p class="kicker"><span class="badge dom-{{ d.code }}">{{ d.code }}</span> Subfield {{ d.num }} of 21</p>
+  <h1>{{ d.name }}</h1>
+  <p class="meta">{{ d.count }} dataset{{ '' if d.count == 1 else 's' }} with this primary subfield{% if n_secondary %}; {{ n_secondary }} more list it as a secondary subfield{% endif %}.{% if u('explore') %} <a href="{{ u('explore') }}#sub={{ d.code }}">Filter them in the explorer</a>.{% endif %}</p>
+</header>
+
+{% if not narr %}
+<p class="notice">This subfield has not been compiled yet{% if rows %}; the entries below were added while compiling other subfields{% endif %}.</p>
+{% else %}
+<section class="prose" aria-labelledby="landscape-h">
+  <h2 id="landscape-h">Overview of the data</h2>
+  {% for p in narr.get('landscape', []) %}<p>{{ p | t }}</p>
+  {% endfor %}
+</section>
+
+{% if core %}
+<section aria-labelledby="core-h">
+  <h2 id="core-h">Core datasets</h2>
+  <div class="core-list">
+    {% for c in core %}
+    <article class="core card dom-{{ c.row.primary_domain }}" id="core-{{ c.row.id }}">
+      <h3><a href="{{ u('dataset', c.row.id) }}">{{ c.row.name | t }}</a>{% if c.row.acronym | acr %} <span class="acr">{{ c.row.acronym | acr }}</span>{% endif %}</h3>
+      {% if c.oneline %}<p class="best"><span class="lbl">Best used for:</span> {{ c.oneline | t }}</p>{% endif %}
+      {% if c.text %}<p>{{ c.text | t }}</p>{% endif %}
+      {% if c.alongside %}
+      <p class="alongside"><span class="lbl">Used alongside:</span>
+        {% for id, name in c.alongside %}<a href="{{ u('dataset', id) }}">{{ name | t }}</a>{{ '; ' if not loop.last }}{% endfor %}</p>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+{% if narr.get('choosing') %}
+<section class="prose" aria-labelledby="choosing-h">
+  <h2 id="choosing-h">Choosing among datasets</h2>
+  {% for p in narr['choosing'] %}<p>{{ p | t }}</p>
+  {% endfor %}
+</section>
+{% endif %}
+{% endif %}
+
+{% if groups %}
+<section aria-labelledby="groups-h">
+  <h2 id="groups-h">Competing measures</h2>
+  <ul class="groups">
+    {% for g in groups %}
+    <li>{% if u('compare') %}<a href="{{ u('compare', g.slug) }}">{{ g.group | t }}</a>{% else %}<strong>{{ g.group | t }}</strong>{% endif %}{% if has(g.concept) %}: {{ g.concept | t }}{% endif %} <span class="meta">({{ g.id_list | length }} datasets)</span></li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+{% if narr and narr.get('gaps') %}
+<section class="prose" aria-labelledby="gaps-h">
+  <h2 id="gaps-h">Gaps and open problems</h2>
+  {% for p in narr['gaps'] %}<p>{{ p | t }}</p>
+  {% endfor %}
+</section>
+{% endif %}
+
+{% if rows %}
+<section aria-labelledby="all-h">
+  <h2 id="all-h">All {{ rows | length }} datasets, A to Z</h2>
+  <ul class="ds-list">
+    {% for r in rows %}
+    <li class="ds-item"><a href="{{ u('dataset', r.id) }}">{{ r.name | t }}</a>{% if r.acronym | acr %} <span class="acr">{{ r.acronym | acr }}</span>{% endif %}</li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+{% endblock %}

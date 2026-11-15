@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/W2000000001",
+  "doi": "https://doi.org/10.1111/j.1540-5907.2006.00198.x",
+  "display_name": "An Example Article About Democracy",
+  "publication_year": 2006,
+  "type": "article",
+  "cited_by_count": 42,
+  "counts_by_year": [
+    {"year": 2024, "cited_by_count": 10},
+    {"year": 2023, "cited_by_count": 12}
+  ],
+  "authorships": [
+    {"author": {"display_name": "Julia Partheymüller"}},
+    {"author": {"display_name": "Jane Q. Smith"}}
+  ]
+}

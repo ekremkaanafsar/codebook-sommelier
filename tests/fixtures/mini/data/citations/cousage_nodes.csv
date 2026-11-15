@@ -1,0 +1,7 @@
+id,name,primary_domain,n_citing,n_citing_polisci,degree,weighted_degree,eigenvector,betweenness,community,top5
+REG-001,Varieties of Democracy (V-Dem) Country-Year Dataset,REG,100,50,3,0.5,0.9,0.0,0,REG-002;REG-003;REG-009
+REG-002,Historical Varieties of Democracy (Historical V-Dem),REG,99,49,3,0.6,0.8,0.01,1,REG-001;REG-003;REG-009
+REG-003,Regimes of the World (RoW),REG,98,48,3,0.7,0.7,0.02,0,REG-001;REG-002;REG-009
+REG-009,Freedom in the World,REG,97,47,3,0.8,0.6000000000000001,0.03,1,REG-001;REG-002;REG-003
+REG-014,Boix-Miller-Rosato Dichotomous Coding of Democracy,REG,96,46,3,0.9,0.5,0.04,0,REG-001;REG-002;REG-003
+REG-007,Polity5: Political Regime Characteristics and Transitions,REG,95,45,3,1.0,0.4,0.05,1,REG-001;REG-002;REG-003

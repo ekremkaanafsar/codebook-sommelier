@@ -1,0 +1,42 @@
+{
+  "landscape": [
+    "Election data form a large and fragmented body of data in political science. At the cross-national level, the field relies on a few long-running archives. The Constituency-Level Elections Archive (CLEA, now The Elections Archive) compiles district results. ParlGov and the National Elections Database compile national party results. Bormann and Golder's Democratic Electoral Systems dataset records electoral rules. NELDA and the Perceptions of Electoral Integrity survey cover the conduct of elections. Around these sit official compilations from International IDEA and IFES. They are broad and current, but they keep little history and rarely publish versioned releases.",
+    "Over the last decade the frontier has moved below the national level and into geography. GRED supplies constituency boundaries. EU-NED and BLUE_EP report European results on statistical regions and municipalities. SAGE, SEED and SLED cover small areas and subnational offices, and country datasets for Germany, Japan, Korea, India, Malaysia, Mexico and Canada have appeared in data journals. In the United States, the MIT Election Data and Science Lab, the Voting and Election Science Team and the redistricting projects (ALARM, Redistricting Data Hub) have made precinct-level results and boundaries routinely available. The newest VEST files, however, are now subscription-only.",
+    "Direct democracy, election administration and electoral rules form smaller but distinct clusters. Many sources there are maintained by intergovernmental organisations or advocacy groups without reference articles or version histories. That explains the large share of Low-confidence rows in this chapter: 58 of 173."
+  ],
+  "core": [
+    {
+      "id": "ELEC-001",
+      "text": "CLEA is widely used for comparative district-level results. According to search results that could not be confirmed on an official page, it has been renamed The Elections Archive (THEA). It records candidate and party votes and seats in lower-chamber constituencies for 189 countries and territories, with a separate upper-chamber archive. Coverage within its 1788-2024 span is uneven, because many countries enter late. Because constituencies change, linking results over time requires its GRED boundary files. Release dates conflict between the project site and ICPSR, so always cite the release you downloaded."
+    },
+    {
+      "id": "ELEC-002",
+      "text": "ParlGov links party-level election results to parties and cabinets for 37 EU and OECD democracies. That makes it a common bridge between elections, party systems and government formation. It is open, versioned and updated irregularly; pre-1945 observations are marked experimental. Party-position variables are imputed from older expert surveys, and Döring and Schwander (2015) show that cabinet partisanship measures are sensitive to such choices."
+    },
+    {
+      "id": "ELEC-005",
+      "text": "Bormann and Golder's Democratic Electoral Systems dataset codes every national legislative and presidential election in democracies. Version 5.0 runs from 1919 to 2020, adding the Bormann-Kaftan interwar extension. It records electoral formula, district magnitude, tiers and effective numbers of parties, and it is a frequent source for rule variables in comparative electoral research. Elections in non-democracies are excluded by design."
+    },
+    {
+      "id": "ELEC-006",
+      "text": "NELDA codes national elections in all independent states from 1945 to 2020 on dozens of yes/no items: whether opposition was allowed, whether monitors were present, whether the incumbent lost, and whether there were protests or boycotts. It is often used as an event-based source on elections in autocracies. Its binary items lose intensity, and Handlin (2017) argues they miss some forms of incumbent abuse. The data are obtained through a request form."
+    },
+    {
+      "id": "ELEC-009",
+      "text": "The Perceptions of Electoral Integrity expert survey rates each national election since mid-2012 across the electoral cycle, from laws and boundaries to counting and results. Version 12.0 covers elections to November 2025. A questionnaire redesign in 2023 broke the series: use the 47-item original index for comparisons over time. Expert response rates are low and falling, so country-election scores can rest on few respondents."
+    },
+    {
+      "id": "ELEC-089",
+      "text": "The MIT Election Data and Science Lab publishes widely used open U.S. returns: federal constituency results from 1976, county presidential results from 2000 and precinct results from 2016, all as versioned Harvard Dataverse files. Precinct units change between elections, and vote-mode rows are kept separate rather than allocated to precincts. For mapped precinct analyses, pair MEDSL with VEST boundaries."
+    }
+  ],
+  "choosing": [
+    "Decide first which level of aggregation the theory needs: national party results, constituencies, or small areas. Then check whether the source's units are stable over time. Constituency- and precinct-level archives almost always need a separate boundary file to build panels, and harmonised regional files (EU-NED, BLUE_EP) trade fidelity to electoral districts for comparability across countries.",
+    "Official and intergovernmental sources (IDEA, IFES, election management bodies) are broad and current but often overwrite their own history. Download and archive the version you use, and record the access date. Academic datasets with DOIs (DES, NELDA, PEI, MEDSL, EU-NED) are preferable for replication."
+  ],
+  "gaps": [
+    "Constituency-level results remain thin for Africa, the Middle East and much of Asia before 2000. The African Elections Database, long the only regional compilation, is offline, and the comparative archives cover these regions unevenly.",
+    "Historical local and municipal elections outside a few countries (Germany, Japan, Canada, the United States) are largely uncatalogued, and few datasets link local results to candidate characteristics.",
+    "Several widely used sources are now harder to reach. The European Election Database is offline, Brancati's Global Elections Database is unobtainable, recent VEST files are paywalled, and CLEA, GRED and Leip's Atlas sit behind bot protection that blocks automated access."
+  ]
+}

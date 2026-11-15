@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+{% block title %}Methods | {{ site_title }}{% endblock %}
+{% block description %}How the catalog was compiled and checked, the quality rubric and its limits, the citation method, licence and how to cite.{% endblock %}
+{% block canonical %}{{ u('methods') }}{% endblock %}
+{% block body_class %}methods{% endblock %}
+{% block main %}
+<nav class="crumbs" aria-label="Breadcrumb"><a href="{{ home_url }}">Home</a></nav>
+<header class="page-head"><h1>Methods</h1>
+  <p class="lede">How the {{ n_rows }} entries were found, checked and scored, and what the scores can and cannot tell you.</p></header>
+
+<div class="prose">
+<section id="discovery" aria-labelledby="disc-h">
+  <h2 id="disc-h">Discovery</h2>
+  <p>Candidates were gathered in five tiers, one subfield at a time. Tier A: research guides written by university librarians in political science, statistics, public opinion, elections, international relations and area studies. Tier B: curated meta-lists and data hubs, and R and Python data packages. Tier C: data repositories such as Harvard Dataverse, ICPSR, GESIS, the UK Data Service and Zenodo. Tier D: replication archives and data articles in the discipline's main journals. Tier E: official producers, including the United Nations system, the World Bank, the IMF, the OECD and electoral bodies. Every guide that lists a dataset is recorded, and the number of distinct university guides is shown on each dataset page as a rough measure of how widely it is recommended.</p>
+</section>
+
+<section id="inclusion" aria-labelledby="incl-h">
+  <h2 id="incl-h">Inclusion criteria</h2>
+  <p>An entry must be systematically collected and documented, with a codebook or methods paper, and be used or usable in peer-reviewed political science research. Open, registration-only, restricted and commercial data are all included, with the access level stated. One-off replication files with no general reuse value and undocumented scrapes are left out. Discontinued datasets stay listed with that status, and a successor is named where there is one. Data portals and licensed products are included as their own resource types; library databases and archives of primary documents are kept apart in the annex tables: <a href="{{ u('annex', 'literature') if u('annex') else home_url }}">literature databases</a> and <a href="{{ u('annex', 'archives') if u('annex') else home_url }}">primary-source archives</a>.</p>
+</section>
+
+<section id="verification" aria-labelledby="ver-h">
+  <h2 id="ver-h">Verification rules</h2>
+  <ul>
+    <li>Each address, DOI, version and coverage figure was taken from an official page opened while compiling the entry, never from memory.</li>
+    <li>A value that could not be confirmed on such a page is marked as not confirmed, with a note saying why.</li>
+    <li>Where the landing page and the codebook disagree, both values are reported.</li>
+    <li>The dataset is kept distinct from its reference article, and the version most cited in the literature is flagged when it is not the latest.</li>
+    <li>Methodological critiques are recorded only when they can be attributed to a published source.</li>
+    <li>Descriptions are written in the compiler's own words, not copied from the producers' sites.</li>
+  </ul>
+</section>
+
+<section id="links" aria-labelledby="links-h">
+  <h2 id="links-h">Link checking</h2>
+  <p>Every landing, download and codebook address is requested with an ordinary browser identification, following redirects, with a 20-second timeout and one retry. The result is shown on the dataset page next to the landing address: working, redirects, blocked by the site, or broken. A refusal such as 401, 403 or 429 is recorded as "blocked by site", not as broken, because many producers turn away automated requests; those links need a manual check. Dataset files themselves are never downloaded.</p>
+</section>
+
+<section id="rubric" aria-labelledby="rubric-h">
+  <h2 id="rubric-h">Quality rubric</h2>
+  <p class="provisional">{{ provisional }}</p>
+  <p>Each dataset is scored from 1 to 5 on eight dimensions. The scores describe fitness for research use, not the compiler's view of a dataset's conclusions. The table gives the anchors for scores 1, 3 and 5; 2 and 4 fall between them.</p>
+  <div class="table-wrap">
+  <table class="data">
+    <thead><tr><th scope="col">Dimension</th><th scope="col">1</th><th scope="col">3</th><th scope="col">5</th></tr></thead>
+    <tbody>
+      {% for dim, one, three, five in rubric %}<tr><th scope="row">{{ dim }}</th><td>{{ one }}</td><td>{{ three }}</td><td>{{ five }}</td></tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  </div>
+  <h3>Limits of the scores</h3>
+  <ul>
+    <li>The scores are noisy. They were assigned in batches, and batch effects are likely: similar evidence may have been scored a little differently in different batches.</li>
+    <li>Validation by human reviewers is pending. Until it is done the scores are provisional and should be read as a first screen, not a verdict.</li>
+    <li>The overall score is the unweighted mean of the eight dimensions, shown for convenience. It is not a ranking, and the site never sorts datasets by it.</li>
+  </ul>
+</section>
+
+<section id="openalex" aria-labelledby="oa-h">
+  <h2 id="oa-h">Citation counts and the co-usage network</h2>
+  {% if oa_method %}<p>{{ oa_method | t }}</p>{% endif %}
+  {% if oa_caveat %}<p>{{ oa_caveat | t }}</p>{% endif %}
+  <p>The resulting <a href="{{ u('network') }}">co-usage network</a> is described on its own page.</p>
+</section>
+
+<section id="licence" aria-labelledby="lic-h">
+  <h2 id="lic-h">Licence</h2>
+  <p>Catalog data are released under <a href="{{ licence[1] }}" rel="license">{{ licence[0] }}</a>. The code that builds the catalog and this site is released under the {{ code_licence }} licence. The datasets described here keep their own licences, which are recorded on each page.</p>
+</section>
+
+<section id="cite" aria-labelledby="cite-h">
+  <h2 id="cite-h">How to cite</h2>
+  <p class="cite-text">{{ catalog_cite }}</p>
+  <p>The DOI is an all-versions DOI that resolves to the latest release. For the exact version, cite the version number above. {{ author.get('name', '') }} compiled the catalog.</p>
+</section>
+</div>
+{% endblock %}

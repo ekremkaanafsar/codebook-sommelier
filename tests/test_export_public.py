@@ -116,7 +116,7 @@ def test_gitleaks_config_exported_keeps_default_rules_and_allowlists_only_known_
     rx = [re.compile(r) for r in allow["regexes"]]
     # assignments are split so this file itself never holds a key-shaped line (privacy_check, gitleaks)
     known = ["api" + "_key = 'abcd1234efgh'", "API" + "_KEY=abcd1234efgh5678",
-             "OPENALEX_API" + "_KEY = AbCd-1234-EfGh", "rl" + "key=4rhdk7qmy8jz31t82v6mnueyy", "API, Snowflake/AWS"]
+             "OPENALEX_API" + "_KEY = AbCd-1234-EfGh", "rlkey=" + "4rhdk7qmy8jz31t82v6mnueyy", "API, Snowflake/AWS"]
     assert all(any(r.search(k) for r in rx) for k in known)
     assert not any(r.search("API" + "_KEY=" + "Zq81kfLm02xVb7Tp") for r in rx)
 

@@ -33,7 +33,7 @@ jobs:
       - run: python scripts/build_site.py --out site
       - run: python -m pytest -q tests/test_build_site.py
       - run: python scripts/privacy_check.py site --ci
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: site
 

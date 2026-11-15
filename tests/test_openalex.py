@@ -1441,3 +1441,15 @@ def test_prose_patch_file_sorts_after_every_other_patch():
     import openalex
     others = ["zz_patch_openalex.json", "zz_patch_wording_2026-11-15.json", "zz_patch_xprose_2026-11-15_3.json"]
     assert sorted(others + [openalex.PROSE_PATCH_FILE])[-1] == openalex.PROSE_PATCH_FILE
+
+
+def test_build_prose_patch_ignores_dated_phrases():
+    from openalex import build_prose_patch
+    rows = [_qrow("REG-001", "A", "Adoption 4: the 2016 article has 588 OpenAlex citations (checked 2026-11) and more."),
+            _qrow("REG-002", "B", "Adoption 5: (Smith et al. 2012, about 2,580 OpenAlex citations; Jones 2014, about "
+                                  "720; checked 2026-11)."),
+            _qrow("REG-003", "C", "Adoption 3: about 20 OpenAlex citations. Checked 2026-11 elsewhere.")]
+    works = {"REG-001": _pwork("REG-001", 102), "REG-002": _pwork("REG-002", 704), "REG-003": _pwork("REG-003", 40)}
+    recs, skipped = build_prose_patch(rows, works)
+    assert [r["name"] for r in recs] == ["C"]  # a date in a later sentence does not count
+    assert skipped == []

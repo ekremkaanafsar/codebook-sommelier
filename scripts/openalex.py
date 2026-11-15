@@ -656,6 +656,7 @@ _PROSE_RE = re.compile(r"(?:(?:about|around|roughly|approximately|nearly|some)\s
 _OTHER_WORK_RE = re.compile(r"\b(?:alone|companion|edition|overview|respectively|et al|dataset DOI|dataset record|"
                             r"articles|papers|method paper|research note|reports?)\b", re.I)
 _CLAUSE_END = ("; ", ". ", ": ")
+_DATED_RE = re.compile(r"checked \d{4}-\d{2}")
 _PROSE_TOLERANCE = 0.10
 
 
@@ -666,18 +667,26 @@ def _clause(text: str, start: int, end: int) -> str:
     return text[lo:hi]
 
 
+def _dated(text: str, end: int) -> bool:
+    """True when 'checked YYYY-MM' follows position `end` before the sentence ends."""
+    stop = text.find(". ", end)
+    return bool(_DATED_RE.search(text[end:stop if stop >= 0 else len(text)]))
+
+
 def build_prose_patch(rows: list[dict], works: dict[str, dict]) -> tuple[list[dict], list[str]]:
     """Records refreshing a stale 'about N OpenAlex citations' in quality_justification, plus the ids left alone.
 
     A phrase is refreshed to the record's exact count when it is the cell's only such phrase, its clause names no
     other work and holds no other number, the record's count is at least the stated one (counts only grow, so a
     lower record means a different work) and the two differ by more than 10 %. Records carry `_replace_if`, so a
-    cell edited since is never overwritten. Stale phrases that fail a condition are returned as skipped ids."""
+    cell edited since is never overwritten. Stale phrases that fail a condition are returned as skipped ids.
+    A phrase followed by "checked YYYY-MM" in the same sentence is a dated snapshot (usually of another work) and
+    is neither refreshed nor reported."""
     out, skipped = [], []
     for r in rows:
         qj = r.get("quality_justification") or ""
         w = works.get(r["id"])
-        phrases = list(_PROSE_RE.finditer(qj))
+        phrases = [m for m in _PROSE_RE.finditer(qj) if not _dated(qj, m.end())]
         if not phrases or not _ok_count(w):
             continue
         current = int(w["cited_by_count"])

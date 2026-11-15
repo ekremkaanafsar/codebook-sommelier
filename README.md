@@ -4,6 +4,8 @@ A catalog of datasets, data portals and licensed data products used in political
 resource contains, how it was built, how to get it, how it is cited and how it can be joined to other data. The
 catalog does not contain the datasets themselves, only descriptions and links.
 
+Website: https://ekremkaanafsar.github.io/codebook-sommelier/
+
 ## What is in it
 
 - 2,269 catalog rows in 21 subfield domains (regimes, elections, parties, legislatures, conflict, public opinion,
@@ -21,7 +23,8 @@ accuracy rules and inclusion criteria) is described in [`PROTOCOL.md`](PROTOCOL.
 
 ## How to browse
 
-- The static site is built from the data in this repository (see "How to build"). Its home page lists the domains;
+- The website (https://ekremkaanafsar.github.io/codebook-sommelier/) is built from the data in this repository
+  (see "How to build"). Its home page lists the domains;
   `explore/` holds the filterable table with text search, and each dataset has its own page under `datasets/`.
   The site address is set in `data/site_config.json` (`base_url`, `repo_url`).
 - The raw table is `data/catalog.csv` (UTF-8, one row per resource, header row as the schema).
@@ -63,7 +66,7 @@ writes, because they look for it only at the host root; submit `sitemap.xml` in 
 
 ## How to report a correction
 
-Open an issue and choose a template:
+[Open an issue](https://github.com/ekremkaanafsar/codebook-sommelier/issues/new/choose) and choose a template:
 
 - Correction: a wrong or outdated value in a row (give the dataset id, the field, the current and proposed values
   and a source URL).

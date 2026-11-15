@@ -161,7 +161,7 @@
     {{ item('Last verified', row.last_verified_on) }}
     {{ item('Confidence', row.confidence) }}
   </dl>
-  {% if has(row.unverified_notes) %}<details><summary>Verification notes</summary><p>{{ row.unverified_notes | t }}</p></details>{% endif %}
+  {% if has(row.unverified_notes) %}<details><summary>Verification notes</summary><p class="meta">Figures in these notes are as of the check date{% if work %}; the current OpenAlex count is under <a href="#citations">Citations</a>{% endif %}.</p><p>{{ row.unverified_notes | t }}</p></details>{% endif %}
   {% if report_url %}<p class="report"><a href="{{ report_url }}">Report a problem with this entry</a></p>{% endif %}
 </section>
 {% endblock %}

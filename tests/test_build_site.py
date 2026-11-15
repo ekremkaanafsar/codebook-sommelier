@@ -873,3 +873,11 @@ def test_llms_txt_links_only_existing_pages(built):
         f = out / path.lstrip("/")
         assert (f / "index.html").is_file() if path.endswith("/") else f.is_file(), target
     assert "api/datasets/<ID>.json" in t
+
+
+def test_verification_notes_say_their_figures_are_dated(built):
+    _, out = built
+    html = _page(out, "datasets", "REG-001")
+    seg = html[html.index("<summary>Verification notes</summary>"):]
+    seg = seg[:seg.index("</details>")]
+    assert "as of the check date" in seg and 'href="#citations"' in seg

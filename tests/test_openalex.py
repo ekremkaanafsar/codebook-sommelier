@@ -1249,7 +1249,7 @@ def test_run_patch_writes_one_rolling_file_and_overwrites_it(tmp_citations, tmp_
                [("REG-001", "REG", "ok", 5), ("REG-002", "REG", "ok", 6)])
     assert main(["patch"]) == 0
     files = sorted(p.name for p in (tmp_path / "research").iterdir())
-    assert files == ["zz_patch_openalex.json"]
+    assert files == ["zz_patch_openalex.json", "zz_patch_zz_openalex_prose.json"]  # counts, then prose refresh
     path = tmp_path / "research" / "zz_patch_openalex.json"
     assert [r["name"] for r in json.loads(path.read_text(encoding="utf-8"))] == ["A", "B"]
     _patch_env(tmp_path, monkeypatch, [_prow("REG-001", "A", "5 (OpenAlex, checked 2026-11)"),
@@ -1258,7 +1258,8 @@ def test_run_patch_writes_one_rolling_file_and_overwrites_it(tmp_citations, tmp_
     assert main(["patch", "--ids", "REG-001"]) == 0  # the rolling file always covers the whole catalog
     recs = json.loads(path.read_text(encoding="utf-8"))
     assert [r["name"] for r in recs] == ["A", "B"] and recs[1]["_replace"] == ["citation_count"]
-    assert sorted(p.name for p in (tmp_path / "research").iterdir()) == ["zz_patch_openalex.json"]
+    assert sorted(p.name for p in (tmp_path / "research").iterdir()) == ["zz_patch_openalex.json",
+                                                                         "zz_patch_zz_openalex_prose.json"]
 
 
 def test_rolling_patch_round_trip_through_merge(tmp_path):
@@ -1404,3 +1405,39 @@ def test_unchanged_records_keep_the_rows_last_verified_on():
     before = dict(full)
     mr.merge_into(full, recs[0])
     assert full == before
+
+
+# ---------------------------------------------------------------- stale OpenAlex counts in quality justifications
+def _qrow(i, name, qj):
+    return {"id": i, "name": name, "primary_domain": "REG", "resource_type": "1", "quality_justification": qj}
+
+
+def test_build_prose_patch_refreshes_only_unambiguous_stale_counts():
+    from openalex import build_prose_patch
+    rows = [
+        _qrow("REG-001", "A", "Validity 4: x. Adoption 4: the reference article has about 1,540 OpenAlex citations, "
+                              "but reuse is narrow."),                                          # stale, unambiguous
+        _qrow("REG-002", "B", "Adoption 4: about 1,000 OpenAlex citations."),                   # within 10 %
+        _qrow("REG-003", "C", "Adoption 4: the 2002 and 2018 articles have about 548 and 161 OpenAlex citations."),
+        _qrow("REG-004", "D", "Adoption 2: the reference article has 39 OpenAlex citations."),  # record lower
+        _qrow("REG-005", "E", "Adoption 4: the feed paper alone has about 366 OpenAlex citations."),
+        _qrow("REG-006", "F", "Adoption 3: about 20 OpenAlex citations."),                      # work not ok
+        _qrow("REG-007", "G", "Adoption 3: about 19 OpenAlex citations to the dataset record."),
+    ]
+    works = {"REG-001": _pwork("REG-001", 1758), "REG-002": _pwork("REG-002", 1050),
+             "REG-003": _pwork("REG-003", 900), "REG-004": _pwork("REG-004", 3),
+             "REG-005": _pwork("REG-005", 485), "REG-006": _pwork("REG-006", 40, status="no_match"),
+             "REG-007": _pwork("REG-007", 39)}
+    recs, skipped = build_prose_patch(rows, works)
+    assert recs == [{"name": "A", "resource_type": "1",
+                     "quality_justification": "Validity 4: x. Adoption 4: the reference article has 1,758 OpenAlex "
+                                              "citations, but reuse is narrow.",
+                     "_replace": ["quality_justification"],
+                     "_replace_if": {"quality_justification": rows[0]["quality_justification"]}}]
+    assert sorted(skipped) == ["REG-003", "REG-004", "REG-005", "REG-007"]
+
+
+def test_prose_patch_file_sorts_after_every_other_patch():
+    import openalex
+    others = ["zz_patch_openalex.json", "zz_patch_wording_2026-11-15.json", "zz_patch_xprose_2026-11-15_3.json"]
+    assert sorted(others + [openalex.PROSE_PATCH_FILE])[-1] == openalex.PROSE_PATCH_FILE

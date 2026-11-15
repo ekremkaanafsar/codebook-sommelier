@@ -648,6 +648,55 @@ def build_relabel_patch(rows: list[dict], today: str) -> list[dict]:
             for r in rows if is_legacy_count(r.get("citation_count") or "")]
 
 
+# Quality justifications cite "about N OpenAlex citations" as evidence for the Adoption score. The phrase is
+# refreshed from the works record only when it can only mean that record's work; anything that may refer to
+# another work (a companion paper, an edition, two articles, a dataset DOI) is reported and left alone.
+PROSE_PATCH_FILE = "zz_patch_zz_openalex_prose.json"  # rolling; sorts after every other patch file
+_PROSE_RE = re.compile(r"(?:(?:about|around|roughly|approximately|nearly|some)\s+)?(\d[\d,]*) OpenAlex citations")
+_OTHER_WORK_RE = re.compile(r"\b(?:alone|companion|edition|overview|respectively|et al|dataset DOI|dataset record|"
+                            r"articles|papers|method paper|research note|reports?)\b", re.I)
+_CLAUSE_END = ("; ", ". ", ": ")
+_PROSE_TOLERANCE = 0.10
+
+
+def _clause(text: str, start: int, end: int) -> str:
+    """The clause around text[start:end], bounded by '; ', '. ' or ': ' (or the ends of the text)."""
+    lo = max((text.rfind(b, 0, start) + len(b) for b in _CLAUSE_END if text.rfind(b, 0, start) >= 0), default=0)
+    hi = min((i for i in (text.find(b, end) for b in _CLAUSE_END) if i >= 0), default=len(text))
+    return text[lo:hi]
+
+
+def build_prose_patch(rows: list[dict], works: dict[str, dict]) -> tuple[list[dict], list[str]]:
+    """Records refreshing a stale 'about N OpenAlex citations' in quality_justification, plus the ids left alone.
+
+    A phrase is refreshed to the record's exact count when it is the cell's only such phrase, its clause names no
+    other work and holds no other number, the record's count is at least the stated one (counts only grow, so a
+    lower record means a different work) and the two differ by more than 10 %. Records carry `_replace_if`, so a
+    cell edited since is never overwritten. Stale phrases that fail a condition are returned as skipped ids."""
+    out, skipped = [], []
+    for r in rows:
+        qj = r.get("quality_justification") or ""
+        w = works.get(r["id"])
+        phrases = list(_PROSE_RE.finditer(qj))
+        if not phrases or not _ok_count(w):
+            continue
+        current = int(w["cited_by_count"])
+        stale = [m for m in phrases if abs(int(m.group(1).replace(",", "")) - current) > _PROSE_TOLERANCE * current]
+        if not stale:
+            continue
+        m = stale[0]
+        stated = int(m.group(1).replace(",", ""))
+        clause = _clause(qj, m.start(), m.end())
+        rest = clause.replace(m.group(0), "", 1)
+        if len(phrases) > 1 or current < stated or _OTHER_WORK_RE.search(clause) or re.search(r"\d", rest):
+            skipped.append(r["id"])
+            continue
+        new = qj[:m.start()] + f"{current:,} OpenAlex citations" + qj[m.end():]
+        out.append({"name": r["name"], "resource_type": r["resource_type"], "quality_justification": new,
+                    "_replace": ["quality_justification"], "_replace_if": {"quality_justification": qj}})
+    return out, skipped
+
+
 def _write_patch(name: str, records: list[dict]):
     RESEARCH_DIR.mkdir(parents=True, exist_ok=True)
     path = RESEARCH_DIR / name
@@ -684,6 +733,12 @@ def run_patch(ids=None, domain=None, allow_partial=False, today=None) -> int:
     print(f"patch: {len(oa)} OpenAlex count record(s) -> {p1} "
           f"(fill {stats['fill']}, refresh {stats['refresh']}, unchanged {stats['unchanged']}, "
           f"withdraw {stats['withdraw']})")
+    prose, prose_skipped = build_prose_patch(select_rows(catalog), works)
+    p3 = _write_patch(PROSE_PATCH_FILE, prose)
+    print(f"patch: {len(prose)} quality_justification count refresh(es) -> {p3}")
+    if prose_skipped:
+        print(f"patch: {len(prose_skipped)} stale 'OpenAlex citations' phrase(s) may cite another work and were "
+              f"left for review: {', '.join(prose_skipped)}")
     if gs:
         p2 = _write_patch(f"zz_patch_gs_relabel_{today}.json", gs)
         print(f"patch: {len(gs)} Google Scholar relabel record(s) -> {p2}")

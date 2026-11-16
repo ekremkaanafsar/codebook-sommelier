@@ -1262,6 +1262,31 @@ def test_run_patch_writes_one_rolling_file_and_overwrites_it(tmp_citations, tmp_
                                                                          "zz_patch_zz_openalex_prose.json"]
 
 
+def test_run_patch_keeps_earlier_prose_refreshes(tmp_citations, tmp_path, monkeypatch, capsys):
+    # once merged, an earlier refresh is no longer stale in the catalog; dropping its record would let the next
+    # merge restore the old figure from the research file it came from
+    _patch_env(tmp_path, monkeypatch, [_prow("REG-001", "A", "")], [("REG-001", "REG", "ok", 5)])
+    path = tmp_path / "research" / openalex.PROSE_PATCH_FILE
+    path.parent.mkdir(parents=True, exist_ok=True)
+    old = {"name": "A", "resource_type": "1", "quality_justification": "Adoption 4: 1,758 OpenAlex citations.",
+           "_replace": ["quality_justification"],
+           "_replace_if": {"quality_justification": "Adoption 4: about 1,540 OpenAlex citations."}}
+    path.write_text(json.dumps([old]), encoding="utf-8")
+    assert main(["patch"]) == 0
+    assert json.loads(path.read_text(encoding="utf-8")) == [old]
+    assert main(["patch"]) == 0  # running it again adds no duplicate
+    assert json.loads(path.read_text(encoding="utf-8")) == [old]
+
+
+def test_merge_prose_records_appends_new_after_old_and_drops_duplicates():
+    a = {"name": "A", "resource_type": "1", "quality_justification": "v1", "_replace": ["quality_justification"],
+         "_replace_if": {"quality_justification": "v0"}}
+    a2 = {**a, "quality_justification": "v2", "_replace_if": {"quality_justification": "v1"}}  # chains off v1
+    b = {**a, "name": "B"}
+    assert openalex.merge_prose_records([a], [a, b]) == [a, b]
+    assert openalex.merge_prose_records([a, b], [a2]) == [a, b, a2]
+
+
 def test_rolling_patch_round_trip_through_merge(tmp_path):
     import merge_records as mr
     from schema import COLUMNS

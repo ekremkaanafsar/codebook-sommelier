@@ -706,6 +706,26 @@ def build_prose_patch(rows: list[dict], works: dict[str, dict]) -> tuple[list[di
     return out, skipped
 
 
+def merge_prose_records(existing: list[dict], new: list[dict]) -> list[dict]:
+    """The prose patch file is cumulative: earlier records stay, new ones follow in order, exact repeats drop.
+
+    A merged refresh is no longer stale in the catalog, so the next run does not rebuild it; dropping it would let
+    the following merge restore the old figure from the research file it came from. A later record for the same row
+    chains off the earlier one through `_replace_if`, so file order is merge order."""
+    out = list(existing)
+    for rec in new:
+        if rec not in out:
+            out.append(rec)
+    return out
+
+
+def _read_patch(name: str) -> list[dict]:
+    path = RESEARCH_DIR / name
+    if not path.exists():
+        return []
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
 def _write_patch(name: str, records: list[dict]):
     RESEARCH_DIR.mkdir(parents=True, exist_ok=True)
     path = RESEARCH_DIR / name
@@ -743,8 +763,9 @@ def run_patch(ids=None, domain=None, allow_partial=False, today=None) -> int:
           f"(fill {stats['fill']}, refresh {stats['refresh']}, unchanged {stats['unchanged']}, "
           f"withdraw {stats['withdraw']})")
     prose, prose_skipped = build_prose_patch(select_rows(catalog), works)
-    p3 = _write_patch(PROSE_PATCH_FILE, prose)
-    print(f"patch: {len(prose)} quality_justification count refresh(es) -> {p3}")
+    kept = _read_patch(PROSE_PATCH_FILE)
+    p3 = _write_patch(PROSE_PATCH_FILE, merge_prose_records(kept, prose))
+    print(f"patch: {len(prose)} new quality_justification count refresh(es), {len(kept)} kept -> {p3}")
     if prose_skipped:
         print(f"patch: {len(prose_skipped)} stale 'OpenAlex citations' phrase(s) may cite another work and were "
               f"left for review: {', '.join(prose_skipped)}")

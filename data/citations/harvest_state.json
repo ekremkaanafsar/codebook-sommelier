@@ -197,6 +197,15 @@
   "n": 87,
   "truncated": false
  },
+ "W1592156539": {
+  "checked_on": "2026-11-16",
+  "done": true,
+  "ids": [
+   "ELEC-074"
+  ],
+  "n": 48,
+  "truncated": false
+ },
  "W1601527364": {
   "checked_on": "2026-11-12",
   "done": true,
@@ -1632,6 +1641,15 @@
   "n": 145,
   "truncated": false
  },
+ "W2103271122": {
+  "checked_on": "2026-11-16",
+  "done": true,
+  "ids": [
+   "IR-050"
+  ],
+  "n": 331,
+  "truncated": false
+ },
  "W2103336588": {
   "checked_on": "2026-11-11",
   "done": true,
@@ -2101,6 +2119,15 @@
    "CONST-066"
   ],
   "n": 221,
+  "truncated": false
+ },
+ "W2131770423": {
+  "checked_on": "2026-11-16",
+  "done": true,
+  "ids": [
+   "PARTY-033"
+  ],
+  "n": 310,
   "truncated": false
  },
  "W2132102799": {
@@ -2958,6 +2985,15 @@
   "n": 78,
   "truncated": false
  },
+ "W2324748439": {
+  "checked_on": "2026-11-16",
+  "done": true,
+  "ids": [
+   "LEG-072"
+  ],
+  "n": 437,
+  "truncated": false
+ },
  "W2325677953": {
   "checked_on": "2026-11-11",
   "done": true,
@@ -3047,6 +3083,15 @@
    "ELEC-082"
   ],
   "n": 118,
+  "truncated": false
+ },
+ "W2341493621": {
+  "checked_on": "2026-11-16",
+  "done": true,
+  "ids": [
+   "PE-098"
+  ],
+  "n": 563,
   "truncated": false
  },
  "W2342283848": {
@@ -6752,6 +6797,15 @@
   "n": 3,
   "truncated": false
  },
+ "W4205137005": {
+  "checked_on": "2026-11-16",
+  "done": true,
+  "ids": [
+   "IDENT-098"
+  ],
+  "n": 12,
+  "truncated": false
+ },
  "W4205584843": {
   "checked_on": "2026-11-11",
   "done": true,
@@ -6831,6 +6885,15 @@
    "HR-049"
   ],
   "n": 160,
+  "truncated": false
+ },
+ "W4210343982": {
+  "checked_on": "2026-11-16",
+  "done": true,
+  "ids": [
+   "TEXT-009"
+  ],
+  "n": 96,
   "truncated": false
  },
  "W4210698538": {
@@ -7254,6 +7317,15 @@
    "OPIN-150"
   ],
   "n": 145,
+  "truncated": false
+ },
+ "W4241140224": {
+  "checked_on": "2026-11-16",
+  "done": true,
+  "ids": [
+   "ENV-033"
+  ],
+  "n": 95,
   "truncated": false
  },
  "W4241249701": {
@@ -8336,15 +8408,6 @@
   "n": 12,
   "truncated": false
  },
- "W4381851911": {
-  "checked_on": "2026-11-11",
-  "done": true,
-  "ids": [
-   "PE-098"
-  ],
-  "n": 90,
-  "truncated": false
- },
  "W4382404039": {
   "checked_on": "2026-11-11",
   "done": true,
@@ -8767,6 +8830,15 @@
    "PE-004"
   ],
   "n": 500,
+  "truncated": false
+ },
+ "W4394687601": {
+  "checked_on": "2026-11-16",
+  "done": true,
+  "ids": [
+   "OPIN-033"
+  ],
+  "n": 3,
   "truncated": false
  },
  "W4394824498": {
@@ -9226,15 +9298,6 @@
    "OPIN-040"
   ],
   "n": 6,
-  "truncated": false
- },
- "W4405843222": {
-  "checked_on": "2026-11-11",
-  "done": true,
-  "ids": [
-   "TEXT-009"
-  ],
-  "n": 33,
   "truncated": false
  },
  "W4405956026": {
@@ -9787,15 +9850,6 @@
   "n": 5,
   "truncated": false
  },
- "W4415285623": {
-  "checked_on": "2026-11-11",
-  "done": true,
-  "ids": [
-   "ENV-033"
-  ],
-  "n": 21,
-  "truncated": false
- },
  "W4415363101": {
   "checked_on": "2026-11-11",
   "done": true,
@@ -9967,6 +10021,15 @@
   "n": 349,
   "truncated": false
  },
+ "W645519853": {
+  "checked_on": "2026-11-16",
+  "done": true,
+  "ids": [
+   "HIST-082"
+  ],
+  "n": 54,
+  "truncated": false
+ },
  "W649056258": {
   "checked_on": "2026-11-11",
   "done": true,
@@ -9993,15 +10056,6 @@
    "POLICY-062"
   ],
   "n": 1,
-  "truncated": false
- },
- "W6902617581": {
-  "checked_on": "2026-11-11",
-  "done": true,
-  "ids": [
-   "PARTY-033"
-  ],
-  "n": 67,
   "truncated": false
  },
  "W6903300936": {

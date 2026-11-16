@@ -168,6 +168,23 @@ def test_home_page(built):
     assert "CC BY 4.0" in html
 
 
+def test_google_site_verification_only_on_home_page(site_fixture, tmp_path):
+    cfg = site_fixture / "data" / "site_config.json"
+    data = json.loads(cfg.read_text(encoding="utf-8"))
+    data["google_site_verification"] = "Tok_en-123"
+    cfg.write_text(json.dumps(data), encoding="utf-8")
+    out = tmp_path / "out"
+    bs.build(site_fixture, out)
+    tag = '<meta name="google-site-verification" content="Tok_en-123">'
+    assert tag in (out / "index.html").read_text(encoding="utf-8")
+    assert "google-site-verification" not in _page(out, "datasets", "REG-001")
+
+
+def test_no_google_site_verification_without_config(built):
+    _, out = built
+    assert "google-site-verification" not in (out / "index.html").read_text(encoding="utf-8")
+
+
 def test_build_without_sidecars_succeeds(site_fixture_minimal, tmp_path):
     r = bs.build(site_fixture_minimal, tmp_path / "out")
     assert r.pages["dataset"] == 12
